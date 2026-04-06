@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PSYCH QBANK</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0b0d14; --surface: #11141e; --surface2: #181c28;
+  --border: #1f2536; --text: #c5cad8; --text2: #7a8298;
+  --accent: #5b9cf6; --green: #34d399; --red: #f87171;
+  --amber: #fbbf24; --font: 'Source Sans 3', sans-serif;
+  --mono: 'JetBrains Mono', monospace;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:var(--font); background:var(--bg); color:var(--text); min-height:100vh; }
+.wrap { max-width:820px; margin:0 auto; padding:12px 16px; }
+
+/* Header */
+.hdr { display:flex; justify-content:space-between; align-items:center; padding:14px 0; border-bottom:1px solid var(--border); margin-bottom:18px; }
+.hdr h1 { font-family:var(--mono); font-size:17px; font-weight:600; color:#e8ebf0; letter-spacing:2px; }
+.hdr small { font-size:11px; color:var(--text2); }
+
+/* Buttons */
+.btn { background:var(--surface2); color:var(--text2); border:1px solid var(--border); border-radius:8px; padding:10px 18px; cursor:pointer; font:500 14px var(--font); transition:all .15s; }
+.btn:hover { border-color:var(--accent); color:var(--accent); }
+.btn-primary { background:#1a3355; color:var(--accent); border-color:#2a5080; }
+.btn-danger { background:#331a1a; color:var(--red); border-color:#802a2a; }
+.btn-full { width:100%; padding:14px; font-size:15px; font-weight:600; }
+
+/* Cards */
+.card { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:20px; margin-bottom:14px; }
+
+/* Domain tag */
+.dtag { display:inline-flex; align-items:center; gap:5px; padding:3px 10px; border-radius:16px; font-size:12px; font-weight:600; letter-spacing:.3px; }
+
+/* Stats grid */
+.sgrid { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-bottom:20px; }
+.sbox { text-align:center; padding:14px 8px; }
+.sbox .val { font-size:26px; font-weight:700; font-family:var(--mono); }
+.sbox .lbl { font-size:11px; color:var(--text2); margin-top:2px; }
+
+/* Domain list */
+.dlist { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+.ditem { display:flex; justify-content:space-between; align-items:center; padding:12px 14px; border-radius:10px; cursor:pointer; background:var(--bg); border:1px solid var(--border); font-size:13px; transition:all .12s; }
+.ditem:hover { border-color:var(--accent); }
+.ditem .cnt { font-size:11px; color:var(--text2); }
+
+/* Options */
+.opt { display:block; width:100%; text-align:left; padding:13px 16px; margin-bottom:7px; border-radius:10px; border:2px solid var(--border); background:var(--bg); color:var(--text); cursor:pointer; font:inherit; font-size:14px; line-height:1.5; transition:all .12s; }
+.opt:hover:not(.revealed) { border-color:var(--accent); background:rgba(91,156,246,.06); }
+.opt.selected { border-color:var(--accent); background:rgba(91,156,246,.08); }
+.opt.correct { border-color:var(--green)!important; background:rgba(52,211,153,.08)!important; color:#86efac; }
+.opt.wrong { border-color:var(--red)!important; background:rgba(248,113,113,.08)!important; color:#fca5a5; }
+.opt.dimmed { opacity:.45; }
+.opt .ltr { font-weight:700; margin-right:8px; }
+
+/* Explanations */
+.expl { border-left:4px solid var(--border); padding:14px 16px; margin-bottom:8px; border-radius:0 10px 10px 0; background:var(--surface); }
+.expl.expl-correct { border-color:var(--green); }
+.expl.expl-wrong { border-color:var(--red); }
+.expl .expl-hdr { font-size:12px; font-weight:700; margin-bottom:4px; }
+.expl .expl-txt { font-size:13px; line-height:1.7; color:#a0a8c0; }
+
+.pearl { border-left:4px solid var(--amber); background:#1a1810; padding:14px 16px; border-radius:0 10px 10px 0; margin-bottom:10px; }
+.pearl .pearl-hdr { font-size:12px; font-weight:700; color:var(--amber); margin-bottom:4px; }
+.pearl .pearl-txt { font-size:13px; line-height:1.7; color:#d4c890; }
+.refs { font-size:11px; color:#4a5068; font-style:italic; margin-top:6px; }
+
+/* Progress bar */
+.pbar { height:5px; background:var(--surface2); border-radius:3px; overflow:hidden; margin-bottom:6px; }
+.pbar .fill { height:100%; border-radius:3px; transition:width .3s; }
+
+/* Quiz top bar */
+.qtop { display:flex; justify-content:space-between; align-items:center; margin-bottom:14px; }
+.qtop .meta { font-size:13px; color:var(--text2); font-family:var(--mono); }
+.timer { color:var(--amber); margin-left:10px; }
+
+/* Difficulty dots */
+.diff { font-size:11px; color:var(--text2); }
+
+/* Vignette */
+.vignette { line-height:1.7; font-size:15px; }
+.question-text { font-size:15px; font-weight:600; color:#e8ebf0; margin-bottom:14px; line-height:1.5; }
+
+/* Result */
+.result { font-size:14px; font-weight:700; margin-bottom:14px; }
+.result.ok { color:var(--green); }
+.result.fail { color:var(--red); }
+
+/* Mobile */
+@media(max-width:600px) {
+  .dlist { grid-template-columns:1fr; }
+  .sgrid { grid-template-columns:repeat(3,1fr); gap:6px; }
+  .sbox .val { font-size:22px; }
+}
+
+/* Animations */
+@keyframes fadeIn { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:translateY(0)} }
+.fade-in { animation:fadeIn .25s ease; }
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+<script src="questions.js"></script>
+<script>
+// ══════════════════════════════════════════════════
+// PSYCH QBANK — Standalone Site Engine
+// ══════════════════════════════════════════════════
+
+const LS_KEY = 'psych-qbank-v2';
+const loadState = () => { try { return JSON.parse(localStorage.getItem(LS_KEY)) } catch { return null } };
+const saveState = (s) => { try { localStorage.setItem(LS_KEY, JSON.stringify(s)) } catch {} };
+const defaultState = () => ({ answered: {}, bookmarked: [], mode: 'study' });
+
+let state = loadState() || defaultState();
+let view = 'home';
+let queue = [];
+let currentQ = 0;
+let selected = null;
+let revealed = false;
+let timer = 0;
+let timerInterval = null;
+let modeFilter = 'study';
+let domainFilter = null;
+let sourceFilter = null; // 'pretest' | 'generated' | null
+
+const $ = (id) => document.getElementById(id);
+const app = document.getElementById('app');
+
+function getStats() {
+  const byDomain = {};
+  Object.keys(DOMAINS).forEach(d => { byDomain[d] = { total: 0, answered: 0, correct: 0 }; });
+  QUESTIONS.forEach(q => {
+    if (!byDomain[q.domain]) byDomain[q.domain] = { total:0, answered:0, correct:0 };
+    byDomain[q.domain].total++;
+    const a = state.answered[q.id];
+    if (a) { byDomain[q.domain].answered++; if (a.correct) byDomain[q.domain].correct++; }
+  });
+  const totalA = Object.keys(state.answered).length;
+  const totalC = Object.values(state.answered).filter(a => a.correct).length;
+  return { byDomain, totalA, totalC, totalQ: QUESTIONS.length };
+}
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+}
+
+function startQuiz(mode, domain, source) {
+  let pool = QUESTIONS.filter(q => {
+    if (domain && q.domain !== domain) return false;
+    if (source && q.source !== source) return false;
+    return true;
+  });
+  queue = shuffle(pool);
+  currentQ = 0; selected = null; revealed = false; timer = 0;
+  modeFilter = mode; domainFilter = domain; sourceFilter = source;
+  if (timerInterval) clearInterval(timerInterval);
+  view = 'quiz';
+  render();
+}
+
+function selectOption(id) {
+  if (revealed) return;
+  selected = id;
+  if (modeFilter === 'study') {
+    revealed = true;
+    recordAnswer(id);
+  }
+  render();
+}
+
+function confirmAnswer() {
+  if (!selected) return;
+  revealed = true;
+  recordAnswer(selected);
+  render();
+}
+
+function recordAnswer(optId) {
+  const q = queue[currentQ];
+  state.answered[q.id] = { selected: optId, correct: optId === q.correct, ts: Date.now() };
+  saveState(state);
+  if (timerInterval) clearInterval(timerInterval);
+}
+
+function nextQ() {
+  if (currentQ < queue.length - 1) {
+    currentQ++; selected = null; revealed = false; timer = 0;
+    if (modeFilter === 'test') {
+      if (timerInterval) clearInterval(timerInterval);
+      timerInterval = setInterval(() => { timer++; renderTimer(); }, 1000);
+    }
+  } else {
+    view = 'stats';
+  }
+  render();
+}
+
+function toggleBookmark(qid) {
+  if (state.bookmarked.includes(qid)) state.bookmarked = state.bookmarked.filter(x => x !== qid);
+  else state.bookmarked.push(qid);
+  saveState(state);
+  render();
+}
+
+function resetAll() {
+  if (confirm('Сбросить всю статистику?')) { state = defaultState(); saveState(state); view = 'home'; render(); }
+}
+
+function renderTimer() {
+  const el = document.querySelector('.timer');
+  if (el) el.textContent = `${Math.floor(timer/60)}:${String(timer%60).padStart(2,'0')}`;
+}
+
+function optClass(optKey, q) {
+  let cls = 'opt';
+  if (!revealed) { if (selected === optKey) cls += ' selected'; return cls; }
+  cls += ' revealed';
+  if (optKey === q.correct) cls += ' correct';
+  else if (optKey === selected) cls += ' wrong';
+  else cls += ' dimmed';
+  return cls;
+}
+
+function renderExplanations(q) {
+  const letters = ['A','B','C','D','E'];
+  let html = '';
+
+  if (q.explanations && typeof q.explanations === 'object') {
+    // Generated format: per-option explanations
+    letters.forEach(L => {
+      if (!q.explanations[L] && !q.options[L]) return;
+      const isCorrect = L === q.correct;
+      const isSelected = L === selected;
+      const cls = isCorrect ? 'expl expl-correct' : (isSelected ? 'expl expl-wrong' : 'expl');
+      const verdict = isCorrect ? '✓ ПРАВИЛЬНО' : '✗ НЕПРАВИЛЬНО';
+      const color = isCorrect ? 'var(--green)' : 'var(--red)';
+      html += `<div class="${cls}">
+        <div class="expl-hdr" style="color:${color}">${L}. ${verdict}</div>
+        <div class="expl-txt">${q.explanations[L] || ''}</div>
+      </div>`;
+    });
+  } else if (q.explanation_text) {
+    // PreTest format: single explanation
+    html += `<div class="expl expl-correct">
+      <div class="expl-hdr" style="color:var(--green)">Правильный ответ: ${q.correct}</div>
+      <div class="expl-txt">${q.explanation_text}</div>
+    </div>`;
+  }
+
+  if (q.pearl) {
+    html += `<div class="pearl"><div class="pearl-hdr">💡 EDUCATIONAL PEARL</div><div class="pearl-txt">${q.pearl}</div></div>`;
+  }
+  if (q.references) {
+    html += `<div class="refs">📚 ${q.references}</div>`;
+  }
+  return html;
+}
+
+// ══════════════════════════════════════════════════
+// RENDER
+// ══════════════════════════════════════════════════
+
+function render() {
+  if (view === 'home') renderHome();
+  else if (view === 'quiz') renderQuiz();
+  else if (view === 'stats') renderStats();
+}
+
+function renderHome() {
+  const s = getStats();
+  const pct = s.totalA > 0 ? Math.round(s.totalC / s.totalA * 100) : '—';
+  const ptCount = QUESTIONS.filter(q => q.source === 'pretest').length;
+  const genCount = QUESTIONS.filter(q => q.source !== 'pretest').length;
+
+  app.innerHTML = `
+    <div class="hdr"><h1>🧠 PSYCH QBANK</h1><small>${QUESTIONS.length} вопросов</small></div>
+
+    <div class="sgrid">
+      <div class="card sbox"><div class="val" style="color:var(--accent)">${QUESTIONS.length}</div><div class="lbl">Всего</div></div>
+      <div class="card sbox"><div class="val" style="color:var(--amber)">${s.totalA}</div><div class="lbl">Пройдено</div></div>
+      <div class="card sbox"><div class="val" style="color:var(--green)">${pct}${typeof pct==='number'?'%':''}</div><div class="lbl">Верных</div></div>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:18px">
+      <button class="btn btn-primary btn-full" onclick="startQuiz('study',null,null)">📖 Обучение</button>
+      <button class="btn btn-danger btn-full" onclick="startQuiz('test',null,null)">⏱ Тест</button>
+    </div>
+
+    ${ptCount > 0 && genCount > 0 ? `
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:18px">
+      <button class="btn" onclick="startQuiz('study',null,'pretest')">PreTest (${ptCount})</button>
+      <button class="btn" onclick="startQuiz('study',null,'generated')">Generated (${genCount})</button>
+    </div>` : ''}
+
+    <div class="card">
+      <div style="font-size:14px;font-weight:600;color:#e8ebf0;margin-bottom:14px">По разделам</div>
+      <div class="dlist">
+        ${Object.entries(DOMAINS).map(([id, d]) => {
+          const ds = s.byDomain[id] || {total:0,answered:0};
+          if (ds.total === 0) return '';
+          return `<div class="ditem" onclick="startQuiz('study','${id}',null)">
+            <span>${d.icon} ${d.label}</span>
+            <span class="cnt">${ds.answered}/${ds.total}</span>
+          </div>`;
+        }).join('')}
+      </div>
+    </div>
+
+    ${state.bookmarked.length > 0 ? `
+    <button class="btn btn-full" style="margin-top:10px;background:#2a2a1a;color:var(--amber);border-color:#806a2a" 
+      onclick="queue=state.bookmarked.map(id=>QUESTIONS.find(q=>q.id===id)).filter(Boolean);currentQ=0;selected=null;revealed=false;modeFilter='study';view='quiz';render()">
+      ⭐ Закладки (${state.bookmarked.length})
+    </button>` : ''}
+
+    <button class="btn btn-full" style="margin-top:10px" onclick="view='stats';render()">📊 Статистика</button>
+    <button class="btn btn-full" style="margin-top:8px;font-size:12px;color:#555" onclick="resetAll()">Сбросить прогресс</button>
+  `;
+}
+
+function renderQuiz() {
+  if (!queue.length || currentQ >= queue.length) { view = 'home'; render(); return; }
+  const q = queue[currentQ];
+  const dom = DOMAINS[q.domain] || { icon:'📋', label: q.domain, color:'#888' };
+  const bm = state.bookmarked.includes(q.id);
+  const prev = state.answered[q.id];
+  const letters = Object.keys(q.options).sort();
+
+  app.innerHTML = `
+    <div class="qtop">
+      <button class="btn" onclick="view='home';if(timerInterval)clearInterval(timerInterval);render()">← Меню</button>
+      <div class="meta">${currentQ+1}/${queue.length}${modeFilter==='test'?'<span class="timer">0:00</span>':''}</div>
+      <button class="btn" style="font-size:18px;padding:5px 12px" onclick="toggleBookmark('${q.id}')">${bm?'⭐':'☆'}</button>
+    </div>
+
+    <div style="display:flex;gap:8px;align-items:center;margin-bottom:10px">
+      <span class="dtag" style="background:${dom.color}18;color:${dom.color}">${dom.icon} ${dom.label}</span>
+      <span class="diff">${'●'.repeat(q.difficulty||2)}${'○'.repeat(3-(q.difficulty||2))}</span>
+      ${q.source==='pretest'?'<span style="font-size:10px;color:#555;margin-left:auto">PreTest</span>':''}
+      ${prev?`<span style="font-size:11px;color:${prev.correct?'var(--green)':'var(--red)'};margin-left:auto">${prev.correct?'✓ ранее верно':'✗ ранее неверно'}</span>`:''}
+    </div>
+
+    <div class="card vignette fade-in">${q.vignette}</div>
+    <div class="question-text">${q.question}</div>
+
+    ${letters.map(L => `
+      <button class="${optClass(L, q)}" onclick="selectOption('${L}')">
+        <span class="ltr">${L}.</span>${q.options[L]}
+      </button>
+    `).join('')}
+
+    ${modeFilter==='test' && !revealed && selected ? `
+      <button class="btn btn-primary btn-full" style="margin-top:10px" onclick="confirmAnswer()">Подтвердить ответ</button>
+    ` : ''}
+
+    ${revealed ? `
+      <div class="fade-in" style="margin-top:18px">
+        <div class="result ${selected===q.correct?'ok':'fail'}">
+          ${selected===q.correct ? '✓ Верно!' : '✗ Неверно. Правильный ответ: '+q.correct}
+        </div>
+        ${renderExplanations(q)}
+        <button class="btn btn-primary btn-full" style="margin-top:14px" onclick="nextQ()">
+          ${currentQ < queue.length - 1 ? 'Следующий вопрос →' : 'Завершить →'}
+        </button>
+      </div>
+    ` : ''}
+  `;
+
+  if (modeFilter === 'test' && !revealed) {
+    if (timerInterval) clearInterval(timerInterval);
+    timerInterval = setInterval(() => { timer++; renderTimer(); }, 1000);
+  }
+}
+
+function renderStats() {
+  const s = getStats();
+  const pct = s.totalA > 0 ? Math.round(s.totalC / s.totalA * 100) : null;
+  const pctColor = pct === null ? 'var(--text2)' : pct >= 70 ? 'var(--green)' : pct >= 50 ? 'var(--amber)' : 'var(--red)';
+
+  app.innerHTML = `
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px">
+      <h2 style="font-size:17px;font-weight:600;color:#e8ebf0">📊 Статистика</h2>
+      <button class="btn" onclick="view='home';render()">← Меню</button>
+    </div>
+
+    <div class="card" style="text-align:center">
+      <div style="font-size:48px;font-weight:700;font-family:var(--mono);color:${pctColor}">${pct!==null?pct+'%':'—'}</div>
+      <div style="font-size:13px;color:var(--text2)">Общий результат (${s.totalC} / ${s.totalA})</div>
+    </div>
+
+    ${Object.entries(DOMAINS).map(([id, d]) => {
+      const ds = s.byDomain[id];
+      if (!ds || ds.total === 0) return '';
+      const dpct = ds.answered > 0 ? Math.round(ds.correct / ds.answered * 100) : null;
+      const col = dpct === null ? 'var(--text2)' : dpct >= 70 ? 'var(--green)' : dpct >= 50 ? 'var(--amber)' : 'var(--red)';
+      const barW = ds.total > 0 ? (ds.answered / ds.total * 100) : 0;
+      return `<div class="card" style="padding:12px 16px;margin-bottom:6px">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+          <span style="font-size:13px">${d.icon} ${d.label}</span>
+          <span style="font-size:12px;color:${col}">${dpct!==null?dpct+'% ('+ds.correct+'/'+ds.answered+')':'—'}</span>
+        </div>
+        <div class="pbar"><div class="fill" style="width:${barW}%;background:${d.color}"></div></div>
+        <div style="font-size:10px;color:var(--text2)">${ds.answered} / ${ds.total} пройдено</div>
+      </div>`;
+    }).join('')}
+  `;
+}
+
+// Init
+render();
+</script>
+</body>
+</html>
