@@ -1,0 +1,509 @@
+[
+  {
+    "id": "PT-BIOS-093",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 93,
+    "vignette": "A 24-year-old man 1s diagnosed with schizophrenia. He enters a research study looking at dopamine activity in the central nervous system. Which of the following substances will undoubtedly be examined in the young man’s cerebrospinal fluid, blood, or urine?",
+    "options": {
+      "A": "Monoamine oxidase Tyrosine Homovanillic acid Tyrosine hydroxylase DOPA (3,4-dihydroxy phenylalanine) eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 40.) Homovanillic acid 1s the primary metabolite of dopamine. Dopamine activity in the CNS 1s often assessed 1n research studies by looking for this metabolite in the cerebrospinal fluid, blood, or urine."
+  },
+  {
+    "id": "PT-BIOS-094",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 94,
+    "vignette": "A young man is often the object of his friends’ jokes because he drops to the floor whenever he is having a good laugh. From which of the following is this man most likely suffering?",
+    "options": {
+      "A": "Cataplexy Narcolepsy Hysteria Drop seizures Histrionic personality eaos"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 1034.) Cataplexy refers to a sudden loss of muscle tone (ranging in severity from weakness in the knees to a total loss of tone) triggered by strong emotions, which takes place during full wakefulness. Cataplexy is thought to occur because of an abnormal intrusion of REM sleep phenomena in periods of wakefulness. It is usually treated with medications that reduce REM sleep, such as antidepressants. Cataplexy may be a symptom of narcolepsy, characterized by the irresistible urge to fall asleep regardless of the situation."
+  },
+  {
+    "id": "PT-BIOS-095",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 95,
+    "vignette": "A 78-year-old man is brought to the physician by his wife because he is becoming increasingly confused. He has been found wandering along the streets unable to find his way home, and has left items in unusual places, like putting his sunglasses in the freezer. On mental status examination the physician would like to test for diffuse cortical degeneration. Which of the following would most likely demonstrate this problem if it 1s present?",
+    "options": {
+      "A": "Ask the patient about presence of hallucinations.",
+      "B": "Ask the patient to pick up a piece of paper in his left hand, fold it in half, and place it back on the table.",
+      "C": "Ask the patient to spell the word “WORLD” backward.",
+      "D": "Ask the patient to copy a figure with multiple intersecting lines.",
+      "E": "Ask the patient to tell the physician what year he and his wife were married."
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 10.) \\deational apraxia is the inability to put a sequence of skilled acts together in a row, though the individual may be able to perform each component of the sequence without error. The motor sequence representation of these acts may involve the left parietal cortex, as well as the sequencing and executive functions of the prefrontal cortex. This apraxia is a typical finding in those with cortical degeneration from Alzheimer’s disease."
+  },
+  {
+    "id": "PT-BIOS-096",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 96,
+    "vignette": "A 24-year-old medical student is exposed to high levels of chronic stress due to the demanding curriculum. He notes that he 1s having a hard time studying for the USMLE Step 1 exams because his memory seems impaired from his usual high standard of performance. Which of the following chemicals in his body, in excess amounts, may be responsible for this?",
+    "options": {
+      "A": "Glucocorticoids Dopamine Cytokines Thyroid stimulating hormone Neuropeptides ono s"
+    },
+    "correct": "A",
+    "explanation": "(Higgins and George, p 83.) One of the effects of chronic stress is that the body 1s unable to turn down glucocorticoid production through the HPA (hypothalamic-pituitary-adrenal) axis, thus exposing one to high levels. These levels can have pathologic consequences on the body such as hypertension, diabetes and impaired immune function, and in the brain, a negative effect on the hippocampus, which is well known in its role in memory. The other options do not have these effects on the body, and are not increased in chronic stress."
+  },
+  {
+    "id": "PT-BIOS-097",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 97,
+    "vignette": "A 25-year-old woman 1s seen by a psychiatrist because her family says that she is “hyperintense” about everything. On interview the patient denies mood swings, though does note that she is “emotionally intense.” She denies hallucinations, delusions, suicidal or homicidal ideation. She 1s noted to be very “perseverative” in her interaction with the psychiatrist, pursuing even small points of discussion further and further so that very little ground can be covered during the interview. She denies having any medical problems, though does state that a neurologist told her that her EEG was “abnormal.” However, she denies ever having any seizures during which she lost consciousness. Which of the following might be affecting this patient?",
+    "options": {
+      "A": "Temporal lobe epilepsy",
+      "B": "Kluver-Bucy syndrome",
+      "C": "Damage to the amygdala",
+      "D": "Damage to the left hemisphere",
+      "E": "Diffuse cortical atrophy"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 759.) This patient 1s likely suffering from temporal lobe epilepsy, and she demonstrates a TLE personality, characterized by hyposexuality, emotional intensity, and viscosity, a peculiar perseverative approach to interactions with others. Kluver-Bucy patients might exhibit an almost opposite personality, with hypersexuality, placidity, constantly shifting attention, and a tendency to put everything in the patient’s mouth. Damage to the amygdala might render patients unable to recognize fear or anger in others, though they remain able to recognize happiness and sadness. Damage to the left hemisphere produces intellectual dysfunction, and diffuse cortical atrophy produces symptoms consistent with a picture of Alzheimer’s patient."
+  },
+  {
+    "id": "PT-BIOS-098",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 98,
+    "vignette": "Benzodiazepines, barbiturates, and many anticonvulsants exert their influence through which of the following types of receptors?",
+    "options": {
+      "A": "Muscarinic Dopaminergic Glutamic Adrenergic y-Aminobutyric acid (GABA)-ergic eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 948-953.) GABA receptors represent the most important inhibitory system 1n the central nervous system (CNS) and are found in almost every area of the brain. Benzodiazepines, barbiturates, and many anticonvulsants act through activation of the GABA receptors. This explains the cross-tolerance that occurs between these substances."
+  },
+  {
+    "id": "PT-BIOS-099",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 99,
+    "vignette": "A 32-year-old man is brought to the emergency room unresponsive. Shortly after arriving at the emergency room, he stops breathing. The patient’s friends state that the patient has a long history of depression and anxiety and is taking fluoxetine. They state that just prior to the man becoming unresponsive, he was at a party and was drinking alcohol, though they did not think that he drank more than two or three drinks. The patient’s toxicology screen reveals, in addition to the substances listed above, the presence of cocaine, benzodiazepines, and marijuana. What is the most likely reason that this patient stopped breathing?",
+    "options": {
+      "A": "The patient used cocaine and benzodiazepines. The patient used marijuana and alcohol. The patient used fluoxetine and benzodiazepines. The patient used fluoxetine and alcohol. The patient used benzodiazepines and alcohol. eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 953.) While benzodiazepines are generally recognized to be extremely safe medications, when taken in an overdose in combination with alcohol they can be particularly dangerous. Alcohol has an additive effect to the CNS and respiratory depressant effects of benzodiazepines, because it increases the binding affinity of benzodiazepines to the benzodiazepine-binding site."
+  },
+  {
+    "id": "PT-BIOS-100",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 100,
+    "vignette": "The observation that levodopa (a drug used to treat Parkinson disease) can cause mania and psychosis in some patients supports which neurochemical theory of psychiatric behavior?",
+    "options": {
+      "A": "Norepinephrine",
+      "B": "Dopamine",
+      "C": "Glycine",
+      "D": "Serotonin",
+      "E": "Glutamine"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 303.) Levodopa 1s a chemical relative of dopamine. The fact that a dopamine-related compound can cause psychotic symptoms in some patients supports the dopamine hypothesis of schizophrenia, which is the leading neurochemical hypothesis for this disease."
+  },
+  {
+    "id": "PT-BIOS-101",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 101,
+    "vignette": "A 27-year-old woman undergoes a large bilateral resection of the medial temporal lobes in an effort to stop her increasingly severe seizures. Although the seizures improved, she was found to have severe anterograde amnesia. For example, she was able to immediately repeat a phone number given to her during examination, but could not remember the examiner who gave her the number if the examiner left the room and came back several minutes later. Which of the following area of the brain 1s responsible for consolidation of long-term memories?",
+    "options": {
+      "A": "Prefrontal cortex Hippocampus Hypothalamus Amygdala Cerebellum enos"
+    },
+    "correct": "B",
+    "explanation": "(Higgins and George, p 222.) The consolidation of immediate memory into long-term 1s a crucial function of the hippocampus. There are two major categories of memory: declarative (or explicit) memory, which 1s the ability to recall facts or details; and nondeclarative (or procedural) memory, which 1s the ability to perform a learned skill (such as riding a bike or driving a car). In addition, there are three major periods of memory: immediate (functioning over a period of seconds), short term (minutes to days), and long term (months to years). All the types and periods of memory have distinct anatomical correlates."
+  },
+  {
+    "id": "PT-BIOS-102",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 102,
+    "vignette": "A 46-year-old man is being monitored in a sleep study laboratory. After he has been asleep for 90 minutes, his EEG shows low-voltage, random fast activity with sawtooth waves. When awakened during this period, the patient reports that he was dreaming. Which of the following sleep stages was this patient in when awakened?",
+    "options": {
+      "A": "Alpha waves Theta waves Sleep spindles Delta waves Rapid eye movement (REM) eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 535.) Dreaming is the main characteristic of REM sleep. The EEG shows characteristic low-voltage waves that are random, fast, and sawtoothed. Active eye movements are attributed to the individual’s “watching” his or her dreams. A lack of muscle tone during REM sleep prevents the individual from acting out his or her dreams. REM sleep 1s also characterized by increased heart rate and blood pressure and penile or clitoral nocturnal erections."
+  },
+  {
+    "id": "PT-BIOS-103",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 103,
+    "vignette": "A 56-year-old man is admitted to the hospital after a stroke. The stroke is localized to the border of the somatosensory and association areas in the posterior parietal lobe. Which of the following symptoms would be displayed upon neurological testing?",
+    "options": {
+      "A": "Loss of proprioception Loss of vibratory sensation Loss of the ability to recognize items based on touch Loss of pressure sensation Loss of pain sensation eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 5). Tactile agnosia (astereognosis) 1s defined as the inability to recognize objects based on touch. Damage to the border of the somatosensory and association areas in the posterior parietal lobe appear to cause a failure of the highest level of feature extraction (that of the ability to recognize objects by touch) while preserving the more basic features of the somatosensory pathway (ie, light touch, pressure, pain, vibration, temperature, and position sense)."
+  },
+  {
+    "id": "PT-BIOS-104",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 104,
+    "vignette": "After being struck on the head by a four-by-four piece of wood, a previously serious and dependable construction worker starts making inappropriate sexual remarks to his coworkers, 1s easily distracted, and loses his temper over minor provocations. What part of his brain has most likely been damaged?",
+    "options": {
+      "A": "Serotonin receptor, Subtype 5-HT,,",
+      "B": "Serotonin receptor, subtype 5-HT,,, . Serotonin receptor, subtype 5-HT, . Serotonin receptor, subtype 5-HT, Histamine, subtype H, Dopamine, subtype D, . Dopamine, subtype D, = 72 ho a Oo . Adrenergic transmitter, subtype 6,4 5p =: Adrenergic transmitter, subtype B, j. Cholinergic transmitter, subtype M,"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 13-14.) The frontal lobes are associated with the regulation of emotions, the manifestation of behavioral traits usually connected to the personality of an individual, and executive functions (the ability to make appropriate judgments and decisions and to form concepts). They also contain the inhibitory systems for behaviors such as bladder and bowel release. Damage to the frontal lobes causes impairment of these functions but it 1s not, strictly speaking, a form of dementia, because memory, language, calculation ability, praxis, and IQ are often preserved. Personality changes, disinhibited behavior, and poor judgment are usually seen with lesions of the dorsolateral regions of the frontal lobes. Lesions of the mesial region, which is involved in the regulation of the initiation of movements and emotional responses, cause slowing of motor functions, speech, and emotional reactions. In the most severe cases, patients are mute and akinetic. Lesions of the orbitofrontal area are accompanied by abnormal social behaviors, an excessively good opinion of oneself, jocularity, sexual disinhibition, and lack of concern for others. The occipital lobe is the visual processing center, containing most of the visual cortex. The temporal lobe contains the auditory cortex, and is also involved in the formation of long-term memories. The limbic system is a complicated, multi-functional area of the brain responsible for the control of emotions, olfaction, long-term memory, and behavior. The basal ganglions are also multifunctional, involved in the control of emotions, procedural movements of routine behaviors, and voluntary movements. 105 to 113. The answers are 105-b, 106-c or g, 107-d, 108-h, 109-a, 110-i, 111-j, 112-f, 113-e. (Kaplan and Sadock, pp 41-42, 929-993, 969-972.) The serotonin receptor, subtype 5-HT,, is the target of the antimigraine drug sumatriptan. The serotonin receptor, subtype 5-H,,, is the target of the atypical antipsychotics, such as risperidone. In addition, the dopamine receptor D, 1s also the target of the atypical antipsychotics, so the answer to question 106 is correctly stated as both c and g. Serotonin receptor 5-HT, is implicated in the regulation of circadian rhythms. Antihypertensives work at the adrenergic transmitter, Subtype ©, 3. The serotonin receptor, Subtype 5-HT,, has anxiolytic properties. The adrenergic transmitter, Subtype B,, 1s responsible for the regulation of bronchial muscle contraction. The cholinergic transmitter, Subtype M,, is the target of antiparkinsonism anticholinergic drugs. The dopamine, Subtype D, receptor is the target of therapeutic and extrapyramidal effects of dopamine receptor antagonists like haloperidol, which are “typical antipsychotics.” Antagonists to the histamine, Subtype H, receptor, such as diphenhydramine, produce sedation and weight gain."
+  },
+  {
+    "id": "PT-BIOS-114",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 114,
+    "vignette": "A young girl who was underweight and hypotonic in infancy is obsessed with food, eats compulsively, and at age 4, is already grossly overweight. She is argumentative, oppositional, and rigid. She has a narrow face, almond-shaped eyes, and a small mouth. Which of the following is the most likely diagnosis? Down syndrome Fragile X syndrome Fetal alcohol syndrome Hypothyroidism Prader-Willi syndrome onoc® Questions 115 to 125 Match the following terms with the deficits which they describe. Each lettered option may be used once, more than once, or not at all.",
+    "options": {
+      "A": "Prosopagnosia",
+      "B": "Apperceptive visual agnosia",
+      "C": "Associative visual agnosia",
+      "D": "Color agnosia",
+      "E": "Color anomia f. Central achromatopsia g. Anton syndrome h. Balint syndrome i. Oculomotor apraxia J. Simultanagnosia k. Gerstmann syndrome"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 1123.) Prader-Willi syndrome is a genetic disorder caused by a defect of the long arm of chromosome 15. Characteristically, children are underweight in infancy. In early childhood, owing to a hypothalamic dysfunction, they start eating voraciously and quickly become grossly overweight. Individuals with this syndrome have characteristic facial features and present with a variety of neurologic and neuropsychiatric symptoms including autonomic dysregulation, muscle weakness, hypotonia, mild to moderate mental retardation, temper tantrums, violent outbursts, perseveration, skin picking, and a tendency to be argumentative, oppositional, and rigid. 115-125. The answers are 115-f, 116-j, 117-k, 118-b, 119-e, 120-i, 121-a, 122-d, 123-h, 124-g, 125-c. (Kaplan and Sadock, pp 4-17.) Central achromatopsia is a complete inability to perceive color. Simultanagnosia 1s the inability to integrate a visual scene to perceive it as a whole. Gerstmann syndrome includes agraphia, calculation difficulties (acalculia), right-left disorientation, and finger agnosia. It 1s thought to be related to lesions of the parietal lobe, dominant hemisphere. Apperceptive visual agnosia is the inability to identify and draw items using visual cues, though other sensory modalities are preserved. Color anomia 1s the inability to name a color despite being able to point to 1t. Oculomotor apraxia 1s the inability to direct gaze rapidly. Prosopagnosia is the inability to recognize faces in the presence of preserved recognition of other objects. It is thought to result from the disconnect of the left inferior temporal cortices (ITC) from the visual association area 1n the left parietal lobe. Color agnosia is the inability to recognize a color despite being able to match it. Balint syndrome, seen in bilateral parieto-occipital lesions, is a triad of optic ataxia (inability to direct optically guided movements), oculomotor apraxia, and simultanagnosia. Anton syndrome 1s a failure to acknowledge blindness, seen with bilateral occipital lobe lesions. Associative visual agnosia is the inability to name or use objects despite the ability to draw them and is caused by bilateral medial occipitotemporal lesions."
+  },
+  {
+    "id": "PT-BIOS-126",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 126,
+    "vignette": "A 36-year-old moderately intellectually disabled man with a long head, large ears, and hyperextensible joints is very shy and starts rocking and flapping his hands when he is upset. Which of the following disorders produces this symptom constellation?",
+    "options": {
+      "A": "Down syndrome Hurler syndrome Williams syndrome Fragile X syndrome Rett disorder eaos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 1130-1131.) Fragile X syndrome 1s the most common form of inherited intellectual disability, with a prevalence of 1 1n 1200 in males and 1 1n 2500 in females. Its manifestations are because of the inactivation of a part of the X chromosome known as the fragile site. Affected individuals have characteristic physical features including long face, large ears, and large hands. Adult males also have enlarged testicles owing to elevated gonadotropin levels. Affected individuals and female carriers have higher rates of obsessive-compulsive disorder (OCD), attention-deficit hyperactivity disorder (ADHD), persistent depressive disorder, anxiety, and antisocial personality disorder. Individuals with fragile X syndrome also display many behaviors reminiscent of autistic spectrum disorders. They are shy and socially awkward, they avoid eye contact, and as autistic individuals, they engage in self-stimulatory, peculiar, and self-injurious behaviors. Down syndrome is the most common genetic mental retardation syndrome, occurring in | in 660 live births, but in the majority of cases (94%) it 1s caused by a de novo trisomy of chromosome 21 and, as such, it is not inherited. Hurler syndrome is one of the mucopolysaccharidoses. In its most severe form, this rare syndrome presents with multisystemic deterioration secondary to the accumulation of mucopolysaccharides. Hurler syndrome starts during the first year of life and causes death before age 10. Rett syndrome, now diagnosed as a form of autism spectrum disorder, is characterized by a devastating progressive deterioration of cognitive, social, and motor functions that starts between the ages of 5 months and 18 months, after an initial period of normal development. Williams syndrome is an autosomal dominant form of genetic intellectual disability caused by a deletion of part of chromosome 23."
+  },
+  {
+    "id": "PT-BIOS-127",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 127,
+    "vignette": "A 45-year-old woman 1s being given tranylcypromine for her treatment resistant major depressive disorder. This medication requires a dietary restriction, in order to avoid a potentially fatal hypertensive crisis. Which of the following mechanisms correctly describes the pathophysiology of this effect?",
+    "options": {
+      "A": "Increasing GABA production in the central nervous system Inactivation of gastrointestinal (GI) metabolism of tyramine Decreasing norepinephrine in the large intestine Decreasing serotonin in the autonomic nervous system (ANS) Increasing endorphin production in the amygdala eaos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 995.) Monoamine oxidases (including tranylcypromine) inactivate biogenic amines such as norepinephrine, serotonin, dopamine, and tyramine through oxidative deamination. The MAOIs block this inactivation, thereby increasing the availability of these neurotransmitters for synaptic release. However MAOIs also inactivate GI metabolism of dietary tyramine, thus allowing unaltered tyramine into the circulation. This amino acid has a potent pressor effect."
+  },
+  {
+    "id": "PT-BIOS-128",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 128,
+    "vignette": "A 36-year-old woman is being evaluated in the sleep laboratory. She is noted to have a decreased latency of REM. From which of the following disorders 1s this woman most likely to be suffering?",
+    "options": {
+      "A": "Schizophrenia Major depressive disorder Panic disorder Obsessive-compulsive disorder (OCD) Posttraumatic stress disorder (PTSD) eaos"
+    },
+    "correct": "B",
+    "explanation": "(Higgins and George, p 175.) A decreased latency of REM sleep is seen in major depressive disorder. Depression 1s the psychiatric disorder that has been most associated with disruptions in biological rhythms. Besides the decreased latency of REM sleep, early morning awakening and other neuroendocrine perturbations are often found with major depressive disorder."
+  },
+  {
+    "id": "PT-BIOS-129",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 129,
+    "vignette": "A 17-year-old boy is brought to the emergency room by his friends after he “took something” at a party and subsequently became confused, disoriented, and agitated. The patient is also noted to have vertical nystagmus and a blood pressure of 168/96. Which of the following substances 1s most likely to have caused the symptoms?",
+    "options": {
+      "A": "Methamphetamine Heroin Methylphenidate Cocaine Phencyclidine (PCP) ono s"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 650.) The boy in the question experienced PCP intoxication, which can have severe complications, including harm to the patient or others, hallucinations, seizures, coma, and death. Other effects are nausea, vomiting, blurred vision, nystagmus, drooling, loss of balance, and dizziness. High doses can also cause delusions, paranoia, disordered thinking, and catatonia. Speech is often sparse and garbled. Cocaine inhibits the normal reuptake of norepinephrine and dopamine, causing an increased concentration of these neurotransmitters in the synaptic cleft. This mechanism is responsible for the euphoria and sense of well-being that follow cocaine use, but it also causes excessive sympathetic activation and diffuse vasoconstriction. High blood pressure, mydriasis, cardiac arrhythmias, coronary artery spasms, and myocardial infarcts are all seen with cocaine intoxication. Other toxic effects of cocaine include headaches, ischemic cerebral and spinal infarcts, subarachnoid hemorrhages, and seizures. Intoxication with methylphenidate (Ritalin) can produce similar signs and symptoms, but in addition extremely high body temperatures can be found. Heroin intoxication presents with a depressed level of consciousness, decreased respirations, and pinpoint pupils."
+  },
+  {
+    "id": "PT-BIOS-130",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 130,
+    "vignette": "A 52-year-old housewife has gained weight, although she does not note an increased appetite. She states that she feels tired all the time and does not care about hobbies that she enjoyed previously. On physical examination, her skin appears dry and her hair is brittle. She appears depressed although she denies suicidal ideation. Which of the following laboratory findings is likely to be found?",
+    "options": {
+      "A": "Elevated adrenocorticotropic hormone (ACTH) Low cortisol level Elevated thyroid-stimulating hormone (TSH) Low calcium level Elevated follicle-stimulating hormone (FSH) ono s"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 735.) The symptoms experienced by the woman in the question are prototypical for hypothyroidism, though the patient might be suffering from a major depressive disorder (since there are no blood tests to rule in or out a major depressive disorder, one would rule in or out likely medical conditions first before making that diagnosis). Depressive symptoms are commonly associated with hypothyroidism. Hypocalcemia and hypercortisolemia (associated with an elevated ACTH in Cushing syndrome) are also associated with depression but present with different symptoms."
+  },
+  {
+    "id": "PT-BIOS-131",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 131,
+    "vignette": "A 22-year-old woman is brought to the emergency room by her friends after she took some pills at a party and subsequently developed physical symptoms including her neck twisting painfully, and her eyes involuntarily rolling upward. The patient responds immediately to 50 mg of diphenhydramine intramuscularly with rapid resolution of all physical symptoms. Which of the following substances is most likely to have caused these symptoms?",
+    "options": {
+      "A": "Haloperidol Methylphenidate (Ritalin) Methamphetamine Alprazolam Lysergic acid diethylamide (LSD) ono s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 782.) The woman in the question experienced an acute dystonic reaction, an adverse effect of neuroleptic medications secondary to blockage of dopamine receptors in the nigrostriatal system. Dystonic reactions are sustained spasmodic contractions of the muscles of the neck, trunk, tongue, face, and extraocular muscles. They can be quite painful and frightening. They usually occur within hours to 3 days after the beginning of the treatment and are more frequent in males and young people. They are also usually associated with high-potency neuroleptics. Occasionally, dystonic reactions are seen in young people who have ingested a neuroleptic medication, mistaking it for a drug of abuse. Administration of anticholinergic drugs provides rapid treatment of acute dystonia. LSD intoxication can cause hallucinations or “bad trips.” Massive doses can cause coma, respiratory arrest, vomiting, and hyperthermia."
+  },
+  {
+    "id": "PT-BIOS-132",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 132,
+    "vignette": "A 28-year-old woman comes to her psychiatrist for a renewal of her prescription for haloperidol. She has been on this drug for 6 months after she was hospitalized for a psychotic episode. She complains to the psychiatrist about a white milky discharge from both of her breasts. What is the mechanism of action which 1s causing this medication-induced effect?",
+    "options": {
+      "A": "The patient has had the D, receptors at the end of the nigrostriatal tract blocked by the antipsychotic drug.",
+      "B": "The patient has had the amount of serotonin increased in the synaptic cleft of the neurons in the caudate nucleus.",
+      "C": "The haloperidol has acted upon peptide receptors, which project to practically every brain region.",
+      "D": "Homovanillic acid levels have increased in the cerebrospinal fluid.",
+      "E": "The blockade of dopamine receptors in the tuberoinfundibular tract eliminated the inhibitory effect of dopamine on prolactin release."
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 1020.) The patient presents with a classic case of galactorrhea, caused by the blockade of dopamine receptors in the tuberoinfundibular tract. This blockade eliminates the inhibitory effect of dopamine on the release of prolactin from the anterior pituitary. With the inhibitory effect gone, patients on dopamine receptor antagonists can have a threefold rise in prolactin levels, leading to galactorrhea."
+  },
+  {
+    "id": "PT-BIOS-133",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 133,
+    "vignette": "A 42-year-old woman comes to the psychiatrist with complaints of short-term memory loss. She has lost her way home several times in past weeks. Mini-Mental Status Exam scores 18/30 points. An MRI shows the loss of brain volume. The patient’s mother died of the same disease at age 46. Which of the following genes in this patient (and her mother) are likely to show a mutation on chromosome 14?",
+    "options": {
+      "A": "Presenilin |",
+      "B": "Presenilin 2 . f-Amyloid precursor protein (APP)",
+      "D": "Apolipoprotein E (Apo E)",
+      "E": "Human lymphocyte antigen (HLA) Q"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 79.) In the case of hereditary Alzheimer disease that appears between the ages of 40 and 50, the presenilin I gene, located on chromosome 14, is involved in 70% to 80% of cases. Another 20% to 30% are attributable to the presenilin 2 gene, located on chromosome 1, responsible for hereditable cases of Alzheimer’s disease appearing at age 50. A final 2% to 3% of Alzheimer’s cases, which appear after the age of 50, are attributable to the f-amyloid precursor protein (APP) gene located on chromosome 21."
+  },
+  {
+    "id": "PT-BIOS-134",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 134,
+    "vignette": "A 24-year-old woman comes to the emergency room because she “can’t stand the addiction to cocaine anymore.” She tells the physician that she has been using cocaine 1n increasing amounts for the past 2 years, and now her use is totally out of control. Which of the following systems is involved in this drug’s capacity for such a high addiction potential in human beings?",
+    "options": {
+      "A": "Serotonergic",
+      "B": "GABAergic",
+      "C": "Dopaminergic",
+      "D": "Noradrenergic",
+      "E": "Biogenic amine system"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 674.) The dopaminergic system is thought to be involved in the brain’s “reward system,” and this involvement 1s thought to explain the very high addiction potential with regard to cocaine. “Knockout mice,” in which the dopamine transporter gene has been deleted, respond neither biochemically nor behaviorally to cocaine."
+  },
+  {
+    "id": "PT-BIOS-135",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 135,
+    "vignette": "A 50-year-old man notes that several times per week he has a hallucination of the smell of burning rubber. He 1s diagnosed with partial complex seizures. Which of the following regions is most likely to show a discharging focus on EEG?",
+    "options": {
+      "A": "Parietal lobe Temporal lobe Frontal lobe Thalamus Occipital lobe eaos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 725.) Partial complex seizures usually (90% of the time) originate in the temporal lobe. Auras that consist of unpleasant odors often originate in the uncus, an area at the tip of the temporal lobe that is involved in processing olfactory sensations. In the past, such seizures were called uncinate fits."
+  },
+  {
+    "id": "PT-BIOS-136",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 136,
+    "vignette": "Which of the following findings is associated with non-REM (NREM) sleep?",
+    "options": {
+      "A": "Penile tumescence Apnea Narcolepsy Dreaming Night terrors enos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 555.) Night terrors are characterized by a partial awakening accompanied by screaming, thrashing, and autonomic arousal. They are non-REM sleep events. Increase in blood pressure and heart rate, penile erection, and dreaming are associated with REM sleep."
+  },
+  {
+    "id": "PT-BIOS-137",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 137,
+    "vignette": "A 48-year-old man is being treated for a major depression. He complains of depressed mood, anergia, anhedonia, and suicidal ideation with a plan. Which of the following neurochemicals is likely to be abnormal in this patient’s CSF?",
+    "options": {
+      "A": "5-Hydroxyindoleacetic acid (5-HIAA) GABA Dopamine Acetylcholine Substance P enos"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 763-774.) Diminished central serotonin has some role in suicidal behavior. Low concentrations of 5-HIAA have been associated with suicidal behavior, and 5-HIAA is a serotonin metabolite. This finding has been replicated in many studies. Low concentrations of 5-HIAA in the cerebrospinal fluid (CSF) also predicts the presence of future suicidal behavior."
+  },
+  {
+    "id": "PT-BIOS-138",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 138,
+    "vignette": "A 34-year-old man comes to see a psychiatrist because he has been fired for constantly being late to his job. The man states that he feels as if he is in danger of contamination from germs and as a result, he must take showers continuously, often for as many as 8 hours/day. Which of the following transmitters is thought to be involved in this disorder?",
+    "options": {
+      "A": "Dopamine",
+      "B": "Norepinephrine",
+      "C": "Acetylcholine",
+      "D": "Histamine",
+      "E": "Serotonin"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 421-424.) It has been proven that a dysfunction of serotoninergic pathways is implicated 1n the genesis of obsessive-compulsive disorder. This finding 1s supported by the anti- obsessional effects of medications, such as selective serotonin reuptake inhibitors (SSRIs) and clomipramine (a tricyclic), that increase the concentration of serotonin in the synaptic cleft. Of the other neurotransmitters, dopamine is linked to psychosis, acetylcholine plays a role in cognitive functions and memory, and norepinephrine 1s involved in anxiety disorders."
+  },
+  {
+    "id": "PT-BIOS-139",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 139,
+    "vignette": "A 71-year-old man has been treated by a neurologist for Parkinson disease for the past 2 years. One week after his last visit, he called his neurologist, reporting that he suddenly began seeing little people walking all over his furniture. The patient had never previously reported symptoms as described. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": {
+      "A": "Reduce the I-dopa. Increase the I-dopa. Add haloperidol. Add Sinemet. Call a psychiatrist for consultation. eaos"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 710-711.) Hallucinations are the most common side effect of anti-Parkinson medications. Hallucinations occur in 30% of the treated patients and can be induced by any type of medication used to treat Parkinson disease, including dopaminergic agents such as | -dopa, ropinirole and amantidine, MAO inhibitors, and anticholinergic medications. The hallucinations usually consist of clear images of people and animals and may be preceded by sleep disturbances. Increasing age, polypharmacy, long treatment, and use of anticholinergic medications increase the risk for developing hallucinations. Reducing the dosage or eliminating anticholinergic agents is usually the only necessary treatment."
+  },
+  {
+    "id": "PT-BIOS-140",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 140,
+    "vignette": "A 76-year-old man is diagnosed with dementia of the Alzheimer type. Which of the following chemicals has been most commonly associated with this disease?",
+    "options": {
+      "A": "Neuropeptide Y GABA Norepinephrine Somatostatin Substance P eaos f. Glutamate g. Acetylcholine h. Serotonin"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 705-707.) Acetylcholine 1s most commonly associated with dementia of the Alzheimer type, as well as with other dementias. Anticholinergic agents in general have been known to impair learning and memory in normal people. 141 to 143. The answers are 141-c, 142-e, 143-a. (Kaplan and Sadock, pp 35-62.) CNS neurotransmitters include amino acids, biogenic amines, and neuropeptides. There are many other neurotransmitter substances, and many are still poorly understood. This is one of the most exciting areas of current psychiatric research. As more and more knowledge accrues, it becomes possible to develop more specific psychopharmacologic interventions. Glutamic and aspartic acids have excitatory properties. GABA is the principal inhibitory neurotransmitter. The biogenic amines include the catecholamines such as dopamine, norepinephrine, epinephrine, histamine, and the indolamine serotonin. Neuropeptides include B-endorphin, somatostatin, vasopressin, and substance P. Serotonin is affected primarily by fluoxetine, as it 1s a serotonin-specific reuptake inhibitor. Norepinephrine is affected by a wide array of the classical antidepressant drugs as well as some of the newer drugs like mirtazapine. Substance P is known to mediate the perception of pain, and neuropeptide Y has been shown to stimulate the appetite, making it an area of interest for obesity researchers. 144 and 145. The answers are 144-b, 145-a. (Kaplan and Sadock, pp 236- 239.) Damage in their respective named areas (Broca area in the left inferior frontal lobe and Wernicke area in the left superior temporal lobe) causes aphasia of various types. Damage in the Wernicke area gives an aphasia which is characterized by fluent spontaneous speech, poor auditory comprehension, poor repetition ability, and poor naming ability. Damage in the Broca area gives an aphasia that is characterized by non-fluent spontaneous speech, good auditory comprehension, poor repetition ability, and poor naming ability. Conduction aphasia occurs 1n the left arcuate fasciculus region, and gives fluent spontaneous speech, good auditory comprehension, and poor repetition and naming. A global aphasia occurs from damage to the left perisylvian region, and as the name suggests, gives a nonfluent aphasia with poor auditory comprehension, repetition, and naming. An anomic aphasia occurs in the left angular gyrus, and affected individuals have fluent spontaneous speech, good auditory comprehension and repetition, and poor naming."
+  },
+  {
+    "id": "PT-BIOS-146",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 146,
+    "vignette": "A 19-year-old student is studying for his final exams. He is concerned that he will forget everything he has learned within days of the final. Which of the following substances has been implicated in forgetting?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Progesterone",
+      "C": "Agouti-related peptide (AGRP)",
+      "D": "Protein phosphatase I (PP1)",
+      "E": "Amygdala"
+    },
+    "correct": "D",
+    "explanation": "(Higgins and George, p 226.) The proteins that dephosphorylate, called protein phosphatases, turn off cAMP response element binding and therefore turn off gene expression. One of them, protein phosphatase I (PP1), when activated, essentially cleans out memories that are not otherwise being used in the brain. Inhibiting PP1 has been shown in studies with mice to help memories to be retained, thus decreasing forgetting."
+  },
+  {
+    "id": "PT-BIOS-147",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 147,
+    "vignette": "A 54-year-old man is a chronic alcoholic. He has been diagnosed with Korsakoff syndrome (a severe inability to form new memories and a variable inability to recall remote memories). Where in the brain is the damage causing this memory loss likely located?",
+    "options": {
+      "A": "Angular gyrus",
+      "B": "Mammillary bodies",
+      "C": "Hypothalamus",
+      "D": "Globus pallidus",
+      "E": "Arcuate fasciculus"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 720.) Within the diencephalon, the dorsal medial nucleus of the thalamus and the mammillary bodies appear necessary for memory formation. These two structures are damaged in thiamine-deficient states usually seen in chronic alcoholics, and their inactivation is associated with Korsakoff syndrome."
+  },
+  {
+    "id": "PT-BIOS-148",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 148,
+    "vignette": "A 35-year-old man presents to his physician with a slowly developing difficulty of movement and thinking. The patient tells the physician that his father had similar problems. His wife notes that the patient appears depressed and apathetic. On examination, the patient has involuntary choreiform movements of his face, hands, and shoulders. Which of the following areas of the brain 1s likely to show atrophy with this disease?",
+    "options": {
+      "A": "Caudate nucleus",
+      "B": "Frontal lobe(s)",
+      "C": "White matter",
+      "D": "Cerebellum",
+      "E": "Pituitary"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 9, 710.) A family history of a similar disorder, choreiform movements as described, and the onset of a dementia-like illness with depression and apathy, makes the diagnosis of Huntington chorea very likely. Patients with Huntington typically show atrophy of the caudate nucleus. The disorder 1s transmitted through a dominant gene. Symptoms typically do not occur until the age of 35 or later (the earlier the disease manifests, the more severe the disease tends to be)."
+  },
+  {
+    "id": "PT-BIOS-149",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 149,
+    "vignette": "A 58-year-old man has a brain lesion that causes him to feel euphoric, laugh uncontrollably, and joke and make puns. Where is this brain lesion most likely located?",
+    "options": {
+      "A": "Fornix",
+      "B": "Right prefrontal cortex",
+      "C": "Hippocampus",
+      "D": "Left orbitofrontal cortex",
+      "E": "Amygdala"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 14, 352.) A lesion to the right prefrontal area may produce laughter, euphoria, and a tendency to joke and make puns. In contrast, a lesion to the left prefrontal area abolishes the normal mood-elevating influences of this area and produces depression and uncontrollable crying."
+  },
+  {
+    "id": "PT-BIOS-150",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 150,
+    "vignette": "A 28-year-old man with a 6-month history of symptoms 1s noted to have disinhibition, lability, and euphoria. He is also noted to have a lack of remorse. Which area of the man’s brain is likely to be dysfunctional?",
+    "options": {
+      "A": "Orbitofrontal region of frontal lobe Dorsolateral region of frontal lobe Medial region of frontal lobe Limbic system Parietal lobe ono s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 761.) Dysfunction of the orbitofrontal area causes disinhibition, irritability, lability, euphoria, and lack of remorse. Insight and judgment are impaired; patients are distractible. These features are reminiscent of the diagnoses of antisocial personality disorder and intermittent explosive disorder."
+  },
+  {
+    "id": "PT-BIOS-151",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 151,
+    "vignette": "A 44-year-old man has had a traumatic injury to his brain. Since the accident, he has appeared inattentive and under-motivated. He tends to linger on trivial thoughts and echoes the examiner’s questions. Which area of the man’s brain 1s likely to have been traumatized?",
+    "options": {
+      "A": "Orbitofrontal region of frontal lobe Dorsolateral region of frontal lobe Medial region of frontal lobe Limbic system Parietal lobe ono s"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 1237.) Lesions in the dorsolateral area lead to deficiencies of planning, monitoring, flexibility, and motivation. Patients may be unable to use foresight and feedback or to maintain goal-directedness, focus, or sustained effort. They appear inattentive and under-motivated, cannot plan novel cognitive activity, and exhibit a tendency to linger on trivial thoughts. They may echo the examiner’s questions and react primarily to details of environmental stimuli —miussing the forest for the trees."
+  },
+  {
+    "id": "PT-BIOS-152",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Biologic and Related Sciences",
+    "domain": "biosciences",
+    "question_num": 152,
+    "vignette": "A 48-year-old man sustains injury to his brain, which leaves him unable to tell if a person is angry or afraid based on voice and facial expression cues. However, the patient can still discern happiness, sadness or disgust using these same kinds of cues. Which of the following areas of the brain has most likely been affected?",
+    "options": {
+      "A": "Vitamin A excess",
+      "B": "Vitamin B,, deficiency",
+      "C": "Folate deficiency",
+      "D": "Thiamine deficiency",
+      "E": "Vitamin D excess f. Vitamin E excess"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 14.) The amygdala seems to be a vitally important ‘gate’ in which both internal and external sensory stimuli are integrated. In effect, the amygdala takes information from the external senses and interweaves them with internal cues, such as thirst, to assign emotional meaning to sensory experiences. Damage to the amygdala has been shown to impair a person’s ability to recognize fear and anger from external cues of voice and facial expression. 153 to 158. The answers are 153-c, 154-e, 155-d, 156-a, 157-f, 158-b. (Hales, Yudofsky, and Roberts, pp 751, 828.) Vitamin deficiencies (and more rarely, their excess) can cause psychiatric symptoms. Patients with celiac disease, on kidney dialysis, who are heavy smokers, or who are pregnant are more at risk for folic acid deficiency, which can cause depression and dementia, in addition to neural tube defects in infants born to mothers with such deficits. Thiamine deficiency 1s rarely seen in industrialized society, but the acute depletion of already low stores of thiamine in an alcoholic patient may lead to Wernicke encephalopathy (think COAT: Confusion, Ophthalmoplegia, Ataxia, and Thiamine to treat) and Korsakoff syndrome (think RACK: Retrograde and Anterograde amnesia, Confabulation, Korsakoff syndrome). Vitamin B,, deficiency is most commonly found in the elderly, those status post gastric surgery, or in malnourished depressed patients. The most common psychiatric symptoms displayed in vitamin B,, deficiency include apathy, depressed mood, confusion, and memory deficits. A variety of neurologic deficits may coexist as well, among them, sensory deficits and the decrease or absence of deep tendon reflexes. Excesses of vitamins are generally seen in those who take massive doses of oral supplements, and the symptoms seen usually rapidly reverse once the supplements are removed. Vitamin A excess reveals itself with a yellowing of the skin and conjunctivae similar in some respects to jaundice. Vitamin D excess leads to the calcification of bone and soft tissue, as well as the formation of kidney stones (from hypercalcemia). Kidney damage that occurs may be irreversible. Vitamin E excess leads to problems with clotting, and if severe, may lead to hemorrhagic strokes. If necessary, vitamin K can help stop the bleeding. Vitamin E 1s often taken by patients 1n the belief that 1t provides protection against heart attacks, though there is no evidence to support this notion. 159 to 165. The answers are 159-c, 160-f, 161-g, 162-a, 163-b, 164-d, 165-e. (Kaplan and Sadock, pp 36-41.) At least 14 distinct serotonin receptors have now been recognized. The fact that they are distributed throughout the body means they are sometimes responsible for a whole host of side effects when serotonergic drugs are used. Receptors in the limbic system may cause an initial increase in anxiety after being started on a serotonergic drug. Receptors in the intestines (90% of the body’s serotonin is found in the intestines!) may cause gastrointestinal (GI) upset and diarrhea. Receptors in the cranial blood vessels may cause headache. Receptors in the basal ganglia may be responsible for akathisia and agitation. Receptors in either the brain stem vomiting center (area postrema) or the hypothalamus may cause nausea and vomiting. Receptors in the various parts of the brain stem’s sleep centers may cause either insomnia or somnolence. Receptors in the spinal cord pathways may cause sexual dysfunction. It is very difficult and nearly impossible to predict which side effects will occur in a particular patient when serotonergic drugs are used. 166 to 170. The answers are 166-c, 167-d, 168-a, 169-b, 170-e. (Kaplan and Sadock, pp 280-281.) MRIs distinguish between white and gray matter better than CT scans, and allow one to see smaller lesions, as well as white matter abnormalities. Chronic infections, including neurosyphilis, may produce a characteristic enhancement of the meninges at the base of the brain. (Other chronic infections such as cryptococcosis, tuberculosis, and Lyme disease, may also produce this kind of finding.) Dementia and a gait disorder in a 40-year-old woman brings the diagnosis of normal pressure hydrocephalus to the forefront. The MRI in this case would show a dilatation of the ventricles. The 36-year-old man in question 168 has multiple sclerosis; his MRI would show periventricular patches of increased signal intensity. These are the multiple sclerosis plaques. The 40-year-old man in question 169 has Huntington disease, which produces a characteristic appearance on MRI of atrophy of the caudate nucleus. The 72-year-old woman in question 170 has a dementia. The appearance of patches of increased signal in the white matter (not just periventricular in location) would give the diagnosis of a vascular dementia. 171 to 174. The answers are 171-a, 172-b, 173-c, 174-d. (Kaplan and Sadock, p 86.) A diffuse slowing of background rhythms on an EEG 1s the most common EEG abnormality found. It is quite nonspecific, and may be found in a wide range of patients with diffuse encephalopathy from a number of causes. Triphasic waves are generalized synchronous runs of waves that occur in brief runs. Fifty percent of patients with these runs found on EEG have a hepatic encephalopathy; the rest have other toxic- metabolic encephalopathies. Generalized periodic sharp waves are most commonly found in cerebral anoxia. However 90% of Creutzfeldt-Jakob have them as well. Periodic lateralizing epileptiform discharges suggest the presence of an acutely destructive cerebral lesion. Patients with this waveform on EEG may present with seizures, obtundation, and/or focal neurological findings. Disorders Seen in Childhood and Adolescence"
+  }
+]

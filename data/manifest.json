@@ -1,0 +1,70 @@
+{
+  "pretest": {
+    "evaluation": {
+      "chapter": "Evaluation, Assessment, and Diagnosis",
+      "count": 31,
+      "file": "pretest/evaluation.json"
+    },
+    "development": {
+      "chapter": "Human Behavior: Theories of Personality and Development",
+      "count": 26,
+      "file": "pretest/development.json"
+    },
+    "biosciences": {
+      "chapter": "Human Behavior: Biologic and Related Sciences",
+      "count": 35,
+      "file": "pretest/biosciences.json"
+    },
+    "child": {
+      "chapter": "Disorders Seen in Childhood and Adolescence",
+      "count": 16,
+      "file": "pretest/child.json"
+    },
+    "neurocognitive": {
+      "chapter": "Neurocognitive Disorders and Consultation-Liaison Psychiatry",
+      "count": 38,
+      "file": "pretest/neurocognitive.json"
+    },
+    "psychosis": {
+      "chapter": "Schizophrenia and Other Psychotic Disorders",
+      "count": 21,
+      "file": "pretest/psychosis.json"
+    },
+    "psychotherapy": {
+      "chapter": "Psychotherapies",
+      "count": 11,
+      "file": "pretest/psychotherapy.json"
+    },
+    "mood": {
+      "chapter": "Mood Disorders",
+      "count": 24,
+      "file": "pretest/mood.json"
+    },
+    "anxiety": {
+      "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+      "count": 9,
+      "file": "pretest/anxiety.json"
+    },
+    "personality": {
+      "chapter": "Personality Disorders, Sexuality, Miscellaneous",
+      "count": 16,
+      "file": "pretest/personality.json"
+    },
+    "substance": {
+      "chapter": "Substance-Related Disorders",
+      "count": 25,
+      "file": "pretest/substance.json"
+    },
+    "psychopharm": {
+      "chapter": "Psychopharmacology and Somatic Therapies",
+      "count": 37,
+      "file": "pretest/psychopharm.json"
+    },
+    "forensic": {
+      "chapter": "Law and Ethics in Psychiatry",
+      "count": 15,
+      "file": "pretest/forensic.json"
+    }
+  },
+  "total_pretest": 304
+}

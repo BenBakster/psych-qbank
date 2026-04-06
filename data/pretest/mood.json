@@ -1,0 +1,357 @@
+[
+  {
+    "id": "PT-MOOD-317",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 317,
+    "vignette": "A 37-year-old woman comes to the physician with a chief complaint of a depressed mood. The patient states she has anhedonia, anergia, a 10-lb weight loss in the last 3 weeks, and states she “just doesn’t care about anything anymore.” She also admits to suicidal ideation without intent or plan. The patient is started on an SSRI. After 1 week of the medication, no improvement is seen and the dosage is raised to the maximum recommended level. Assuming there is no improvement shown, for how many weeks should this new dosage be maintained before determining that the drug trial is unsuccessful?",
+    "options": {
+      "A": "1 to3 weeks 4 to 6 weeks 8 to 10 weeks 12 to 14 weeks 16 or more weeks eaos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 376.) The most common clinical mistake made when treating a patient with a major depressive disorder is to put the patient on a dose of an antidepressant that is too low, or is used for too short a time. Doses of antidepressants should generally be raised to their maximal doses and kept there for 4 to 6 weeks before a drug trial 1s considered unsuccessful. However, if a patient is doing well on a low dose of an antidepressant, that dosage should not be raised unless clinical improvement stops before the patient has reached his maximum benefit from the drug."
+  },
+  {
+    "id": "PT-MOOD-318",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 318,
+    "vignette": "A 25-year-old man comes to the psychiatrist with a chief complaint of depressed mood for 1 month. His mother, to whom he was very close, died 1 month ago, and since that time he has felt sad and been very tearful. He has difficulty concentrating, has lost 3 lb, and is not sleeping soundly through the night. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Major depressive disorder Persistent depressive disorder Posttraumatic stress disorder Adjustment disorder Uncomplicated bereavement eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 293, 295.) The loss of a loved one 1s often accompanied by symptoms reminiscent of major depression, such as sadness, weepiness, insomnia, reduced appetite, and weight loss. When these symptoms do not persist beyond 2 months after the loss, they are considered a normal manifestation of bereavement. A diagnosis of major depressive disorder in these circumstances requires the presence of marked functional impairment, morbid preoccupations with unrealistic guilt or worthlessness, suicidal ideation, marked psychomotor retardation, and psychotic symptoms, on top of the symptoms listed in the first sentence above. A diagnosis of adjustment disorder with depressed mood would not normally be given to someone when the “adjustment” is to the recent death of a loved one—instead, bereavement is the diagnosis given (persistent complex or uncomplicated)."
+  },
+  {
+    "id": "PT-MOOD-319",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 319,
+    "vignette": "A 32-year-old woman 1s brought to the emergency room by the police after she was found standing in the middle of a busy highway, naked, commanding the traffic to stop. In the emergency room she is agitated and restless, with pressured speech and an affect that alternates between euphoric and irritable. The resident on call decides to start the patient on a medication to control this disease. The patient refuses the medication, stating that she has taken it in the past and it causes her to gain weight, feel nauseous and sedated, and have a bothersome tremor. Which of the following medications is being discussed?",
+    "options": {
+      "A": "Valproic acid",
+      "B": "Haloperidol",
+      "C": "Carbamazepine",
+      "D": "Lithium",
+      "E": "Sertraline"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 1046-1047.) Valproic acid has taken over from lithium as the recommended first-line treatment for acute mania. Two thirds of these patients will typically respond to it. It 1s at least as effective as lithium, but better tolerated. Severe hepatotoxicity and pancreatitis have been reported with this medication, and it carries a black box warning for these side effects."
+  },
+  {
+    "id": "PT-MOOD-320",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 320,
+    "vignette": "A 30-year-old man comes to the psychiatrist for the evaluation of a depressed mood. He states that at least since his mid-20s he has felt depressed. He notes poor self-esteem and low energy, and feels hopeless about his situation, though he denies suicidal ideation. He states he does not use drugs or alcohol, and has no medical problems. His last physical examination by his physician 1 month ago was entirely normal. Which of the following treatment options should be tried first?",
+    "options": {
+      "A": "ECT",
+      "B": "Hospitalization",
+      "C": "Psychoanalysis",
+      "D": "Venlafaxine",
+      "E": "Amoxapine"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 384.) This patient has a persistent depressive disorder, previously known as dysthymic disorder. While many clinicians do not believe that these disorders should be treated pharmacologically, there are a number of studies that show positive responses to antidepressants with these patients. Venlafaxine and bupropion are generally believed to be the treatments of choice for persistent depressive disorder, though there is a subgroup of patients that will respond to the MAOIs as well. A combination of pharmacotherapy and psychotherapy is likely the best treatment modality."
+  },
+  {
+    "id": "PT-MOOD-321",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 321,
+    "vignette": "A 26-year-old man comes to the physician with the chief complaint of a depressed mood for the past 5 weeks. He has been feeling down, with decreased concentration, energy, and interest in his usual hobbies. Six weeks prior to this office visit, he had been to the emergency room for an acute asthma attack and was started on prednisone. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Mood disorder due to another medical condition Substance/Medication-induced depressive disorder Major depressive disorder Adjustment disorder with depressed mood Persistent depressive disorder (dysthymia) ono s"
+    },
+    "correct": "B",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 381-382.) According to DSM-5 criteria, patients developing a mood disorder after using a substance (either illicit or prescribed) are diagnosed with a substance/medication-induced mood disorder. The diagnosis of major depressive disorder cannot be made in the presence of either substance use or another medical condition that might be the cause of the mood disorder. Prednisone 1s a common culprit in causing mood disorders ranging from depression to mania to psychosis."
+  },
+  {
+    "id": "PT-MOOD-322",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 322,
+    "vignette": "What percentage of new mothers 1s believed to experience postpartum blues?",
+    "options": {
+      "A": "<1%",
+      "B": "10%",
+      "C": "20%",
+      "D": "50%",
+      "E": "90%"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 839.) Postpartum blues is extremely common in women who give birth, with upwards of 30% to 75% of women experiencing it in the 3 to 5 days after delivery. There is no association of mood disorders with this syndrome, and suicidal thoughts are not present. The blues typically last days to weeks, then remit spontaneously without treatment."
+  },
+  {
+    "id": "PT-MOOD-323",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 323,
+    "vignette": "Which of the following factors may be most helpful in distinguishing postpartum blues from postpartum depression?",
+    "options": {
+      "A": "Presence of tearfulness Presence of sleep disturbance Presence of depressed mood Time of onset 3 to 6 months after delivery Duration of one month eaos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 839) Postpartum blues is a more common, but generally much less severe, occurrence of depressed mood symptoms in women who have given birth recently. In general, while both types of patients may display sleep disturbance, tearfulness, and a depressed mood, patients with postpartum depression evidence this within 3 to 6 months after the birth of the child, and go on, without treatment, to show anhedonia, suicidal thoughts, thoughts of harming the baby, and feelings of guilt and inadequacy. While the blues remit spontaneously in days to weeks, postpartum depression should be treated with antidepressant, and sometimes antipsychotic, medication as warranted."
+  },
+  {
+    "id": "PT-MOOD-324",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 324,
+    "vignette": "How long after a stroke is a patient most likely to develop a post- stroke depression?",
+    "options": {
+      "A": "2 weeks 2 months 6 months 1 year eaos 2 years"
+    },
+    "correct": "C",
+    "explanation": "(Stern, Herman, and Gorrindo, pp 335-336.) Studies of the course and prognosis of post-stroke depression indicate that 75% of patients with post-stroke depression will develop it within the first 6 months following the stroke. This disorder may occur in about 33% of stroke victims."
+  },
+  {
+    "id": "PT-MOOD-325",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 325,
+    "vignette": "A 22-year-old college student calls his psychiatrist because for the past week, after cramming hard for finals, his thoughts have been racing and he is irritable. The psychiatrist notes that the patient’s speech 1s pressured as well. The patient has been stable for the past 6 months on 500 mg of valproate twice a day, and a blood level is in the therapeutic range. Which of the following is the most appropriate first step in the management of this patient’s symptoms?",
+    "options": {
+      "A": "Hospitalize the patient. Increase the valproate by 500 mg/day. Prescribe clonazepam 1 mg ghs. Start haloperidol 5 mg qd. Tell the patient to begin psychotherapy one time per week. eno s"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 373-374.) Sleep deprivation has an antidepressant effect in depressed patients and may trigger a manic episode in bipolar patients. The patient is not ill enough to require hospitalization. The use of a long-acting benzodiazepine will allow the patient to return to a normal sleep pattern and generally will abort the manic episode."
+  },
+  {
+    "id": "PT-MOOD-326",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 326,
+    "vignette": "A 24-year-old woman, 5 days after delivery of a normal, full-term infant, 1s brought to the obstetrician because she is so tearful. She states that her mood is quite labile, often changing within minutes. She has trouble sleeping, both falling asleep and awakening early. She notes anhedonia, stating she doesn’t enjoy “much of anything” right now. Which of this patient’s symptoms point preferentially to a postpartum depression as opposed to postpartum blues?",
+    "options": {
+      "A": "Time—that is, 5 days post delivery",
+      "B": "Tearfulness",
+      "C": "Labile mood",
+      "D": "Insomnia",
+      "E": "Anhedonia"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 839.) All of the symptoms that this patient 1s experiencing except one are congruent with the postpartum blues. These symptoms may last several days, and are thought to be secondary to the combination of large hormonal shifts and the awareness of increased responsibility for anew human being. Anhedonia is not seen in postpartum blues, but is common in postpartum depressions."
+  },
+  {
+    "id": "PT-MOOD-327",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 327,
+    "vignette": "A 28-year-old woman sees her physician with the chief complaint of a depressed mood for the past 4 weeks, since just after the Christmas season. She also notes that she 1s sleeping more than usual—up to 14 hours per night—but does not feel rested and that she feels tired and fatigued all the time. She has gained 14 Ib in the last month, something that she 1s very unhappy about, but she says that she seems to have such a craving for sweets that the weight gain seemed inevitable. Thyroid function tests are within normal limits. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Depressive disorder due to another medical condition Substance/Medication-induced mood disorder Cyclothymia Major depressive disorder with seasonal pattern Persistent Depressive (Dysthymic) disorder ono s"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 357, 360-361.) Patients with major depressive disorder with a seasonal pattern (formerly known as seasonal affective disorder) typically present in just the way this patient has. Patients usually exhibit typical signs and symptoms seasonally, most often during the winter, with symptoms remitting in the spring. Hypersomnia and hyperphagia (atypical signs of a depression) are classically seen with this disorder. Light therapy and serotonergic agents (typically SSRIs) are the treatments of choice for this disorder."
+  },
+  {
+    "id": "PT-MOOD-328",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 328,
+    "vignette": "A 38-year-old woman with bipolar disorder has been stable on lithium for the past 2 years. She comes to her psychiatrist’s office in tears after a 2- week history of a depressed mood, poor concentration, loss of appetite, and passive suicidal ideation. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": {
+      "A": "Start the patient on a second mood stabilizer. Start the patient on a long-acting benzodiazepine. Stop the lithium and start an antidepressant. Start an antidepressant and continue the lithium. Stop the lithium and start an antipsychotic. ono s"
+    },
+    "correct": "D",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 347-348.) Since lithium and other mood stabilizers are more effective in the prevention of manic episodes than in the prevention of depression, antidepressants are used as an adjunctive treatment when depressive episodes develop during maintenance with a mood stabilizer, even though there is an absence of definitive data about this treatment in large clinical trials. Since the incidence of antidepressant-induced mania is high (up to 30%), and since antidepressant treatment may cause rapid cycling, the antidepressant should be tapered and discontinued as soon as the depressive symptoms remit. Among the antidepressants in common use, bupropion 1s considered to carry a slightly lower risk of triggering mania."
+  },
+  {
+    "id": "PT-MOOD-329",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 329,
+    "vignette": "A 27-year-old woman has been feeling blue for the past 2 weeks. She has little energy and has trouble concentrating. She states that 6 weeks ago she had been feeling very good, with lots of energy and no need for sleep. She says that this pattern has been occurring for at least the past 3 years, though the episodes have never been so severe that she couldn’t work. Which of the following 1s the most likely diagnosis?",
+    "options": {
+      "A": "Borderline personality disorder Major depressive disorder with seasonal pattern Cyclothymic disorder Major depressive disorder Bipolar I disorder, current episode depressed eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 384-386.) Cyclothymic disorder 1s characterized by recurrent periods of mild depression alternating with periods of hypomania. This pattern must be present for at least 2 years before the diagnosis can be made. During these 2 years, the symptom-free intervals should not be longer than 2 months. Cyclothymic disorder usually starts during adolescence or early adulthood and tends to have a chronic course. The marked shifts in mood of cyclothymic disorder can be confused with the affective instability of borderline personality disorder or may suggest a substance abuse problem."
+  },
+  {
+    "id": "PT-MOOD-330",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 330,
+    "vignette": "A 19-year-old woman comes to the psychiatrist for a history of anger and irritability, which occurs once monthly on average. During this time the patient also reports feeling anxious and “about to explode,” which alternates rapidly with crying spells and angry outbursts. The patient notes during this time she can’t concentrate and sleeps much more than she usually needs to do. During the several days these symptoms last, the patient must skip most of her classes because she cannot function. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Adjustment disorder with depressed mood",
+      "B": "Mayor depressive disorder",
+      "C": "Premenstrual dysphoric disorder",
+      "D": "Persistent depressive (Dysthymic) disorder",
+      "E": "Depressive personality disorder"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 841-842.) Premenstrual dysphoric disorder is an illness which is triggered by the changing levels of hormones that occur during a menstrual cycle. It occurs approximately 1 week before the onset of menses and is characterized by headaches, anxiety, depression, irritability, and emotional lability. Other symptoms include edema, weight gain, and breast pain. Approximately 5% of women suffer from this disorder. Some patients respond to short courses of SSRIs (although no treatment has been found to be effective in multiple trials), in addition to symptomatic treatment with analgesics and diuretics."
+  },
+  {
+    "id": "PT-MOOD-331",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 331,
+    "vignette": "A 42-year-old woman sees her physician because she has been depressed for the past 4 months. She also notes that she has gained 20 Ib without trying to. She notes that she does not take pleasure 1n the activities that she once enjoyed and seems fatigued most of the time. These symptoms have caused the patient to withdraw from many of the social functions that she once enjoyed. The physician diagnoses the patient with hypothyroidism and starts her on thyroid supplementation. S1x weeks later, the patient’s thyroid hormone levels have normalized, but she still reports feeling depressed. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": {
+      "A": "Recommend that the patient begin psychotherapy.",
+      "B": "Increase the patient’s thyroid supplementation.",
+      "C": "Start the patient on an antidepressant medication.",
+      "D": "Tell the patient that she should wait another 6 weeks, during which time her mood will improve.",
+      "E": "Take a substance abuse history from the patient."
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 735.) This patient is likely suffering from a mood disorder due to another medical condition, characterized by a depressed mood and loss of interest in activities she usually enjoyed. It is interesting to note that some of these mood disorders, especially those caused by an endocrine disorder, persist even after the underlying medical condition has been treated. In that case (and in the case described in this question), the physician should begin the patient on antidepressant medication."
+  },
+  {
+    "id": "PT-MOOD-332",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 332,
+    "vignette": "A 64-year-old man is admitted to the psychiatric unit after an unsuccessful suicide attempt. Following admission, he attempts to cut his wrists three times in the next 24 hours and refuses to eat or drink anything. He 1s scheduled to have electroconvulsive therapy (ECT) because he is so severely depressed that an antidepressant 1s deemed too slow acting. Which of the following side effects should the patient be informed is most common after ECT?",
+    "options": {
+      "A": "Headache Palpitations Deep venous thromboses Interictal confusion Worsening of the suicidal ideation eno s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 1071-1072.) The most common complaints after ECT include headaches, nausea, and muscle soreness. Memory impairment (both retrograde and anterograde) does occur but less frequently, though 75% of patients say that memory impairment is the worst adverse effect. Interictal confusion 1s quite uncommon. Likewise, cardiovascular changes do occur, but they are rare and happen mostly in the immediate postictal period or during the seizure itself."
+  },
+  {
+    "id": "PT-MOOD-333",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 333,
+    "vignette": "A 14-year-old boy is brought to the psychiatrist because for the past 15 months he has been irritable and depressed almost constantly. The boy notes that he has difficulty concentrating, and he has lost 5 lb during that time period without trying. He states that he feels as if he has always been depressed, and he feels hopeless about ever feeling better. He denies suicidal ideation or hallucinations. He is sleeping well and doing well in school, though his teachers have noticed that he does not seem to be able to concentrate as well as he had previously. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Major depressive disorder Persistent depressive (dysthymic) disorder Depressive disorder due to another medical condition Normal adolescence Cyclothymia enos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 1229.) This patient is suffering from a persistent depressive (dysthymic) disorder, characterized by an irritable or depressed mood for at least 1 year. (This patient is an adolescent—if he were an adult, the time requirement for the diagnosis of dysthymic would be 2 years.) The patient complains of difficulty concentrating and has had some weight loss. He also feels hopeless about ever not feeling depressed. However, he has no suicidal ideation or psychotic symptoms and no other vegetative symptoms. He is still doing well in school, a clue that the depression is probably not severe enough to rate a diagnosis of major depressive disorder, especially when combined with the length of time that this patient has been depressed and irritable."
+  },
+  {
+    "id": "PT-MOOD-334",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 334,
+    "vignette": "A 29-year-old man is brought to the hospital because he was found running around on the streets with no shoes on in the middle of winter, screaming to everyone that he was going to be elected president. Upon admission to the hospital, he was stabilized on olanzapine and lithium and then discharged home. Assuming the patient 1s maintained on the olanzapine and the lithium, which of the following tests should be performed at least once per year?",
+    "options": {
+      "A": "MRI of the brain Liver function tests Creatinine level Rectal examination to look for the presence of blood in the stool Electrocardiogram (ECG) eaos"
+    },
+    "correct": "C",
+    "explanation": "(Stern, Herman, and Gorrindo, p 277.) This patient, likely suffering from bipolar I disorder, most recent episode mania, 1s being maintained on lithium and an antipsychotic. Patients on lithium, at minimum, should be monitored for the following: plasma lithium level (once every month or two until the patient 1s stable, and then less frequently if he or she 1s reliable), thyroid function tests, creatinine, and urinalysis. EKGs are part of the list of optional recommendations for patients on lithium but are generally reserved for patients over the age of 50. There are no standard blood tests or other examinations to monitor the use of olanzapine."
+  },
+  {
+    "id": "PT-MOOD-335",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 335,
+    "vignette": "A 45-year-old woman comes to her physician for help with her insomnia. She states “ever since my husband died, I just can’t sleep.” The patient states her 57-year-old husband died suddenly of a heart attack 9 weeks ago. Since that time, the patient has had a very depressed mood, has been crying, has lost interest in activities, is fatigued, and has insomnia. Which of the following symptoms, if present, should make the physician think this patient has a major depressive disorder instead of bereavement?",
+    "options": {
+      "A": "The patient feels that she would be better off dead without her husband.",
+      "B": "The patient has marked functional impairment.",
+      "C": "The patient has lots of guilt about not recognizing that the chest pain her husband was having was the start of a heart attack.",
+      "D": "The patient has mild psychomotor retardation.",
+      "E": "The patient reports hearing the voice of her dead husband calling her name twice."
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 815.) This patient is suffering from bereavement, which normally begins immediately after, or within a short time of the death of a loved one. There are certain symptoms that are not characteristic of a “normal” grief reaction and may help in the differentiation of bereavement from a major depression. These include (1) guilt about things other than actions taken or not taken by the survivor at the time of the loved one’s death, (2) thoughts of death other than the survivor feeling he/she would be better off dead without the loved one, (3) a morbid preoccupation with worthlessness, (4) marked psychomotor retardation, (5) marked and prolonged functional impairment, and (6) hallucinations other than the survivor believing he/she can hear the voice or see the loved one."
+  },
+  {
+    "id": "PT-MOOD-336",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 336,
+    "vignette": "A 10-year-old boy is brought to the psychiatrist by his mother. She states that for the past 2 months he has been increasingly irritable, withdrawn, and apathetic. He has been refusing to do his homework, and his grades have dropped. Which of the following is the best next step in management?",
+    "options": {
+      "A": "The child should be hospitalized.",
+      "B": "The child should be started in supportive psychotherapy.",
+      "C": "The mother should be warned that the child will likely turn out to be bipolar (67% chance).",
+      "D": "The child should receive an antidepressant medication.",
+      "E": "The child should receive lithium and an antidepressant."
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 1226-1235.) Major depression is not a rare occurrence in children. Prevalence rates 2% in school age children. Making a correct diagnosis is complicated by the fact that the presentation of juvenile depression often differs from the adult presentation. Depressed preschoolers tend to be irritable, aggressive, withdrawn, or clingy instead of sad. In school-age children, the main manifestation of depression may be a significant loss of interest in friends and school. By adolescence, presenting symptoms of depression become more similar to those of adults. Psychotic symptoms are common in depressed children, most commonly one voice that makes depreciative comments and mood-congruent delusional ideations. Up to one-third of children diagnosed with major depression receive a diagnosis of bipolar disorder later in life. This evolution is more likely when the depressive episode has an abrupt onset and is accompanied by psychotic symptoms. Childhood depression can be treated pharmacologically, but child response to medication differs from adult response. SSRIs have been proven effective in preschoolers and school-age children; tricyclic antidepressants (TCAs) have not. The response of older adolescents to antidepressants is equivalent to the adult response. Supportive psychotherapy alone 1s likely to be ineffective in treatment of a childhood major depression. Optimal treatment includes cognitive behavioral therapy as well as psychopharmacologic intervention."
+  },
+  {
+    "id": "PT-MOOD-337",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 337,
+    "vignette": "A 35-year-old woman 1s seeing a psychiatrist for treatment of her major depressive disorder. After 4 weeks on fluoxetine at 40 mg/day, her psychiatrist decides to try augmentation. Which of the following is the most appropriate medication?",
+    "options": {
+      "A": "Lithium",
+      "B": "Sertraline ce. An MAO inhibitor",
+      "D": "Clonazepam",
+      "E": "Haloperidol"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 984.) Lithium has been proven effective when added to an antidepressant in the treatment of refractory depression. More than one mechanism of action is probably involved, although lithium’s ability to increase the presynaptic release of serotonin is the best understood. Other augmentation strategies include the use of thyroid hormones, stimulants, estrogens, and light therapy. The combination of two SSRIs (in this case, fluoxetine and sertraline) or of an MAOI and an SSRI is not recommended because of the risk of precipitating a serotonin syndrome."
+  },
+  {
+    "id": "PT-MOOD-338",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 338,
+    "vignette": "Which of the following conditions puts a patient at increased risk during ECT?",
+    "options": {
+      "A": "Space-occupying lesion in the brain",
+      "B": "Uncomplicated pregnancy",
+      "C": "Hypertension which has been stabilized on an antihypertensive medication",
+      "D": "Seizure disorder",
+      "E": "Status post-myocardial infarction 6 months earlier"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 1071.) ECT 1s a safe procedure with very few relative contraindications (myocardial infarcts within the past 4 weeks, increased intracranial pressure, aneurysms, bleeding disorders, and any condition that disrupts the blood-brain barrier). Patients with a space-occupying lesion in the brain can be pretreated with dexamethasone, with hypertension during the seizure carefully controlled."
+  },
+  {
+    "id": "PT-MOOD-339",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 339,
+    "vignette": "A middle-aged woman presents with a variety of cognitive and somatic symptoms, fatigue, and memory loss. She denies feeling sad, but her family physician 1s aware of this patient’s lifelong inability to identify and express feelings. He suspects she 1s depressed. Which of the following results is most likely to confirm a diagnosis of major depressive disorder?",
+    "options": {
+      "A": "Reduced metabolic activity and blood flow in both frontal lobes on PET scan Diffuse cortical atrophy on CAT scan Atrophy of the caudate on MRI Prolonged rapid eye movement (REM) sleep latency in a sleep study Subcortical infarcts on MRI ono s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 351.) Positron emission tomography (PET) scan has consistently demonstrated a decrease in blood flow and metabolism in the frontal lobe of depressed patients. Most studies have found bilateral rather than unilateral deficits and equivalent decreases in several types of depression (unipolar, bipolar, associated with OCD). Cortical atrophy and subcortical infarcts are associated, respectively, with Alzheimer disease and major neurocognitive disorder due to vascular disease. Atrophy of the caudate is characteristic of Huntington disease. In major depressive disorder, the REM sleep latency (the period of time between falling asleep and the first period of REM sleep) is shortened, not prolonged."
+  },
+  {
+    "id": "PT-MOOD-340",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Mood Disorders",
+    "domain": "mood",
+    "question_num": 340,
+    "vignette": "A 32-year-old man is being treated for a severe major depressive disorder. Which of the following symptoms, if present, is one of the most accurate indicators of long-term suicidal risk?",
+    "options": {
+      "A": "Major depressive disorder with atypical features Double depression Cyclothymic disorder Major depressive disorder with melancholic features Schizoaffective disorder Major depressive disorder with seasonal pattern hones",
+      "B": "Presence of rage in the patient",
+      "C": "Hopelessness",
+      "D": "Presence of guilt",
+      "E": "Presence of a need for punishment in the patient Questions 341 to 344 Match each patient’s symptoms with the most appropriate diagnosis. Each lettered option may be used once, more than once, or not at all."
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 769.) A study by Beck showed that hopelessness 1s one of the most accurate indicators of long- term suicidal risk. No one specific psychodynamic or personality structure is associated with higher risks of suicide. Revenge fantasies, overwhelming affects such as guilt or rage, or the patient’s unconscious wish for punishment can all precipitate a suicide attempt. 341 to 344, The answers are 341-d, 342-b, 343-a, 344-f. (Kaplan and Sadock, pp 362-364, 383.) Major depressive disorder with melancholic features, a variant of major depressive disorder, is characterized by loss of pleasure in all activities (anhedonia), lack of reactivity (nothing can make the patient feel better), intense guilt, significant weight loss, early morning awakening, and marked psychomotor retardation. TCAs have been considered to be more effective than other antidepressants in the treatment of melancholic depression. Double depression is diagnosed when a major depressive episode develops in a patient with dysthymic disorder. Approximately 40% of patients with a major depressive disorder also meet the criteria for persistent depressive disorder (dysthymia). Compared with patients who are euthymic between depressive episodes, dysthymic patients with superimposed major depressive disorder experience a higher risk for suicide, more severe depressive symptoms, more psychosocial impairment, and more treatment resistance. Major depressive disorder with atypical features, another variant of major depressive disorder, is characterized by mood reactivity (pleasurable events may temporarily improve the mood), self-pity, excessive sensitivity to rejection, reversed diurnal mood fluctuations (patients feel better in the morning), and reversed vegetative symptoms (increased appetite and increased sleep). Approximately 15% of patients with depression have atypical features. MAOIs are considered to be more effective than other classes of antidepressants in atypical depression. Major depressive disorder with seasonal pattern is characterized by a regular temporal relationship between the appearance of symptoms of depression or mania and a particular time of the year. Depression characteristically starts in the fall and resolves spontaneously 1n spring, with a mean duration of 5 to 6 months. Characteristic symptoms include irritability, increased appetite with carbohydrate craving, increased sleep, and increased weight. The shortening of the day is the precipitant for seasonal depression. Manic episodes are associated with increased length of daylight and, consequently, with the summer months. Anxiety, Obsessive-Compulsive, Trauma- or Stressor-Related, Somatic Symptom and Dissociative Disorders"
+  }
+]

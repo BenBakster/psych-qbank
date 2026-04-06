@@ -1,0 +1,160 @@
+[
+  {
+    "id": "PT-PSYC-277",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 277,
+    "vignette": "A 28-year-old woman comes to the psychiatrist for help with her fear of flying. She states that for as long as she can remember, she has been afraid to fly. She has been able to do so, despite her fear, but she reports feeling trapped and extremely anxious each time she must do so. In addition, she has a great deal of anticipatory anxiety about any upcoming flight. She has recently taken a new job that requires flying for business at least twice per month and so would like to rid herself of this fear. Which of the following treatment options is optimal for this young woman?",
+    "options": {
+      "A": "Identifying the patient’s maladaptive assumptions about flying",
+      "B": "Individual psychodynamic psychotherapy",
+      "C": "Group therapy with patients also afraid of flying",
+      "D": "Systematic desensitization",
+      "E": "Alprazolam prn before flying"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 877-878.) Systematic desensitization is the treatment of choice for cases of clearly identifiable anxiety-provoking stimuli, like this woman’s fear of flying. While alprazolam might well manage this patient’s anxiety while in the air, it will not rid her of the phobia, nor will it help with her anticipatory anxiety about the flight. Systemic desensitization is a form of behavioral therapy, and involves three steps: relaxation training; hierarchical construction of anxiety provoking situations (eg, this patient’s list might start with a low-anxiety situation, such as just thinking about a flight that is scheduled for 6 months away, and end with a high-anxiety situation, such as actually imagining herself sitting in an airplane while it experiences turbulence); and then desensitization to the stimulus (proceeding through the list from least anxiety-provoking through most anxiety-provoking while maintaining oneself in a deeply relaxed state)."
+  },
+  {
+    "id": "PT-PSYC-278",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 278,
+    "vignette": "A 45-year-old man is diagnosed as having diabetes and will require insulin. His physician explains the use of the medication and tells the patient that he will need to be seen at frequent intervals until his glucose levels comes under good control. The patient has always been somewhat hostile with the physician, but upon hearing this news, he says angrily, “You doctors are always the same! You always want control—of my time, of my money, and now of my every action!” As far as the physician knows, this patient has never had an unpleasant encounter with a physician before. Which of the following 1s the most likely explanation for the patient’s reaction to his doctor?",
+    "options": {
+      "A": "The patient 1s becoming delusional.",
+      "B": "The patient is experiencing transference to this authority figure.",
+      "C": "The patient 1s splitting.",
+      "D": "The patient is becoming manic.",
+      "E": "The patient is anticipating being rejected by his physician."
+    },
+    "correct": "B",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 1082-1084.) Transference, according to the classical Freudian psychoanalytic theory, refers to the projection of feelings, thoughts, and attitudes once connected to important figures in the patient’s past onto another important figure (often an authority figure). Transference causes patients to unconsciously reenact old scripts with new others (in this case, the physician). In this example, it is likely that this patient has experienced authority figures in his past who have attempted to control him in unwelcome and oppressive ways. Transference is not limited to a patient—psychiatrist relationship but can take place in any meaningful relationship, including patient—doctor (of any specialty). Verbal and nonverbal communication, overt behavioral patterns, omissions, and dreams are some of the ways transference manifests itself."
+  },
+  {
+    "id": "PT-PSYC-279",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 279,
+    "vignette": "A 45-year-old woman comes to the psychiatrist requesting help in coping with her life. The patient states both of her parents have recently been diagnosed with cancer and her husband has just instituted divorce proceedings. She states she feels overwhelmed and anxious, with bouts of crying and panic attacks. Which one of the following therapies should be offered to this patient?",
+    "options": {
+      "A": "Medication management Psychoanalytic psychotherapy Psychodynamic psychotherapy Family therapy Supportive psychotherapy eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 851-853.) Supportive psychotherapy is generally the preferred choice in cases where patients are undergoing acute life crises and are feeling overwhelmed. This patient’s current inability to cope with her daily life does not make it likely that any of the other forms of therapy listed in the options would be useful to her, and in fact, might cause her to regress still further. The goals of supportive therapy are to reduce patients’ symptoms and help them better cope with their surrounding environments."
+  },
+  {
+    "id": "PT-PSYC-280",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 280,
+    "vignette": "Which of the following signs or symptoms would, if present, make a patient a good candidate for psychoanalysis?",
+    "options": {
+      "A": "History of transient interpersonal relationships High tolerance for frustration Organically based cognitive dysfunction Low intelligence Poor impulse control eaos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 847.) Psychoanalysis requires a strongly motivated patient who can tolerate a great deal of frustration and has a good capacity for insight. These patients must be able to have good impulse control so that they may talk about their feelings without acting them out. Patients with low intelligence or with cognitive dysfunctions do not generally get benefit from this kind of therapy. Patients who are unable to establish a viable and long-lasting connection to another person also do not do well in psychoanalysis."
+  },
+  {
+    "id": "PT-PSYC-281",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 281,
+    "vignette": "A 32-year-old woman presented to the psychiatric emergency room after a suicide attempt in which she swallowed a bottle of aspirin. On the inpatient unit it was noted that she was stealing needles and injecting feces under her skin to cause infections. She has a long history of multiple surgical procedures for unclear reasons. Which of the following guidelines is most useful for treatment of patients with this disorder on a psychiatric inpatient unit?",
+    "options": {
+      "A": "Appoint a psychiatrist as the primary gatekeeper for all medical and psychiatric treatments.",
+      "B": "Regular interdisciplinary team meetings to control splitting.",
+      "C": "Aggressively and directly confront this patient’s behavior and her illness.",
+      "D": "Discharge the patient from the hospital as soon as possible.",
+      "E": "Use diagnostic procedures early to get a quick diagnosis of any presenting physical signs or symptoms."
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 495.) The management of a patient with factitious disorder 1s difficult at best. Guidelines do exist, however. Harm to the patient must be minimized, which means all invasive tests and procedures should be kept to an absolute minimum. Splitting 1s common, so regular interdisciplinary team meetings are called for to manage these patients. Empathic, nonconfrontational, and face-saving maneuvers are generally preferred to aggressive or confrontational ones— the latter will most likely cause the patient to flee therapy. A primary care physician should be appointed gatekeeper of all treatment, medical and psychiatric."
+  },
+  {
+    "id": "PT-PSYC-282",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 282,
+    "vignette": "What is the most common reason that psychotherapy for personality disorders is so difficult to carry out successfully?",
+    "options": {
+      "A": "The traits are often ego-dystonic.",
+      "B": "The patients are usually too sick to use psychotherapy.",
+      "C": "These disorders respond better to medication than to psychotherapy. d . The patients often see the source of their problems in others, not themselves.",
+      "E": "The patients do not have the ego strength for weekly meetings."
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 742.) Although personality disorders cause considerable suffering for patients and people with whom they relate, these patients usually are oblivious to the fact that their characterological traits and maladaptive behaviors create and perpetuate their suffering (eg, their traits are ego-syntonic). On the contrary, these patients tend to blame others for their difficulties and deny that they have any problems. Relatives, friends, and coworkers usually have a much better understanding of the patient’s dysfunctional traits than the patient has."
+  },
+  {
+    "id": "PT-PSYC-283",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 283,
+    "vignette": "A patient in psychodynamic therapy has been coming late to the last few sessions and complaining in the sessions that he has nothing to talk about. His therapist points out that up until several weeks ago they were making very rapid progress into uncovering some of the difficult thoughts and feelings the patient had about his parents. What therapeutic principle best exemplifies the recent changes in the patient’s behavior?",
+    "options": {
+      "A": "Countertransference Ego strength Abreaction Projective identification Resistance eaos"
+    },
+    "correct": "E",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 1084-1085.) Freud noticed that patients, in spite of their suffering and their overt desire to change, tended to cling to their symptoms and resisted the analyst’s efforts to produce insight. He called these powerful internal forces that oppose change resistance. Resistance takes place at any point in the treatment, and particularly when unacceptable impulses or thoughts threaten to come into consciousness or a maladaptive defense mechanism is challenged. Resistance can manifest itself in many different ways, including withholding important thoughts from the analyst, falling silent during sessions, forgetting appointments, forgetting to pay the analyst, falling asleep during the session, and considering dropping out of treatment. The possible manifestations of resistance are countless and depend on the patient’s defense mechanisms and personality. In other words, the patient’s intrapsychic defenses manifest as resistance 1n the context of his or her interpersonal relationship with the analyst."
+  },
+  {
+    "id": "PT-PSYC-284",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 284,
+    "vignette": "A 24-year-old woman with bulimia joins an eating disorder support group on the advice of her psychiatrist. After years of being deeply ashamed of her disorder and keeping it secret, she is relieved to hear that others in the group have binged and purged as she has. Which of the following terms best describes this phenomenon, which is common in self-help groups?",
+    "options": {
+      "A": "Universalization Group cohesion Multiple transference Shared belief system Validation eaos"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 860.) Universalization, the awareness that the patient is not alone or unique in his or her suffering and that others share similar symptoms and difficulties, is a powerful healing factor in group therapy. The other items listed are also factors that facilitate the therapeutic group process. Group cohesion refers to the sense that the group is working together toward a common goal. Validation refers to the confirmation of the patient’s reality through comparison with other group members’ experiences and conceptualizations. Shared belief system refers to the notion that the group may come to have a framework of beliefs and ideas about issues that is common to everyone in the group. Multiple transference refers to the projections of feelings, thoughts, and wishes that belong to the patients’ past experiences onto other group members and the group leaders."
+  },
+  {
+    "id": "PT-PSYC-285",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 285,
+    "vignette": "A 22-year-old student is in therapy because he has a long history of chaotic interpersonal relationships, episodes of psychosis, and multiple hospitalizations. He has attempted suicide three times, mostly precipitated by his feeling overwhelmed in some social setting. One session, he comes to his therapist greatly upset and anxious because he forgot to study some material that will be on an upcoming examination. The therapist reminds the patient that he has done well on previous examinations and suggests that she help him devise a study plan for the time the patient has left before the test. Such an intervention is commonly used in which of the following therapies?",
+    "options": {
+      "A": "Psychoanalysis Object relation psychotherapy Cognitive-behavioral therapy Supportive psychotherapy Interpersonal psychotherapy ono s Questions 286 and 287"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 851-853.) Supportive psychotherapy is characterized by an emphasis on the nurturing, caring role of the therapist and a focus on current reality. Although insight-oriented strategies such as interpretations can be used, they are not the main therapeutic instruments. Supportive psychotherapy aims to foster and maintain a positive transference all the time in order to provide the patient with a consistently safe and secure atmosphere. Consolation, advice, reality testing, environmental manipulation, reassurance, and encouragement are strategies commonly used in supportive psychotherapy."
+  },
+  {
+    "id": "PT-PSYC-286",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 286,
+    "vignette": "A 37-year-old man comes to the psychiatrist for treatment of a depressed mood. The patient has anhedonia, anergia, decreased concentration, obsessive ruminations of guilt, insomnia, and a 5-lb weight loss over the past 2 weeks. He avoids going out in public secondary to the belief that people won’t like him. In the psychiatrist’s office, he was helped to verbalize the fact that whenever he met new people, his immediate reaction was to believe that these people could see he was “a loser.” This last 1s a verbalization of which kind of behavior, often seen in patients with this diagnosis?",
+    "options": {
+      "A": "Automatic thought Delusion Obsession Avoidance Modeling ono s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 873-876.) Automatic thoughts (cognitive distortions) are thoughts that come between the time an event occurs externally and the person having the thought has an emotional reaction to the external event. For example, the belief that “I am so ugly” is an automatic thought that may occur in between a person complimenting another on their new dress (the external event) and the person in the dress exclaiming, “You must be crazy!” (Prompted by the emotional reaction of dismay.) Every psychopathological disorder has its own particular profile of distorted thoughts, which if known, can provide the framework for cognitive work to stop them."
+  },
+  {
+    "id": "PT-PSYC-288",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychotherapies",
+    "domain": "psychotherapy",
+    "question_num": 288,
+    "vignette": "A 45-year-old woman comes to a therapist with the chief complaint of feeling depressed. The therapist asks the patient to talk about her experiences, both in daily life and in the past. As the therapy progresses, the patient realizes that much of her depressive emotion comes from her feelings of abandonment as a child, when her mother was hospitalized for a long illness and was thus unavailable. The patient sees the therapist once a week. The therapist uses primarily clarification, confrontation, and interpretation as tools. Which of the following therapies is this patient most likely undergoing?",
+    "options": {
+      "A": "Psychodynamic psychotherapy Cognitive therapy Behavioral therapy Psychoanalysis Experiential-humanistic psychotherapy eaos Questions 289 to 295 Match the correct defense mechanism with each patient’s actions. Each lettered option may be used once, more than once, or not at all. Distortion . Repression Reaction formation . Sublimation Somatization Intellectualization . Suppression . Isolation of affect Introjection Projection = - sue Moaosd ee k. Identification with the aggressor"
+    },
+    "correct": "A",
+    "explanation": "(Hales, Yudofsky, Roberts, pp 1217-1218.) This patient is undergoing psychodynamic psychotherapy. Psychoanalysis would also use the understanding of the patient and the recreation of the past through clarification, confrontation, and interpretation, but typically the patient comes to the office more frequently than once per week, and often, though not always, the patient lies on a couch facing away from the therapist. A cognitive therapy would most likely focus on the negative worldview of this patient and attempt to restructure those thoughts. A behavioral therapist would most likely instruct the patient to change his/her behavior as an antecedent to recovery (such as exercising or another activity). An experiential-humanistic therapist would focus on developing a supportive and gratifying relationship with the patient to help provide the empathic responsiveness that was hypothesized as absent in the patient’s past. 289 to 295. The answers are 289-e, 290-g, 291-n, 292-j, 293-a, 294-k, 295-m. (Kaplan and Sadock, pp 161-162.) In distortion, external reality is grossly rearranged to conform to internal needs. (For example, a patient states that her husband smiles broadly whenever she tells him of her obsessions, when in reality he is grimacing.) Repression 1s the expelling or withholding of an idea or feeling from consciousness. (For example, a woman who has just been told she has a diagnosis of cancer goes home that evening and tells her husband that everything is fine. When confronted by this error, she seems genuinely surprised to hear the cancer diagnosis.) This defense differs from suppression by affecting conscious inhibition of impulses to the point of losing and not just postponing goals. Reaction formation refers to the substitution of an unacceptable feeling or thought with its opposite. (For example, a person who 1s very angry at his wife brings home flowers for her.) Sublimation is the achieving of impulse gratification and the retention of goals by altering a socially objectionable aim or object to a socially acceptable one. (For example, a person who wishes to be admired by everyone channels this behavior into doing charity work.) Sublimation allows instincts to be channeled rather than blocked or diverted. Sublimation is a mature defense, together with humor, altruism, asceticism, anticipation, and suppression. Somatization 1s the conversion of psychic derivatives into bodily symptoms and reaction with somatic manifestations rather than psychic ones. (For example, a person who 1s extremely anxious about her relationship with her husband begins having abdominal pain when in his presence.) Intellectualization is the excessive use of intellectual processes to avoid affective expression or experience. (For example, a person who has gotten into a disagreement with his best friend spends hours objectively analyzing the conversation to understand what happened.) Isolation of affect is the splitting or separation of an idea from the affect that accompanies it but that is repressed. (For example, a person told that he has been fired from his long time place of employment appears unemotional about the fact.) Introjection is the internalization of the qualities of an object. When used as a defense, it can obliterate the distinction between the subject and the object. Projection is the perception of and reaction to unacceptable inner impulses and their derivatives as though they were outside the self. (For example, a person who is angry at her friend is convinced that the friend is angry at her instead.) Identification with the aggressor is the adoption of characteristics or behavior of the victim’s aggressor as one’s own. For example, it is not uncommon for the victim of child abuse to grow up to be an abusive parent him- or herself. Projective identification occurs mostly in borderline personality disorder and consists of three steps: (1) an aspect of the self is projected onto someone else, (2) the projector tries to coerce the other person to identify with what has been projected, and (3) the recipient of the projection and the projector feel a sense of oneness or union. (A patient who is angry at her therapist becomes convinced that her therapist is angry at her. The patient then unconsciously acts in such a way that the therapist actually does begin to feel angry.) Denial is the avoidance of awareness of some painful aspect of reality by negating sensory data. Displacement refers to the shifting of an emotion or a drive from one object to another (eg, the shifting of unacceptable aggressive feelings toward one’s parents to the family cat). 296 to 298. The answers are 296-b, 297-f, 298-h. (Kaplan and Sadock, pp 845-879.) The first patient is undergoing supportive psychotherapy, which is recognized by the absence of interpretations and the focus on helping the patient function in the real world. Concrete suggestions about improving functioning in the outside world (in this case, suggestions about a job search) are appropriate 1n this kind of therapy, which is often reserved for those patients with severe psychopathology. This kind of therapy is not considered curative but, rather, helps the patient maintain functioning at the current level without the worsening of the preexisting symptoms. Behavioral therapy, as practiced in question 297, 1s recognizable by the use of specific maneuvers (in this case, biofeedback) that will change the patient’s behavior. In this instance, the patient was taught to control his own behavioral responses to anxiety, and thus presumably, he will do better on his multiple-choice exams. The patient in question 298 presents with a myriad of symptoms, all of which seem neurotic in nature (there 1s no psychosis or vegetative signs/symptoms of a major mood disorder). The history of sexual abuse and the long-standing history of these symptoms mean that the use of short-term therapy is unlikely to be helpful. Her many symptoms in many spheres indicate that an eclectic approach will offer the highest chance of improvement in the least amount of time."
+  }
+]

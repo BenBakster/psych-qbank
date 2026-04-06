@@ -1,0 +1,403 @@
+[
+  {
+    "id": "PT-DEVE-067",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 67,
+    "vignette": "A 16-month-old male child is being raised in a home environment characterized by both verbal and physical aggression toward the child and his siblings. The home conditions are at best, chaotic. Which of the following psychiatric disorders is this infant at a higher risk to display in his early school years?",
+    "options": {
+      "A": "Conduct disorder",
+      "B": "Schizophrenia",
+      "C": "Separation anxiety disorder",
+      "D": "Antisocial personality disorder",
+      "E": "Pica"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 1248.) This child is being raised in a chaotic home environment with both physical and verbal aggression present. This is associated with the development of a child’s own aggressive behavior, and a diagnosis of conduct disorder. The diagnosis of antisocial personality disorder is not given to patients under the age of 18. There is no evidence for any of the other psychiatric disorders as listed."
+  },
+  {
+    "id": "PT-DEVE-068",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 68,
+    "vignette": "A 2-year-old girl is being toilet trained by her parents. Each time she soils her diaper, she 1s told that she is a very bad girl and she has a toy taken away. When she uses the toilet appropriately, she is not praised by her parents. Which of the following sequelae is the child most likely to experience as a result of this kind of parental behavior?",
+    "options": {
+      "A": "A basic sense of mistrust",
+      "B": "Shame and self-doubt",
+      "C": "Guilt",
+      "D": "Stagnation of her development",
+      "E": "An absence of intimacy as an adult"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 169-170.) Children from the ages of approximately 1 to 3 are in the Eriksonian stage of autonomy versus shame and doubt. Children who are shamed by their caregivers—as in this example of the child who does not go to the toilet but, rather, soils her diapers—are more likely to develop shame and self-doubt rather than functioning autonomously with a sense of pride and self-confidence. The other options listed in this question are negative sequelae that can occur in other phases of the Eriksonian stages of the life cycle: basic trust versus mistrust (birth to 1 year), initiative versus guilt (3 to 5 years), intimacy versus isolation (21 to 40 years), and generativity versus stagnation (40 to 65 years)."
+  },
+  {
+    "id": "PT-DEVE-069",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 69,
+    "vignette": "In the vignette above, which of the following best describes the operant conditioning model with which this girl is being trained?",
+    "options": {
+      "A": "Positive reinforcement",
+      "B": "Punishment",
+      "C": "Avoidance/escape",
+      "D": "Voluntary",
+      "E": "Unconditional stimulus"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 101-102). This child is receiving punishment, as per the operant conditioning model from B. F. Skinner. The event (soiling her diapers) produces a negative event (punishment). A positive reinforcement occurs when an action produces a positive event, and negative reinforcement occurs when an action prevents or eliminates a negative event. Avoidance/escape occurs when a negative action prevents an event from occurring. An unconditional stimulus is a term used when considering Pavlovian conditioning, not operant conditioning. Voluntary refers to the sense that the person is not compelled to make the response (she can perform it whenever she ‘wants’ to)."
+  },
+  {
+    "id": "PT-DEVE-070",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 70,
+    "vignette": "A 20-month-old boy loves running around and exploring the environment, but every few minutes he returns to his mother to check on her and solicit a quick hug. Which of the following best describes this behavior?",
+    "options": {
+      "A": "Depressive position",
+      "B": "Secure attachment",
+      "C": "Insecure attachment",
+      "D": "Rapprochement",
+      "E": "Autonomy, versus shame and doubt"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 306.) Margaret Mahler made her contributions to the psychoanalytic movement called “ego psychology” through her theories on early infantile development. On the basis of her observations of normal and pathological mother-child interactions, Mahler identified three phases of infant development. The autistic phase occurs during the first 2 months of life, when the child spends a good part of his or her day asleep and has little interest in interpersonal relationships. From 2 to 6 months, the child enters symbiosis, a stage characterized by psychological fusion or lack of differentiation between mother and child. Margaret Mahler is best known, however, for her research on the third phase, called separation-individuation. During this phase, which occurs between 6 and 36 months, the child develops a concept of him- or herself as different and separated from the mother. During the same period, the infant gradually develops an internal, stable representation (introjection) of the mother, which includes both her positive and her negative aspects. The separation- individuation phase is divided into four subphases: differentiation, between 6 and 10 months, refers to the child’s initial awareness that the mother is a separate person; practicing, between 10 and 16 months, is characterized by the child’s enthusiastic exploration of the environment as a result of his or her newly acquired mobility; rapprochement, between 16 and 24 months, refers to a period characterized by a need to know where the mother is and frequent “refueling,” triggered by the child’s new awareness that independence also makes him or her vulnerable; the fourth subphase, object constancy, takes place during the third year of life and refers to the integration of the good and bad aspects of the internalized images of both the mother and the child’s self. According to ego psychology theory, object constancy is necessary for the later development of stable and mature interpersonal relationships. In Melanie Klein’s theory of infantile psychological development, the depressive position refers to the period during which the infant realizes that the “bad mother” who frustrates the child’s wishes and the “good mother” who nurtures him or her are the same person, and the child worries that rage at the “bad mother” may also destroy the good. Autonomy versus shame and doubt is one of the eight stages of psychosocial development described by Erikson and corresponds in age to the period of Mahler’s separation- individuation."
+  },
+  {
+    "id": "PT-DEVE-071",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 71,
+    "vignette": "A woman brings her 2-year-old child to the psychiatrist, worried that he is not developing normally. The psychiatrist tests the child in three arenas, speech, language and nonverbal skills, and finds the following (the highest level of skill the child achieves during these tests is outlined): Speech Language Nonverbal skills Speech is usually Can follow two-step Eats with a fork understood by commands family members Which of the following best describes his current state of development?",
+    "options": {
+      "A": "Accelerated development in all three areas",
+      "B": "Accelerated speech, normal language, and nonverbal skills",
+      "C": "Accelerated speech and language skills, normal nonverbal skills",
+      "D": "Delayed speech and language, normal nonverbal skills",
+      "E": "Delayed development in all three areas"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 1138.) While the 2-year-old child in this vignette is “on track” 1n the area of nonverbal behavior, he is accelerated in the areas of both speech and language, working at approximately a 3-year-old level."
+  },
+  {
+    "id": "PT-DEVE-072",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 72,
+    "vignette": "A 2-year-old child carries around an old, tattered blanket wherever he goes. When he is sad or upset, he calms himself by hugging and stroking his blanket. He also needs it to settle down before sleep. For this child, which of the following does his blanket best represent?",
+    "options": {
+      "A": "Fetish Obsession Transitional object Transference object Imaginary friend ono s"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 186.) D. W. Winnicott, a British pediatrician with a keen interest in psychoanalysis, focused his attention on the early mother-child relationship. In his view, the child is able to develop a separate and stable identity only if the child’s needs are met by his or her mother’s empathic anticipation. Winnicott calls the positive environment so created by the mother “the holding environment”. According to Winnicott, mothers do not have to be perfect in order to fulfill their roles, but they have to be good enough to provide the infant with a sufficient amount of comfort and constancy. Winnicott also coined the term transitional object, usually a toy or a blanket, which represents a comforting substitute for the primary caregiver. Thanks to a transitional object, the child can tolerate separation from the mother without excessive anxiety."
+  },
+  {
+    "id": "PT-DEVE-073",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 73,
+    "vignette": "A 4-year-old child is brought to the psychiatrist by her mother. Although the child is developing normally, she is scheduled to have her tonsils removed. The mother wishes to make this operation as smooth and atraumatic as possible. What should the psychiatrist tell the mother about how this upcoming event should be explained to the child?",
+    "options": {
+      "A": "No explanation will be helpful; the mother should try to stay with the child at all times.",
+      "B": "No explanation need be given, but the child should be asked what questions she has about the upcoming event and those questions should be answered.",
+      "C": "Verbal explanations will not be helpful. The upcoming event should be role played with the child through the use of dolls and toys.",
+      "D": "A simplified verbal explanation should be given to the child.",
+      "E": "A verbal explanation of the operation should be given, with all the terms the child will hear in the hospital used. The child should be engaged in a question and answer session afterward."
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 93-94.) This 4-year-old child is developing normally, placing her at the preoperational stage of development according to Piaget. Such children do not understand concepts and are unable to abstract, thus they benefit from role-playing which will occur 1n the hospital more than any kind of verbal descriptions."
+  },
+  {
+    "id": "PT-DEVE-074",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 74,
+    "vignette": "A 32-year-old woman is given the news by her physician that she has breast cancer and will need surgery, followed by chemotherapy. She returns home after the appointment, and her husband asks how the visit went. She tells him of the diagnosis given by the physician. For the rest of the evening, she sits at her computer research statistics and treatment options for breast cancer. Which of the following defense mechanisms 1s likely being employed by this woman?",
+    "options": {
+      "A": "Denial",
+      "B": "Projection",
+      "C": "Sublimation",
+      "D": "Reaction formation",
+      "E": "Altruism"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 162.) This patient is using sublimation, a mature defense in which unacceptable social impulses are transformed into acceptable ones. She is managing extreme anxiety by learning about her disease in a way that will be helpful to her. Denial is a defense mechanism in which the conscious awareness of a painful reality (in this case, the bad news about her breast cancer) is abolished. This patient would not pretend that her doctor’s visit was uneventful; she would actually consciously believe it. Projection is the act of perceiving and acting as if unacceptable internal impulses (which are unconscious) are coming from the external realm. For example, a patient with very aggressive impulses, which are unacceptable to him, begins acting as if the person in the room with him were being aggressive toward him. Reaction formation is the transformation of an unacceptable impulse into its opposite. For example, a woman who has feelings of hate and disgust toward another finds these impulses unacceptable, so instead she behaves as 1f this other person is a good friend. Altruism uses service to others as a way of getting one’s instincts gratified."
+  },
+  {
+    "id": "PT-DEVE-075",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 75,
+    "vignette": "A 3-year-old boy stands on one side of a large sculpture and 1s asked to describe what he sees. When asked to describe what a person on the other side of the sculpture sees, the child answers that the other person sees just what he does. Which of the following theories uses the concept described above?",
+    "options": {
+      "A": "Psychosexual development",
+      "B": "Moral development",
+      "C": "Cognitive development",
+      "D": "Social development",
+      "E": "Autism"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 93-94.) Egocentrism refers to the young child’s inability to see things from another’s point of view. Egocentrism is described by Jean Piaget as part of the preoperational stage of normal cognitive development, which occurs between 2 and 5 to 7 years of age."
+  },
+  {
+    "id": "PT-DEVE-076",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 76,
+    "vignette": "A 70-year-old woman is admitted to the hospital after a fall in which she broke her left hip. She 1s a difficult patient during her rehabilitation phase, passively resisting attempts to get her up and walking, contending that it does not matter whether she regains her capacity to walk on her own since she is so advanced in age. She states that while she is fearful of dying, she feels disgust at her own body because it 1s “falling apart.” Which of the following Eriksonian stages is this patient most likely working through?",
+    "options": {
+      "A": "Integrity versus despair Intimacy versus isolation Generativity versus stagnation Identity versus role diffusion Industry versus inferiority ono s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 168-171.) Erik Erikson’s theory of psychosocial development centers around eight stages of ego development that take place during the life cycle. Each stage represents a turning point in which physical, cognitive, social, and emotional changes trigger an internal crisis whose resolution results either in psychological growth or regression. Age at which Erikson stage it occurs Trust vs Birth to mistrust 18 months Autonomy vs 18 months to shame and 3 years doubt Initiative vs 3 to 5 years guilt Hallmarks of the stage If the infant's needs are promptly and empathically met, the infant learns to see the world as a benign and nurturing place This stage corresponds to Freud's anal stage and Mahler’s separation-individuation stage. During this period, if allowed to experiment with his or her new motility and curiosity about the environment, and if at the same time he or she is provided with enough nurturance, the child acquires a healthy self-esteem and sense of autonomy The child expands his or her explorations of the outside world and has omnipotent fantasies about his or her own powers. During this stage, in a good psychosocial environment, the child develops a capacity for self-reflection, manifested by the child's feeling guilty when rules are broken, without losing enthusiasm for independent exploration Industry vs inferiority Identity vs role confusion Intimacy vs isolation Generativity vs stagnations Integrity vs despair 5 to 13 years 13 to 21 years 21 to 40 years 40 to 60 years 60 to death Equivalent to Freud's period of latency. The child’s psychological growth depends on his or her opportunity to learn new skills and take pride in accomplishments If this stage is mastered successfully, the young individual enters adulthood with a solid sense of identity, knowing his or her role in society Adult developmental task of learning to make and honor commitments to other people and to ideas The focus of the individual starts shifting from personal accomplishments and needs to a concern for the rest of society and the nurturing of the next generation The main developmental task is accepting life as it is, without desire to change the past or change others. When this stage is mastered, the individual acquires the wisdom necessary to face the inevitability of death with equanimity and without dread"
+  },
+  {
+    "id": "PT-DEVE-077",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 77,
+    "vignette": "A 16-year-old boy is diagnosed with osteosarcoma. Surgery and chemotherapy are not successful as treatments, and it is apparent that the child will die from his disease. The child, rather than focusing on his death, seems more concerned with the fact that he has lost all his hair from the chemotherapy. He is difficult to work with in the hospital, as he insists on seeing visitors only when he chooses to and wants to work with only his favorite nurses. Which of the following 1s the best explanation for his behavior?",
+    "options": {
+      "A": "He is regressing under the stress of his terminal illness.",
+      "B": "He is an adolescent and these responses are quite typical for the age group.",
+      "C": "He has developed a major depression.",
+      "D": "He is in denial of his impending death.",
+      "E": "He is having a cognitive disturbance secondary to brain metastases."
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 1099-1103.) This unfortunate adolescent is reacting to his impending death in a characteristic way for one of his age group. Adolescents are often preoccupied with their body image and control of their environment, even when they are not ill. These issues do not disappear for a terminally ill teen, but the focus on them may seem trivial to adults. Likewise, the need to assert their independence may be shown by their choosing which visitors they will see, which healthcare staff members they will work with, and whom they will talk to on any given day."
+  },
+  {
+    "id": "PT-DEVE-078",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 78,
+    "vignette": "A 23-year-old man impulsively steals a pack of gum at a convenience store. He has never stolen anything previously, and almost immediately upon exiting the store with the gum, he begins to feel extremely guilty. Which of the following concepts 1s most likely responsible for this man’s emotional response to his theft?",
+    "options": {
+      "A": "Id Ego Superego Preconscious function Conscious function eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 154-155, 159.) In his structural theory of the mind, Freud divided the psychic apparatus into three agencies: the id, which contains the instinctual drives; the ego, whose function is to find an equilibrium between gratification of the instinctual drives and the rules of society (and the demands of the superego); and the superego, the agency that contains the internalized parental and societal rules and dictates to the ego what 1s not to be done. Guilt is the consequence of transgressing the superego’s prohibitions. Preconscious and conscious functions are dimensions of the ego. Logical and abstract thinking as well as verbal expression come from these functions."
+  },
+  {
+    "id": "PT-DEVE-079",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 79,
+    "vignette": "A 20-month-old girl is admitted to a pediatric ward because she weighs only 15 lb. An extensive medical work-up does not reveal any organic cause for the child’s failure to thrive. The child is listless and apathetic and does not smile. The parents rarely come to visit, and when they do, they do not pick the child up and do not play or interact with her. Which of the following statements best explains this scenario?",
+    "options": {
+      "A": "Lack of adequate emotional nurturance causes depression and failure to thrive in infants.",
+      "B": "Neglected infants fail to thrive but do not have the intrapsychic structures necessary for experiencing depression.",
+      "C": "Infants reared in institutions are likely to become autistic. Neglected infants are at higher risk for developing schizophrenia.",
+      "D": "Environmental variables have little impact on the health of infants as long as enough food is provided. a."
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 100.) Although the relationships between emotional deprivation and failure to thrive are complex, the fact that children who are emotionally deprived do not grow well even when an adequate amount of food is available, is well proven. Renée Spitz studied institutionalized children and demonstrated that, due to lack of adequate nurturing, they become apathetic, withdrawn, and less interested in feeding, which in turn causes failure to thrive and, in extreme cases, death. Spitz called this syndrome anaclitic depression. Schizophrenia and autism have not been associated with emotional deprivation in infancy."
+  },
+  {
+    "id": "PT-DEVE-080",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 80,
+    "vignette": "A 25-year-old woman sees a psychiatrist for a chief complaint of having a depressed mood for her “entire life.” She begins psychotherapy and sees the physician once per week. After 3 months of therapy, she tells the psychiatrist that she is very afraid of him because he is “so angry all the time.” She behaves as if this 1s true and that the psychiatrist will explode with rage at any minute. The psychiatrist is not normally seen as an angry person and is unaware of any anger toward the patient. Which of the following defense mechanisms is this patient likely displaying?",
+    "options": {
+      "A": "Distortion Blocking Isolation Projection Dissociation ene"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 160-162.) Projection is recognized when a person perceives and reacts to an unacceptable inner impulse as 1f the impulse were coming from the external environment. In this case, the patient, likely with a huge amount of internal anger that she finds dangerous and unacceptable, projects this anger onto the therapist and reacts as if the therapist is angry at her. Distortion is the reshaping of external reality to suit one’s inner needs. For example, a singer who 1s told at an audition that she needs a lot of work to make her voice stronger remembers the audition as notable for receiving only positive feedback. Blocking 1s the inhibition of thinking, temporarily and transiently. Isolation is the splitting or separating of an idea from the emotion that accompanies it (but has been repressed). Dissociation 1s the temporary but drastic modification of a person’s sense of personal identity so that emotional distress can be avoided. Fugue states are one example of dissociation in action."
+  },
+  {
+    "id": "PT-DEVE-081",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 81,
+    "vignette": "A healthy 9-month-old infant is brought to her pediatrician by her concerned parents. Previously very friendly with everyone, she now bursts into tears when she 1s approached by an unfamiliar adult. Which of the following best describes this infant’s behavior?",
+    "options": {
+      "A": "Separation anxiety Insecure attachment Simple phobia Depressive position Stranger anxiety eaes"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 1092-1093.) The term stranger anxiety refers to manifestations of discomfort and distress on the part of the infant when he or she is approached by a stranger. Although it does not necessarily appear every time the child meets a stranger, and although some children seem to be more prone than others to such reactions, stranger anxiety is considered a normal, transient phenomenon. It manifests at about 8 months of age, when the child starts differentiating between familiar and unfamiliar adults."
+  },
+  {
+    "id": "PT-DEVE-082",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 82,
+    "vignette": "Which of the following best describes primary process thinking?",
+    "options": {
+      "A": "Typically conscious",
+      "B": "Nonlogical and denying the existence of negatives",
+      "C": "Absent during dreaming",
+      "D": "Characteristic of the neuroses",
+      "E": "Rational and well-organized"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 155.) Primary process thinking is primitive, nonlogical, timeless, and denies the existence of negatives. Primary processes characterize the operational style of the id and are manifested in dreams. According to Freud’s theory, condensation, displacement, and symbolic representation are forms of primary processes."
+  },
+  {
+    "id": "PT-DEVE-083",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 83,
+    "vignette": "A woman has a verbal altercation with her boss at work. She meekly accepts his harsh words. That night, she picks a fight with her husband. Which of the following defense mechanisms 1s being used by this woman?",
+    "options": {
+      "A": "Displacement Acting out Reaction formation Projection Sublimation eaes"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 160-162.) In Freudian psychoanalytic theory, defense mechanisms represent the ego’s attempts to mediate between the pressure of the instinctual drives, emerging from the 1d, and the restrictions imposed by societal rules through the superego. Freud classified defense mechanisms as narcissistic (or primitive, including denial, projection, and distortion), immature (acting out, introjection, passive- aggressive behavior, somatization, and several others), neurotic (displacement, externalization, intellectualization, rationalization, inhibition, reaction formation, and repression), and mature (sublimation, altruism, asceticism, anticipation, suppression, and humor). Primitive and immature defenses are the norm during childhood and infancy and persist in pathological states. Mature defenses are considered more adaptive than immature and neurotic defenses. In displacement, an unacceptable impulse or emotion is shifted from one object to another. This permits the release of the impulse or emotion onto someone or something that is less dangerous. In this case, although the woman is angry at her boss, it is too dangerous to release this anger at him (she might be fired). She waits until she gets home and displaces this anger onto her husband. Projection 1s a defense mechanism in which the patient reacts to an inner unacceptable impulse as if it were outside the self."
+  },
+  {
+    "id": "PT-DEVE-084",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 84,
+    "vignette": "A 24-year-old woman lives with her mother, whom she intensely dislikes. She feels embarrassed by this, and compensates by hovering over her mother, attending to her every need. Which of the following defense mechanisms 1s being used by this woman?",
+    "options": {
+      "A": "Displacement Acting out Reaction formation Rationalization Sublimation ono s"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 160-162.) In reaction formation, an unacceptable unconscious impulse 1s transformed into its opposite. For example, a woman who 1s really angry at her neighbor begins to bring her flowers and cookies, while maintaining a “saccharine sweet” demeanor toward the neighbor. Rationalization refers to offering a rational explanation to justify actions or impulses that would otherwise be regarded as unacceptable."
+  },
+  {
+    "id": "PT-DEVE-085",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 85,
+    "vignette": "A writer of mystery novels, who has never had legal problems, jokes about his “dark side” and his hidden fantasies about leading an exciting life of crime. Which of the following defense mechanisms 1s being used by this man?",
+    "options": {
+      "A": "Anticipation",
+      "B": "Sublimation",
+      "C": "Identification with the aggressor",
+      "D": "Introjection",
+      "E": "Distortion"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 160-162.) Through sublimation, satisfaction of an objectionable impulse 1s obtained by using socially acceptable means. The writer in the question derives a vicarious satisfaction of his antisocial impulses through the criminal activities of the characters of his stories. Identification refers to the incorporation of another person’s qualities into one’s ego system. Introjection refers to the internalization of the qualities of an object. For example, through the introjection of a loved object, the painful awareness of separateness or the threat of loss may be avoided. Distortion refers to the gross reshaping of external reality to suit inner needs. Distortions include hallucinations and delusions."
+  },
+  {
+    "id": "PT-DEVE-086",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 86,
+    "vignette": "A 35-year-old man is being seen by his psychiatrist for depressed mood. The patient is irritated at his therapist for pushing him on several issues in the last session. The patient does not show up or call for his next session. Which of the following defense mechanisms is this patient displaying?",
+    "options": {
+      "A": "Introjection Sublimation Identification with the aggressor Acting out Intellectualization ono s"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 160-162.) Acting out means the avoidance of personally unacceptable feelings by behaving in a socially inappropriate manner, that is often attention seeking as well. Acting out implies the expression of an impulse through action to avoid experiencing the accompanying emotion related to that impulse at a conscious level. Intellectualization is the excessive use of intellectual processes to avoid affective expression or experience."
+  },
+  {
+    "id": "PT-DEVE-087",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 87,
+    "vignette": "A 45-year-old man accidentally crashes his car into another vehicle. He feels extremely guilty, and in order to avoid these feelings of self-reproach, he explains in meticulous detail to anyone listening all of the steps leading up to his accident. Which of the following defense mechanisms 1s this patient displaying?",
+    "options": {
+      "A": "Sublimation",
+      "B": "Repression",
+      "C": "Intellectualization",
+      "D": "Acting out",
+      "E": "Rationalization"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 160-162.) Intellectualization is the excessive use of intellectual processes to avoid affective expression or experience. In this case, the man avoids his guilty feelings through the meticulous explanation, over and over, of the events leading up to his car accident. Through sublimation, satisfaction of an objectionable impulse is obtained by using socially acceptable means. Repression refers to expelling or withholding from consciousness an idea or feeling. Acting out implies the expression of an impulse through action to avoid experiencing the accompanying affect at a conscious level. Rationalization is the process of offering rational explanations in an attempt to justify attitudes, beliefs, or behavior that may otherwise be unacceptable."
+  },
+  {
+    "id": "PT-DEVE-088",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 88,
+    "vignette": "A 45-year-old woman is admitted to the hospital after her son finds her unconscious at home. She is treated for diabetic ketoacidosis and her recovery is a difficult one, necessitating that she stay in the hospital for 5 days. During this period of time, she is often angry, irrational, and demanding, all of which are not her usual modes of behavior or thinking, according to her husband. What is the most likely explanation for the change in this woman’s behavior?",
+    "options": {
+      "A": "The fluid shifts that are occurring during the stabilization of her diabetes are causing an organic mood disorder.",
+      "B": "Her fear of a newly diagnosed illness is causing her to dissociate. The stress of her illness and hospital stay 1s causing her to regress.",
+      "D": "She is delirious secondary to brain damage from her period of unconsciousness.",
+      "E": "A previously unrecognized personality disorder is coming to the fore. °"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 239-240.) Stress, such as this woman is experiencing secondary to her sudden illness and hospitalization, has long been known to cause a regression in cognitive and emotional functioning. The clue here is that her previous functioning, as described by her husband, was normal in both the cognitive and the emotional realms, making a previously undiagnosed personality disorder unlikely. Delirium would be accompanied by waxing and waning of consciousness, which 1s not described in this case. A mood disorder secondary to an organic cause is likewise unlikely, since the patient is not described as depressed or manic in behavior. Dissociation involves a person, under a sudden stressor that cannot be handled, switching to a distinctly different personality (and the patient might not remember a sense of “who she was” prior to the switch)."
+  },
+  {
+    "id": "PT-DEVE-089",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 89,
+    "vignette": "A 38-year-old woman comes to a psychiatrist for help with the management of her obsessive-compulsive disorder. She describes an impulse that she has frequently and that frightens her. This impulse 1s to murder her three children by blowing out the pilot light on her home’s heater, thereby blowing up her house. As a result, she finds herself checking on the pilot light in her home at least 30 times a day. She carries a book of matches with her during these checks so that she might immediately relight the pilot light if she finds that it is out. Which of the following defense mechanisms does this act of checking the pilot light represent?",
+    "options": {
+      "A": "Reaction formation . Isolation . Undoing . Denial b c d",
+      "E": "Altruism"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 160-162.) This woman 1s demonstrating undoing, a compulsive act that 1s performed in an attempt to negate or avoid the consequences of a fantasized action that is the result of an obsessional impulse. Although the fear 1s irrational, because the impulse is only a thought or fear and not an actual action, the compulsive nature of the act causes the person to perform it repeatedly regardless. Undoing is one of the three main psychological defense systems used in obsessive- compulsive disorder. The other two are isolation and reaction formation."
+  },
+  {
+    "id": "PT-DEVE-090",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 90,
+    "vignette": "A 20-month-old child is placed in an emergency department of children and family services shelter after his mother is hospitalized as the result of a car accident. Three days after the separation, the child spends almost every waking moment crying and calling and searching for his mother. The fourth day after the separation, when the mother of the child comes to the shelter to reclaim her child, he adamantly rejects her offers of affection, instead clinging to the nurse’s aide who has been his caretaker. Which of the following terms most accurately describes this child’s reactions to a forced separation?",
+    "options": {
+      "A": "Protest",
+      "B": "Despair",
+      "C": "Detachment",
+      "D": "Denial",
+      "E": "Acting out"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 100.) This infant 1s displaying the protest phase of a separation, which occurs approximately 3 days after a young, well-attached child is separated from a parent. The protest phase 1s characterized by crying, calling, and searching for the parent. If the parent reappears shortly thereafter, before the child enters the despair phase of separation, the anger of the child is evidenced by his or her ambivalent response to the parent’s return. This can be seen by the child refusing affection from the parent, turning his or her head away, and wanting to remain with the alternate caregiver. The despair phase, which follows the protest phase, is demonstrated by an air of hopelessness about the child, who even though still attached to the parent, may appear indifferent upon the parent’s return. The fact that the child in this vignette actively refuses affection from his parent, and that there is no mention of the child appearing hopeless, makes it clear this child is still in the protest phase, and has not yet entered the despair phase. If the separation continues after a child has entered the despair phase, the child enters the detachment phase, when the bond with the parent has been irreparably severed."
+  },
+  {
+    "id": "PT-DEVE-091",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 91,
+    "vignette": "A 17-month-old girl is playing with her mother. Her mother hides a large red ball from the child and encourages her to find it. The girl looks under several pieces of furniture and finally finds the ball hidden behind the couch. The mother enjoys this game, because 2 months previously, if she had tried to play this game, the child simply would not have been able to understand that once the ball was out of sight it still existed. This advance in cognitive ability is most accurately described by which of the following terms?",
+    "options": {
+      "A": "Transitional object Preoperational thought Parallel play Concrete operations Object permanence eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 93.) The child is demonstrating that she recognizes object permanence, a level that is usually achieved at around 16 months. Prior to the achievement of this level, the child is unable to maintain a mental image of an object, so when it disappears from view, it, in effect, no longer exists. Once the child recognizes object permanence, he or she understands that objects can be hidden, thus making the game of hide- and-seek a rewarding one for a child of this age."
+  },
+  {
+    "id": "PT-DEVE-092",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Human Behavior: Theories of Personality and Development",
+    "domain": "development",
+    "question_num": 92,
+    "vignette": "A 5-year-old girl loves her father’s attention and becomes irritated with her mother when her mother kisses her father. The child tells her father she wants to marry him when she grows up. Which stage best describes the developmental period this child is in?",
+    "options": {
+      "A": "Oral",
+      "B": "Anal",
+      "C": "Phallic",
+      "D": "Oedipal",
+      "E": "Latency Human Behavior: Theories of Personality and Development"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 160.) According to Freud’s theory of psychosexual development, the child goes through six stages between birth and adolescence: oral, anal, phallic, oedipal, latency, and genital. In each stage, pleasure (not necessarily sexual) is derived from specific areas of the body. Each stage is associated with specific drives, conflicts, and defenses. In the first 18 months of life, infants go through the oral stage, during which oral sensations (feeding, sucking, biting, etc) represent the main gratification. According to Freud, excessive gratification or deprivation during this stage can cause an “oral fixation.” Individuals with an oral character are dependent and require that others fulfill their needs. In the anal stage, between 18 and 36 months of age, the child is much more independent and active than during the previous stage. Erotic stimulation of the anal mucosa through the excretion or retention of feces is the main source of pleasure. Battles over toilet training are common in the attempts to achieve autonomy from the parents. If toilet training is too harsh or inconsistent, “anal traits” may persist as personality traits later in life. Stubbornness, obstinacy, and frugality are common traits of the “anal individual,” usually seen in obsessive-compulsive personalities. The phallic stage, which starts at age 3, is characterized by a concentration of erotic pleasure in the penis and the clitoris areas. During the phallic stage, the child starts looking outside himself or herself for an erotic object, thus heralding the advent of the oedipal stage. Freud theorized that between the ages of 3 and 5, the male child, like Oedipus in Greek mythology, falls in love with the mother and perceives the father as a murderous rival. Resolution of the oedipal stage leads to the boy’s identification with the father and the abandonment of the erotic wishes for the mother, which are later transferred to other women. During the oedipal stage, girls experience an equivalent attraction for their fathers and perceive their mothers as rivals. How girls resolve their oedipal conflicts and come to identify with their mothers 1s less clearly explained. During latency, between 5 and 11 to 13 years of age, the sexual drive is relatively quiescent and the child becomes focused on learning new skills and social interactions with peers. The genital stage begins with puberty and ends with young adulthood and is characterized by a reintensification of sexual drives. The key developmental tasks associated with this stage are mastery over instinctual drives, separation from parents, and the establishment of a genital sexuality with an appropriate partner. Human Behavior: Biologic and Related Sciences"
+  }
+]

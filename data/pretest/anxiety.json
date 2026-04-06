@@ -1,0 +1,131 @@
+[
+  {
+    "id": "PT-ANXI-345",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 345,
+    "vignette": "A 23-year-old woman arrives at the emergency room complaining that, out of the blue, she had been seized by an overwhelming fear associated with shortness of breath and a pounding heart. These symptoms lasted for approximately 20 minutes, and while she was experiencing them, she feared that she was dying or going crazy. The patient has had four similar episodes during the past month, and she has been worrying that they will continue to recur. Which of the following 1s the most likely diagnosis?",
+    "options": {
+      "A": "Acute psychotic episode",
+      "B": "Illness anxiety disorder",
+      "C": "Panic disorder",
+      "D": "Generalized anxiety disorder",
+      "E": "Posttraumatic stress disorder"
+    },
+    "correct": "C",
+    "explanation": "(DSM-5, pp 208-214.) This patient displays typical symptoms of recurrent panic attacks. Panic attacks can occur under a wide variety of psychiatric and medical conditions. The patient 1s diagnosed with panic disorder when there are recurrent episodes of panic and there 1s at least 1 month of persistent concern, worry, or behavioral change associated with the attacks. The attacks are not because of the direct effect of medical illness, medications, or substance abuse and are not better accounted for by another psychiatric disorder. While anxiety can be intense in generalized anxiety disorder, posttraumatic stress disorder, acute psychosis, and illness anxiety disorder, it does not have the typical presentation (ie, a discrete episode or panic attack) described in this question."
+  },
+  {
+    "id": "PT-ANXI-346",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 346,
+    "vignette": "A middle-aged man is chronically preoccupied with his health. For many years he feared that his irregular bowel functions meant he had cancer. Now he is very worried about having a serious heart disease, despite his physician’s assurance that the occasional “extra beats” he detects when he checks his pulse are completely benign. Which of the following is the most likely diagnosis? Somatic symptom disorder Illness anxiety disorder Delusional disorder Somatic symptom disorder with pain as the predominant symptom Conversion disorder onoc® Questions 347 to 349 Match the following classical presentations with its diagnosis. Each lettered option may be used once, more than once, or not at all.",
+    "options": {
+      "A": "Somatic symptom disorder Conversion disorder Illness anxiety disorder Body dysmorphic disorder Somatic symptom disorder with pain as the predominant symptom onos"
+    },
+    "correct": "B",
+    "explanation": "(DSM-5, pp 315-322.) Illness anxiety disorder 1s characterized by fear of developing or having a serious disease, based on the patient’s distorted interpretation of normal physical sensations or signs. If there are significant somatic symptoms accompanying this fear, the diagnosis should be made of somatic symptom disorder. The patient with illness anxiety disorder continues to worry even though physical examinations and diagnostic tests fail to reveal any pathological process. The fears do not have the absolute certainty of delusions. Illness anxiety disorder can develop in every age group, but onset is most common between 20 and 30 years of age. Both genders are equally represented, and there are no differences in prevalence based on social, educational, or marital status. The disorder tends to have a chronic, relapsing course. 347 to 349. The answers are 347-a, 348-d, 349-e. (Kaplan and Sadock, pp 427-429, 468-477.) Somatic symptom disorder 1s characterized by a polysymptomatic presentation, with the patient presenting as someone who has been chronically sick. Females present with this disorder about 20 times more frequently than do males, and there is a 5% to 10% incidence in the primary care population. Patients have often had multiple surgeries. Patients with conversion disorder are generally young females with poor education; they typically are from rural areas and low socioeconomic class. They present acutely, usually with one symptom, but that symptom may be incompatible with known pathophysiologic mechanisms. Patients with illness anxiety disorder tend to be older, and men and women present with equal frequency. Patients are over concerned with a disease, which amplifies their (mild) symptoms as a result. They are usually temporarily reassured with negative test findings, but soon find another illness to obsess about. Patients with a body dysmorphic disorder tend to be young (adolescence to age 40 at diagnosis) and are represented equally in gender. They have subjective feelings that they are ugly or have some body part that is deformed. Those with somatic symptom disorders with pain as the predominant symptom are usually in their fourth or fifth decade of life, with women represented in the population twice as often as men. These patients have often had some precipitating event to their pain, but it continues with an intensity incompatible with known physiologic mechanisms."
+  },
+  {
+    "id": "PT-ANXI-350",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 350,
+    "vignette": "A 28-year-old taxi driver 1s chronically consumed by fears of having accidentally run over a pedestrian. Although he tries to convince himself that his worries are silly, his anxiety continues to mount until he drives back to the scene of the “accident” and proves to himself that nobody lies hurt in the street. This behavior best exemplifies which of the following?",
+    "options": {
+      "A": "Acompulsion secondary to an obsession",
+      "B": "An obsession triggered by a compulsion",
+      "C": "A delusional ideation",
+      "D": "Atypical manifestation of obsessive-compulsive personality disorder",
+      "E": "A phobia"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 418-427.) Recurrent obsessions and compulsions are essential features of obsessive-compulsive disorder (OCD). Obsessions are persistent thoughts or mental images that are subjectively experienced as intrusive and alien and characteristically provoke various levels of anxiety. Compulsions are repetitive acts, behaviors, or thoughts designed to counteract the anxiety elicited by the obsessions. Thus obsessions (which cause anxiety) are paired with their related compulsions (which help manage the anxiety produced). The diagnosis of obsessive-compulsive personality disorder is reserved for those patients with significant impairments in their occupational or social effectiveness. These patients are preoccupied with rules, regulations, orderliness, neatness, details, and the achievement of perfection."
+  },
+  {
+    "id": "PT-ANXI-351",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 351,
+    "vignette": "A young woman, who has a very limited memory of her childhood years but knows that she was removed from her parents because of their abuse and neglect, frequently cannot account for hours or even days of her life. She hears voices that alternately plead, reprimand, or simply comment on what she is doing. Occasionally, she does not remember how and when she arrived at a specific location. She finds clothes she does not like in her closet, and she does not remember having bought them. Her friends are puzzled because sometimes she acts in a childish, dependent way and at other times becomes uncharacteristically aggressive and controlling. These symptoms are most commonly seen in which of the following disorders?",
+    "options": {
+      "A": "Dissociative amnesia Depersonalization/derealization disorder Korsakoff syndrome Dissociative identity disorder Schizophrenia ono s Questions 352 and 353"
+    },
+    "correct": "D",
+    "explanation": "(DSM-5, pp 292-298.) Losing time and memory gaps, including significant gaps in autobiographical memory, are typical symptoms of dissociative identity disorder (previously known as multiple personality disorder). Patients also report fluctuation in their skills, well- learned abilities, and habits. This is explained as a state-dependent disturbance of implicit memory. Hallucinations in all sensory modalities are common. Dramatic changes in mannerisms, tone of voice, and affect are manifestations of this disorder."
+  },
+  {
+    "id": "PT-ANXI-352",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 352,
+    "vignette": "A 34-year-old secretary climbs 12 flights of stairs every day to reach her office because she 1s terrified by the thought of being trapped in the elevator. She has never had any traumatic event occur in an elevator; nonetheless, she has been terrified of them since childhood. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Social phobia",
+      "B": "Performance anxiety",
+      "C": "Generalized anxiety disorder",
+      "D": "Specific phobia",
+      "E": "Agoraphobia"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 400-404.) Specific phobias are characterized by an unreasonable or excessive fear of an object, an animal, or a situation (flying, being trapped in close spaces, heights, blood, spiders, etc). Since the exposure to the feared situation, animal, or object causes an immediate surge of anxiety, patients carefully avoid the phobic stimuli. The diagnosis of specific phobia requires the presence of reduced functioning and interference with social activities and relationships because of the avoidant behavior, anticipatory anxiety, and distress caused by the exposure to the feared stimulus. In social phobias and performance anxiety, patients fear social interactions (in general or limited to specific situations) and public performance (public speaking, acting, playing an instrument), respectively. In generalized anxiety disorder, the anxiety is more chronic and less intense than in a phobic disorder and is not limited to a specific situation or item. Agoraphobic patients fear places where escape may be difficult or help may not be available in case the patient has a panic attack. Agoraphobic patients are often prisoners in their own homes and depend on a companion when they need to go out."
+  },
+  {
+    "id": "PT-ANXI-353",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 353,
+    "vignette": "Which of the following 1s the treatment of choice for the patient described in the previous vignette?",
+    "options": {
+      "A": "Imipramine Clonazepam Propranolol Exposure therapy Psychoanalysis eaos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 400-404.) No medication has proven to be effective in treating specific phobias. The treatment of choice for specific phobias is exposure, in vivo or using techniques of guided imagery, pairing relaxation exercises with exposure to the feared stimulus. The patient can be exposed to the feared stimulus gradually or can be asked to immediately confront the most anxiety-provoking situation (flooding)."
+  },
+  {
+    "id": "PT-ANXI-354",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 354,
+    "vignette": "A 26-year-old woman comes to the psychiatrist with a 1-month history of severe anxiety. The patient states that 1 month ago she was a “normal, laid-back person.” Since that time she rates her anxiety an 8 on a scale of 1 to 10, and also notes she is afraid to leave the house unless she checks that the door is locked at least five times. Which of the following medical conditions could commonly cause this kind of symptom presentation?",
+    "options": {
+      "A": "Hyperglycemia Crohn disease Hyperparathyroidism Fibromyalgia Mitral valve prolapse eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 413-414.) Medical conditions that can cause anxiety-related symptoms include the endocrinopathies (pheochromocytoma, hyperthyroidism, hypercortisolemic states, and hyperparathyroidism), metabolic problems (hypoxemia, hypercalcemia, and hypoglycemia) and neurologic disorders, including vascular, trauma, and degenerative types. Although mitral valve prolapse and panic attacks have long been associated, the mitral valve prolapse actually causing the panic attacks is not known."
+  },
+  {
+    "id": "PT-ANXI-355",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 355,
+    "vignette": "A 28-year-old business executive sees her physician because she is having difficulty in her new position, because it requires her to do frequent public speaking. She states that she is terrified that she will do or say something that will cause her extreme embarrassment. The patient says that when she must speak in public, she becomes extremely anxious and her heart beats uncontrollably. Other than in these performance situations, she does not find herself anxious generally. Based on this clinical picture, which of the following medications is likely to be the best choice for this patient?",
+    "options": {
+      "A": "Agoraphobia Panic disorder Obsessive-compulsive disorder Social phobia Adjustment disorder Specific phobia Acute stress disorder wmeadcs"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 407.) While fluoxetine and clonazepam may both be used effectively in cases of generalized social phobia, this young woman reports feeling extremely anxious only under performance situations. For control of performance anxiety, either beta- adrenergic receptor antagonists (commonly atenolol or propranolol) or relatively short acting benzodiazepines (lorazepam or alprazolam) are the treatments of choice. The antipsychotic olanzapine would be an inappropriate choice in either case of generalized social phobia or social phobia related to performance anxiety. 356 to 358. The answers are 356-f, 357-a, 358-d. (Kaplan and Sadock, pp 398-406.) Phobic disorders include agoraphobia, specific phobias, and social phobia. They are all characterized by overwhelming, persistent, and irrational fears that result in the overpowering need to avoid the object or situation that 1s generating the anxiety. Agoraphobia is the marked fear and avoidance of being alone 1n public places where rapid exit would be difficult or help would not be available. Social phobia is characterized by avoidance of situations in which one is exposed to scrutiny by others and by fears of being humiliated or embarrassed by one’s actions. Specific phobias are triggered by objects (often animals), heights, or closed spaces. A large variety of objects are associated with simple phobias. 359 to 363. The answers are 359-f, 360-g, 361-e, 362-d, 363-a. (DSM-5, pp 271-274, 298, 311.) One of the most characteristic features of post- traumatic stress disorder (PTSD) is the occurrence of repeated dreams, flashbacks, and intrusive thoughts of the traumatic event. Hyperarousal, irritability, difficulties concentrating, exaggerated startle response, emotional numbing, avoidance of places and situations associated with the traumatic experience, dissociative amnesia, and a sense of foreshortened future are other symptoms displayed by patients with PTSD. In body dysmorphic disorder, a person of normal appearance is preoccupied with some imaginary physical defect. The belief is tenacious and sometimes of delusional intensity. This diagnosis should not be made when the distorted ideations are limited to the belief of being fat in anorexia nervosa or to uneasiness with one’s gender characteristics in gender identity disorder. Patients with obsessive-compulsive disorder (OCD) experience persistent thoughts, impulses, or repetitive behaviors that they are unable to stop voluntarily. Obsessions and compulsions are experienced as alien and egodystonic and are the source of much distress. Somatic symptom disorder is characterized by a history of multiple physical complaints not explained by organic factors. The diagnosis requires the presence of four pain symptoms, two gastrointestinal symptoms, one sexual symptom, and one pseudoneurological symptom over the course of the disorder. Dissociative amnesia may present with sudden travel away from home accompanied by temporary loss of autobiographic memory. Patients are confused about their identity and at times form new identities. Dissociative amnesia may last from hours to months. During the fugue, individuals do not appear to have any psycho-pathology; usually they come to attention when their identity is questioned. 364 to 366. The answers are 364-e, 365-b, 366-f. (Stern, Herman, and Gorrindo, pp 355-356.) The patient who compulsively washes her hands has obsessive-compulsive disorder (OCD), and she would respond to an SSRI. Treatment of OCD symptoms may require higher dosages and longer trial periods than those recommended for depression. Before a trial is considered ineffective, the patient should have received minimum daily doses of sertraline 200 mg, fluoxetine 60 mg, fluvoxamine 300 mg, paroxetine 60 mg, and/or clomipramine 250 mg, since this disorder often requires higher doses than what would be seen if a major depressive disorder were being treated with the same medication. Each drug trial should be no less than 12 weeks. The bank teller presents with symptoms of generalized anxiety disorder (GAD). Tricyclics, SSRIs, and buspirone (a nonbenzodiazepine antianxiolytic) are all effective with GAD, but because of the significant side effects of tricyclics, buspirone or SSRIs are most commonly used. In this case, buspirone would be the first treatment of choice, given that it has a very low incidence of side effects and a high rate of success with GAD. Benzodiazepines are also very effective with this disorder, but since they may be addictive, they are not recommended for people with a history of substance abuse. Alpha-adrenergic receptor antagonists (beta-blockers) are effective in the treatment of specific forms of social phobias such as fear of public speaking and fear of performing in front of an audience."
+  },
+  {
+    "id": "PT-ANXI-367",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Anxiety, OCD, Trauma, Somatic, Dissociative Disorders",
+    "domain": "anxiety",
+    "question_num": 367,
+    "vignette": "A 24-year-old woman comes to the psychiatrist with a 2-month history of short episodes of “feeling like I am going to die.” During these episodes, she also notes feelings of dizziness and nausea, along with a feeling of choking. She describes these episodes as very frightening and she is terrified of having another. She denies substance use or any medical problems. Which of the following treatment regimens should be started?",
+    "options": {
+      "A": "Imipramine Fluoxetine Phenelzine Paroxetine and alprazolam Buspirone and citalopram eaos Anxiety, Obsessive-Compulsive, Trauma- or Stressor-Related, Somatic Symptom and Dissociative Disorders"
+    },
+    "correct": "D",
+    "explanation": "(Stern, Herman, and Gorrindo, pp 351-353.) The combination of an SSRI (paroxetine) and a benzodiazepine (alprazolam) 1s considered optimal for this young woman with panic disorder. She is terrified of the panic attacks and needs swift relief. She has no history of substance abuse. Alprazolam will shut off the panic attacks almost immediately, and should be continued until the SSRI begins to take effect (typically several weeks). At that time, the patient can be slowly tapered off the alprazolam and continued on the SSRI. Personality Disorders, Human Sexuality, and Miscellaneous Syndromes"
+  }
+]

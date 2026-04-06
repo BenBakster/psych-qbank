@@ -1,0 +1,478 @@
+[
+  {
+    "id": "PT-EVAL-001",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 1,
+    "vignette": "A 42-year-old woman is seen in the emergency room after she was brought in for starting a fight in a bar. During the interview, she answers questions with a nearly continuous flow of accelerated speech that jumps from topic to topic. For example, one run-on sentence began, “I am fine, are you fine?... does the sun shine?...it is nice outside today... the today show is a very interesting place to be, I will have to run it.” Which of the following psychiatric findings best describes this style of train of thought?",
+    "options": {
+      "A": "Loose association . Circumstantiality . Neologism . Perseveration b c d",
+      "E": "Flight of ideas"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 202.) Flight of ideas is a disorder of thinking in which the patient expresses thoughts very rapidly, with constant shifting from one idea to another, though the ideas are often connected. In loose associations, the thought process has also lost its goal- directedness; however, the patient never gets back to the original point and there is no clear connection between sentences. Circumstantiality indicates the loss of a goal-directed thought process: the patient brings in many irrelevant details and comments, but eventually will get back to the point. A neologism is a fabricated word made up by the patient, which is usually a combination of existing words. Perseveration, often associated with cognitive disorders, refers to a response that persists even after a new stimulus has been introduced—for example, a patient asked to repeat the phrase “no ifs, and, or buts” responds by saying, “no ifs, 1fs, ifs, ifs.”"
+  },
+  {
+    "id": "PT-EVAL-002",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 2,
+    "vignette": "A 23-year-old man comes to the psychiatrist with a chief complaint of a depressed mood. He is very anxious and obviously uncomfortable in the physician’s office. Which of the following actions should be used to help develop rapport with this patient?",
+    "options": {
+      "A": "Inform the patient that his problem is simple and easily fixed.",
+      "B": "Express compassion with the difficult position the patient is in.",
+      "C": "Tell the patient that you, too, are nervous when seeing new patients.",
+      "D": "Ask the patient why he is so unusually anxious about seeing a psychiatrist.",
+      "E": "Get right to the patient’s complaint, so that the patient can leave as soon as possible."
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 193.) A patient in this situation needs empathy above all else if a successful rapport is to be developed. Informing the patient that his problem is simple and easily fixed might eventually bring some relief to the patient, but if stated early in the interview process can sound condescending, as if the patient should not trouble the physician with such trivial things. Expressing compassion for the difficult situation the patient finds himself in is showing true empathy with the patient’s current discomfort. Telling the patient that you are “nervous about seeing new patients too” could be seen as an expression of empathy with the patient, but may also make the patient feel dismayed, since he wants a confident and competent physician to treat him. Asking the patient why he is so unusually nervous will only make the patient more self-conscious, and it is not unusual for patients to be this nervous on a first visit to a psychiatrist (especially if they have never seen one before). Finally, getting right to the patient’s complaint just ignores the uncomfortable feeling the patient has come in with, and this will not help the development of rapport (nor is it very observant of the psychiatrist)."
+  },
+  {
+    "id": "PT-EVAL-003",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 3,
+    "vignette": "A 23-year-old woman is seen by a psychiatrist in the emergency room. During the history, the patient is asked to describe her mood. She answers the following, “I am fine, like great wine, right off the vine. Do you like to climb? I need a glass of gin with lime.” She notes that she believes that she is the missing princess of Slovenia and needs someone to call that country to tell them she has been found. Which of the following findings would be listed on a report of this patient’s mental status examination?",
+    "options": {
+      "A": "Clang association, delusions of grandeur",
+      "B": "Thought blocking, auditory hallucination",
+      "C": "No apparent thought disorder",
+      "D": "Tangentiality, labile affect",
+      "E": "Neologism, paranoid delusion"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 202.) Clang associations are thoughts that come out in a rhyming pattern, whether or not the verbalized sentence means anything logically. Thought blocking is a sudden stoppage or “blocking” in the patient’s pattern of thought, so much so that speech is disrupted as well. Tangentiality refers to a pattern of thought in which the patient answers a question with something that is related to the question, but does not answer it directly. For example, Question: “How are you feeling?” Answer: “This sofa is feeling particularly soft today.” A neologism is either the use of a completely made up word or phrase, or the use of an existing word or phrase in an idiosyncratic manner. The patient’s belief that she is the missing princess of Slovenia is an example of a grandiose delusion. A grandiose delusion involves believing that one is famous or of special importance. An auditory hallucination is the experience of hearing something that no one else can hear. For example, hearing a voice telling one to kill oneself. Labile affect 1s the rapid shifting of facial expression and behavior between two different emotional presentations. For example, a patient is laughing one minute, crying the next, and back to laughing shortly thereafter. A paranoid delusion involves thinking that a person (or people) are out to hurt, spy upon, or otherwise invade the life of the patient."
+  },
+  {
+    "id": "PT-EVAL-004",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 4,
+    "vignette": "A 56-year-old man has been hospitalized for a myocardial infarction. One day after admission, he becomes tremulous, anxious, and tachycardic. Several hours later, he begins laughing and pointing to the butterflies that he sees flying around the room. When the nurse enters the room, she sees no butterflies. This misperception of reality is best described by which of the following psychiatric terms?",
+    "options": {
+      "A": "Delusion Hallucination Illusion Projection Dementia ono s"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 202.) A hallucination 1s a perception in any one (or more) of the 5 senses (auditory, visual, olfactory, tactile, gustatory) that 1s not, in reality, occurring. An illusion is the misperception or misinterpretation of a real sensory stimulus, as opposed to a hallucination, which is a false sensory perception unrelated to any real sensory stimulus. A delusion is a fixed, false belief that is unrelated to a patient’s intelligence or cultural background. By definition, a delusion cannot be corrected with the use of logic or reasoning. Projection 1s a defense mechanism in which the patient reacts to an inner unacceptable impulse as if it were outside the self—for example, a paranoid patient reacts to others as if they were going to hurt him. This is because the patient’s unacceptable hostile impulses are projected onto others, and the patient reacts as if the others have hostile impulses of their own toward the patient."
+  },
+  {
+    "id": "PT-EVAL-005",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 5,
+    "vignette": "A 22-year-old woman 1s seen by a psychiatrist in the emergency room after she is found walking in the middle of a busy street with no shoes on. During her interview she is asked to tell the physician what the following statement means: “Those in glass houses should not throw stones.” Which of the following best describes the cognitive functions being tested by this request?",
+    "options": {
+      "A": "Orientation",
+      "B": "Immediate memory",
+      "C": "Fund of knowledge",
+      "D": "Concentration",
+      "E": "Abstract reasoning"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 203.) Abstract reasoning is the ability to think flexibly, creatively, and logically. It is typically tested during a mental status examination by asking a patient to interpret a proverb. Having a patient subtract 7s from 100 tests concentration. Orientation is evaluated by asking the patient whether he knows where he is, who he is, and what the date is. Immediate memory is tested by asking a patient to repeat a series of numbers immediately after you say them with no time delay. Fund of knowledge is tested by asking a patient to answer a question that an average adult would know the answer to, such as, “What is the body of water that lies off the east coast of New York?”"
+  },
+  {
+    "id": "PT-EVAL-006",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 6,
+    "vignette": "A 28-year-old woman 1s admitted to the hospital secondary to a bacterial pneumonia. Her white blood cell count 1s extremely low because she has been receiving chemotherapy for lymphoma. The second night in the hospital, she begins crying inconsolably, though she is unable to tell the nurse why. Forty minutes later, she pulls out her IV and begins screaming that people are trying to hurt her. Several hours later she is found to be difficult to arouse and is disoriented. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Major depressive disorder",
+      "B": "Psychotic disorder due to another medical condition",
+      "C": "Bipolar disorder, current episode manic",
+      "D": "Delirium",
+      "E": "Acute stress disorder"
+    },
+    "correct": "D",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 825-827.) The diagnostic criteria for delirium include a disturbance of consciousness (ie, this woman’s decreased arousal) and a change in cognition (ie, the inconsolable crying followed by the sudden appearance of paranoia in this woman). The disturbance must develop over a short period of time and tends to fluctuate over the course of a day. There also must be evidence that the disturbance is caused by the direct physiological consequence of another medical condition, which must be assumed in this case. (The diagnosis, however, is not psychosis due to another medical condition because the presenting signs and symptoms are better accounted for by the diagnosis of delirium. This patient’s symptoms go beyond just the symptoms of psychosis.) Since no prior history of a mental disorder was given, and the disturbance was not present immediately upon admission, it is unlikely that the patient has a major depressive disorder or is experiencing bipolar disorder with a manic episode. Since the patient’s consciousness is waxing and waning, it is also unlikely that she is experiencing an acute stress disorder."
+  },
+  {
+    "id": "PT-EVAL-007",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 7,
+    "vignette": "A 52-year-old man is sent to see a psychiatrist after he is disciplined at his job because he consistently turns in his assignments late. He insists that he is not about to turn in anything until it is “perfect, unlike all of my colleagues.” He has few friends because he annoys them with his demands for “precise timeliness” and because of his lack of emotional warmth. This has been a lifelong pattern for the patient, though he refuses to believe the problems have anything to do with his personal behavior. Which of the following 1s the most likely diagnosis for this patient?",
+    "options": {
+      "A": "Obsessive-compulsive disorder",
+      "B": "Obsessive-compulsive personality disorder",
+      "C": "Borderline personality disorder",
+      "D": "Bipolar disorder, current episode unspecified",
+      "E": "Unspecified anxiety disorder"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 418-427, 756-757.) The essential feature of obsessive-compulsive personality disorder is a preoccupation with perfection, orderliness, and control. Individuals with this disorder lose the main point of an activity and miss deadlines because they pay too much attention to rules and details and are not satisfied with anything less than “perfection.” As in other personality disorders, symptoms are ego-syntonic and create interpersonal, social, and occupational difficulties. Obsessive-compulsive disorder is differentiated from obsessive- compulsive personality disorder by the presence of obsessions and compulsions. In addition, patients with symptoms of obsessive-compulsive disorder view them as ego-dystonic. Patients with borderline personality disorder present with a history of pervasive instability of mood, relationships, and self-image beginning by early adulthood. Their behavior is often impulsive and self-damaging. Patients with bipolar disorder present with problems of mood stability; mood may be depressed for several weeks at a time, then euphoric. Patients with an unspecified anxiety disorder present with anxiety as a main symptom, though they do not specifically fit any other, more specific anxiety disorder as per DSM-5 (Diagnostic and Statistical Manual, 5th Edition)."
+  },
+  {
+    "id": "PT-EVAL-008",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 8,
+    "vignette": "A 23-year-old woman comes to the psychiatrist because she “cannot get out of the shower.” She tells the psychiatrist that she has been unable to go to her job as a secretary for the past 3 weeks because it takes her at least 4 hours to shower. She describes an elaborate ritual in which she must make sure that each part of her body has been scrubbed three times, in exactly the same order each time. She notes that her hands are raw and bloody from all the scrubbing. She states that she hates what she is doing to herself but becomes unbearably anxious each time she tries to stop. She notes that she has always taken long showers, but the problem has been worsening steadily for the past 5 months. She denies problems with friends or at work, other than the problems that currently are keeping her from going to work. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Attention-deficit hyperactivity disorder",
+      "B": "Obsessive-compulsive disorder",
+      "C": "Obsessive-compulsive personality disorder",
+      "D": "Separation anxiety disorder",
+      "E": "Brief psychotic disorder"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 418-427, 756-757.) The essential features of obsessive-compulsive disorder are obsessions (recurrent and persistent thoughts that are experienced as intrusive and inappropriate and that cause anxiety) and compulsions (repetitive behaviors that the person feels driven to perform). In this disorder, the patient’s symptoms are egodystonic to him or her, unlike the person with an obsessive-compulsive personality disorder. Patients with attention-deficit hyperactivity disorder have problems with inattention, hyperactivity, and/or impulsivity. Patients with separation anxiety disorder worry about losing or harming major attachment figures and become anxious when separation from home or those major figures is anticipated. Patients with brief psychotic disorder show evidence of either delusions or hallucinations for a short period of time, usually after exposure to some external stressor."
+  },
+  {
+    "id": "PT-EVAL-009",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 9,
+    "vignette": "A 37-year-old man with chronic schizophrenia is brought to see a new psychiatrist for treatment. While taking the history, the psychiatrist finds that the patient functions with a flat affect and circumstantial speech all the time. He has few friends. He is able to hold a menial job at the halfway house where he lives, and his behavior is not influenced by delusions or hallucinations currently. In DSM-IV, the old multiaxial system of rating a patient’s global assessment of functioning, this element would have been documented on Axis V. In DSM-5, how is it suggested that an assessment of functioning be documented?",
+    "options": {
+      "A": "Panic disorder",
+      "B": "Generalized anxiety disorder",
+      "C": "Schizoid personality disorder",
+      "D": "Schizotypal personality disorder",
+      "E": "Anxiety disorder due to another medical condition f. Factitious disorder g. Malingering h. Schizophreniform disorder i. Schizophrenia"
+    },
+    "correct": "C",
+    "explanation": "(Diagnostic and Statistical Manual of Mental Disorders, Sth Edition, pp 16, 745-748.) In DSM-IV-TR, Axis V was the spot for coding a global assessment of functioning (GAF), considered a mixture of a patient’s ability to function socially, occupationally, and psychologically. The GAF, along with the entire axes system as a whole, was eliminated in DSM-5. GAF was eliminated because of its lack of clarity and its questionable psychometrics. The WHO Disability Assessment Schedule (WHODAS) is included for further study in DSM-5 as a mechanism for providing this information for use across all of medicine and health care. 10 to 13. The answers are 10-c, 11-f, 12-h, 13-b. (Kaplan and Sadock, pp 327-329, 407-412, 489-496, 742-762, 812-815.) Patients with schizoid personality disorder are notable in that their symptoms (social isolation, inability to connect emotionally with others, tendency to daydream) are ego- syntonic—that 1s, they do not cause a problem for the patient and are not seen as such. These patients may have very few social connections, and unlike patients with avoidant personality disorder, they do not seem to miss the contact. Patients with schizotypal personality disorder, by contrast, are generally seen as odd, with eccentric (though not to the point of delusional) thoughts and beliefs. Patients with factitious disorder are trying to achieve the role of a person with an illness (usually physical) so that they may be cared for by the healthcare system. This constitutes primary gain, in that there is usually nothing they are trying to avoid by adopting the sick role (as opposed to the secondary gain of malingering, whereby a patient might enter the hospital, eg, to avoid being arrested by the police). Patients often will have undergone a series of medical procedures, and it 1s not unusual to find a history of a family member (or the patient himself/herself) being involved in a medical field as a line of work. Schizophreniform disorder is best thought of as a schizophrenia-like illness that simply has not been manifested for long enough to be called schizophrenia (6 months is the cutoff point between the two). Psychotic symptoms such as auditory or visual hallucinations are common, as 1s a premorbid history of being “weird” or a “loner.” Generalized anxiety disorder 1s identified by the fact that the patient has multiple worries, not just one or two. For example, the anxious patient is not worried just about having an anxiety attack or about the health of her daughter or about the war in Iraq. She is worried about a number of different scenarios, and they are not all related."
+  },
+  {
+    "id": "PT-EVAL-014",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 14,
+    "vignette": "A 23-year-old woman comes to the emergency room with the chief complaint that she has been hearing voices for 7 months. Besides the hallucinations, she has the idea that the radio 1s giving her special messages. When asked the meaning of the proverb “People in glass houses should not throw stones,” the patient replies, “Because the windows would break.” Which of the following mental status findings does this patient display?",
+    "options": {
+      "A": "Poverty of content Concrete thinking Flight of ideas Loose associations Delirium ono s"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 1102.) Patients who present with concrete thinking have lost the ability to form abstract concepts, such as metaphors, and focus instead on actual things and facts. Concrete thinking is the norm in children and 1s seen in cognitive disorders (mental retardation, dementia) and schizophrenia."
+  },
+  {
+    "id": "PT-EVAL-015",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 15,
+    "vignette": "A 22-year-old woman is seen in the emergency room after a suicide gesture. She swallowed 10 aspirin tablets in the presence of her mother, with whom she had just had an argument. The patient has a long history of cutting herself superficially with razor blades, which her psychiatrist of the last 5 years confirms by telephone. The patient currently lives in a stable environment (a halfway house) where she has been for 3 years. Which of the following options is the best course of action for the physician in the emergency room assuming that the patient has been medically and psychiatrically cleared?",
+    "options": {
+      "A": "Admit the patient involuntarily.",
+      "B": "Admit the patient voluntarily.",
+      "C": "Keep the patient in an observation room for 24 hours in the emergency room.",
+      "D": "Discharge the patient to outpatient therapy after meeting with the patient’s mother.",
+      "E": "Discharge the patient back to outpatient therapy and the halfway house."
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 751.) The patient in this scenario has chronic issues with self-injury (which is confirmed by a psychiatrist that has been seeing her for a long period of time). She lives in a safe and supportive environment and is in ongoing outpatient care. The suicidal gesture occurred during an argument, and the gesture itself was not serious (ie, only 10 aspirin tablets were taken, and in front of the mother, so rescue was a certainty). Since the patient lives in a setting that is separate from her mother, it is likely that continued outpatient treatment and returning to the halfway home to live will be more beneficial to the patient than being admitted. Continued observation in an emergency room setting is unlikely to provide any benefit either."
+  },
+  {
+    "id": "PT-EVAL-016",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 16,
+    "vignette": "A 69-year-old man is brought to see his physician by his wife. She notes that over the past year he has experienced a slow, stepwise decline in his cognitive functioning. One year ago she felt his thinking was “as good as it always had been,” but now he gets lost around the house and can’t remember simple directions. The patient insists that he feels fine, though he 1s depressed about his loss of memory. He 1s eating and sleeping well. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Major or mild vascular neurocognitive disorder Mood disorder due to another medical condition Schizoaffective disorder Delirium Major depressive disorder eaes"
+    },
+    "correct": "A",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 825-827, 1233- 1236.) Multiple cerebral infarcts cause a progressive dementia (usually described as stepwise), focal neurological signs, and often neuropsychiatric symptoms such as depression, mood lability (but usually not elated mood), and delusions. The dementias are now categorized under major or mild neurocognitive disorders in DSM-5. Loose associations, catatonic posturing, and bizarre proverb interpretations occurring with affective symptoms are typical of schizoaffective disorder. In delirium, one would expect to see the waxing and waning of consciousness over time, including problems with orientation to person, place, and time. The patient does not have a mood disorder, because, although he 1s depressed over his loss of memory, he has no vegetative or other depressive symptoms other than mood."
+  },
+  {
+    "id": "PT-EVAL-017",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 17,
+    "vignette": "A 24-year-old woman comes to a psychiatrist with the chief complaint of hearing voices. During the interview, the patient is intermittently tearful when she speaks of hearing the voices. She states that she has been feeling sad for the past 6 weeks, and she appears this way to the interviewer as well. During the course of the interview, the patient 1s able to smile and occasionally laugh at appropriate times in response to the physician’s questions. How would this patient’s mood and affect be characterized in a mental status examination?",
+    "options": {
+      "A": "Mood—constricted affect—flat, incongruent",
+      "B": "Mood—dysthymic affect—full range",
+      "C": "Mood—euthymic affect—constricted, congruen",
+      "D": "Mood—dysphoric affect—labile",
+      "E": "Mood—flat atfect—dysphoric"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 201.) Mood is the pervasive and sustained emotion that the patient experiences. In this case, the patient states that she is sad and thus her mood might be described as such. A commonly used term to describe sad is dysphoric, as opposed to euphoric (extremely happy) or euthymic (normal state of mood—neither high, nor low). Affect is the patient’s present emotionally responsive state, and it is inferred by the patient’s facial expression, speech, and body language. Affect may or may not be congruent with mood. For example, a patient who states that he is sad, but is laughing and jovial throughout the interview might be said to have a dysphoric mood with an incongruent affect. The patient in the vignette also has a constricted affect, in that during the interview she appears sad all the time. However, she is able to smile and laugh at appropriate moments during the interview and thus is considered to have a full range of affect."
+  },
+  {
+    "id": "PT-EVAL-018",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 18,
+    "vignette": "A 6-year-old girl is brought to the physician by her mother, who says the child has been falling behind at school. She notes that the girl did not speak until the age of 4, though her hearing was tested at age 3 and found to be normal. She is friendly at school, but is unable to complete most tasks, even when aided. She is noted to have a very short attention span and occasional temper tantrums at school and at home. She enjoys playing with her toys at home. Which of the following tests would be most helpful in establishing the diagnosis?",
+    "options": {
+      "A": "Electroencephalogram (EEG)",
+      "B": "Beck depression test",
+      "C": "IQ testing",
+      "D": "Complete blood count (CBC)",
+      "E": "Lumbar puncture Questions 19 to 21"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 1116-1117.) The diagnosis of mental retardation is made after a history, IQ test, and measures of adaptive functioning indicate that the behavior is significantly below the level expected. An EEG 1s rarely helpful except for those patients who have grand mal seizures. While the presence of temper tantrums in a young child might be a sign of a psychiatric disorder such as a major depressive disorder, the Beck depression test is designed for use with patients of 13 years of age and above. In addition, elements of the history, such as the child’s continued enjoyment of playing with her toys, make this diagnosis less likely. Metabolic disorders can cause mental retardation, but a CBC would be unlikely to pick this up. A lumbar puncture would be helpful only if the physician believed these symptoms to be secondary to an infectious process —unlikely, given the time course."
+  },
+  {
+    "id": "PT-EVAL-019",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 19,
+    "vignette": "A 30-year-old man is brought to the emergency room after threatening to kill his 19-year-old girlfriend after she told him she was breaking up with him. The patient smells strongly of alcohol. The patient is from a high socioeconomic status and reports many social supports. Which of the following pairs of factors make this patient’s risk of violent behavior higher than that of the general population?",
+    "options": {
+      "A": "His age and his alcohol use",
+      "B": "His alcohol use and the impending breakup with the girlfriend",
+      "C": "The impending breakup with the girlfriend and his high socioeconomic status",
+      "D": "His high socioeconomic status and the presence of many social supports in his life",
+      "E": "The age difference of the couple and a verbal threat of violence by the patient"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 778.) Alcohol intoxication and an overt stressor (impending breakup with the girlfriend) are both predictors of violence. Demographically, males from the ages of 15 to 24 are more likely to commit violent acts, and this patient 1s outside that age range. Also, those with low socioeconomic statuses and few social supports are more likely to commit violent acts. While verbal threats of physical violence do increase the risk of subsequent physical violence, the age difference of the couple 1n question has no bearing on the prediction of violence."
+  },
+  {
+    "id": "PT-EVAL-020",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 20,
+    "vignette": "The patient above becomes physically violent in the emergency room, attempting to strike a nurse and struggling with security. Which of the following actions should the physician take now?",
+    "options": {
+      "A": "Order full leather restraints.",
+      "B": "Admit the patient to the inpatient psychiatry unit.",
+      "C": "Offer the patient 5 mg of haloperidol PO.",
+      "D": "Attempt to find out why the patient 1s so upset.",
+      "E": "Assist security in restraining the patient."
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 779.) The first order of business with a physically violent patient is to ensure the safety of the patient and the caregivers. Since this patient has already been physically violent, it 1s not the time to reason with the patient verbally, or offer medication orally. The patient should be put immediately in full leather restraints (not soft restraints). Since medical students and residents are rarely fully trained in the safe restraint of a violent patient, this 1s better done by those who are trained, if at all possible."
+  },
+  {
+    "id": "PT-EVAL-021",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 21,
+    "vignette": "The patient in Question 19 is eventually placed in full leather restraints. He struggles against them and screams racial slurs repeatedly. What would be the next most appropriate action for the psychiatrist to take?",
+    "options": {
+      "A": "Give haloperidol 5 mg IM and lorazepam 2 mg IM.",
+      "B": "Start an IV and give diazepam 5 mg IVP.",
+      "C": "Draw a blood toxicology screen to look for other drugs of abuse.",
+      "D": "Give a loading dose of carbamazepine.",
+      "E": "Send the patient for an MRI of his head."
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 779.) The patient is still struggling and out of control while in restraints, so the next action that should be taken is to sedate him. This is best achieved in an emergency room setting with the IM combination of haloperidol and lorazepam (which both decreases the dose of antipsychotic necessary and protects against dystonic reactions). An IV would be extremely difficult to start with a struggling patient and valium should never be given IV push at any rate. While drawing blood for additional toxicology screens is probably a good idea, the first priority should be to control this patient’s behavior before he injures himself."
+  },
+  {
+    "id": "PT-EVAL-022",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 22,
+    "vignette": "A psychiatrist 1s seeing a patient in his outpatient practice. The patient treats the psychiatrist as if he were angry and punitive, though he had not been either. The patient’s father was an alcoholic who often did not show up to pick her up from school and frequently hit her. The psychiatrist begins to feel increasingly annoyed with the patient. Which of the following psychological mechanisms best describes the psychiatrist’s behavior?",
+    "options": {
+      "A": "Reaction formation Projection Projective identification Identification with the aggressor Illusion eaes"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 166.) Projective identification is a primitive defense mechanism in which a person projects his/her own unconscious feelings into another. The other person then identifies with the projected emotion and begins to behave in the manner dictated by the projected emotion. For example, a patient 1s extremely angry at her therapist because he is going on vacation. The anger is too dangerous to admit, so she unconsciously ‘projects’ this emotion onto the therapist. She feels as if the therapist is angry with HER. The therapist identifies with the unconscious projection and begins to behave as if he is angry at the patient. (eg, he feels himself becoming annoyed with his patient.) Reaction formation, projection, and identification with the aggressor are unconscious defense mechanisms. An illusion is a perceptual misinterpretation of a real stimulus."
+  },
+  {
+    "id": "PT-EVAL-023",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 23,
+    "vignette": "A 65-year-old man, who had been hospitalized for an acute pneumonia 3 days previously, begins screaming for his nurse, stating that “there are people in the room out to get me.” He then gets out of bed and begins pulling out his IV line. On examination, he alternates between agitation and somnolence. He is not oriented to time or place. His vital signs are as follows: pulse, 126 beats/minute; respiration, 32 breaths/minute; blood pressure (BP), 80/58 mm Hg; and temperature, 39.2°C (102.5°F). Which of the following diagnoses best fits this patient’s clinical picture?",
+    "options": {
+      "A": "Dementia Schizophreniform disorder Dissociative amnesia Delirium Brief psychotic disorder ene"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 629-704.) The patient’s persecutory delusions and disorganized thinking could suggest a psychotic disorder such as schizophreniform or brief psychotic disorder, but fluctuations in consciousness and disorientation are typically found in delirium. Memory, language, and sleep—wake cycle disturbances are also typical of delirium, but occur acutely and wax and wane in their degree of severity, unlike that of dementia. Delusions, hallucinations, illusions, and misperceptions are also common. A dissociative amnesia would present with memory issues and/or depersonalization and derealization, but not illusions, and waxing and waning levels of consciousness. The causes of delirium are many and include metabolic encephalopathies (including fever and hypoxia, as in the patient in the question), intoxications with drugs and poisons, withdrawal syndromes, head trauma, epilepsy, neoplasms, vascular disorders, allergic reactions, and injuries caused by physical agents (heat, cold, radiation)."
+  },
+  {
+    "id": "PT-EVAL-024",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 24,
+    "vignette": "A 23-year-old man presents to the emergency room with the history of a fever up to 38°C (100.5°F) intermittently over the past 2 weeks, a persistent cough, and a 10-lb weight loss in the past month. He notes that he has also been growing increasingly forgetful for the past month and that his thinking is “not always clear.” He has gotten lost twice recently while driving. Which of the following diagnostic tests will be most helpful with this patient?",
+    "options": {
+      "A": "EEG",
+      "B": "Liver function tests",
+      "C": "Thyroid function tests",
+      "D": "Human immuno deficiency (HIV) antibody test",
+      "E": "Skull x-ray"
+    },
+    "correct": "D",
+    "explanation": "(Stern, Herman, and Gorrindo, pp 225-226, 272.) The patient has HIV-associated dementia, a disorder caused by the direct toxic effect of HIV on the brain. A CD4 count below 200 1s usually associated with HIV dementia, since this disorder typically occurs in the more advanced stages of AIDS. More rarely, cognitive impairments may be the first manifestation of HIV infection."
+  },
+  {
+    "id": "PT-EVAL-025",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 25,
+    "vignette": "A 19-year-old woman presents to the emergency room with the chief complaint of a depressed mood for 2 weeks. She notes that since her therapist went on vacation she has experienced suicidal ideation, crying spells, and an increased appetite. She states that she has left 40 messages on the therapist’s answering machine telling him that she is going to kill herself and that it would serve him right for leaving her. Physical examination reveals multiple well-healed scars and cigarette burns on the anterior aspect of both forearms. Which of the following diagnoses best fits this patient’s clinical presentation?",
+    "options": {
+      "A": "Persistent depressive disorder Bipolar I disorder Panic disorder Borderline personality disorder Schizoaffective disorder eaes"
+    },
+    "correct": "D",
+    "explanation": "(Hales, Yudofsky, Roberts, pp 878-879.) Individuals with borderline personality disorder characteristically form intense, but very unstable relationships. Since they tend to perceive themselves and others as either totally bad or perfectly good, borderline individuals either idealize or devalue any person who occupies a significant place in their lives. Usually these perceptions do not last, and the person idealized one day can be seen as completely negative the next day. This inability to see people as integrated wholes of both good and bad aspects, but rather to put them in the “all” or “none” category, is called splitting. The other answer choices do not fit the symptom profile of this patient."
+  },
+  {
+    "id": "PT-EVAL-026",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 26,
+    "vignette": "A 29-year-old man is brought to the emergency room by his wife after he woke up with paralysis of his right arm. The patient reports that the day before, he had gotten into a verbal altercation with his mother over her intrusiveness in his life. The patient notes that he has always had mixed feelings about his mother, but that people should always respect their mothers above all else. Which of the following diagnoses best fits this patient’s clinical picture?",
+    "options": {
+      "A": "Major depressive disorder",
+      "B": "Conversion disorder",
+      "C": "Histrionic personality disorder",
+      "D": "Dissociative amnesia",
+      "E": "Adjustment disorder with mixed anxiety and depressed mood"
+    },
+    "correct": "B",
+    "explanation": "(Hales, Yudofsky, Roberts, pp 540-545.) Conversion disorder 1s characterized by the sudden appearance of often dramatic neurological symptoms that are not associated with the usual diagnostic signs and test results expected for the symptoms being presented. Conversion disorder occurs in the context of a psychosocial stressor or an insoluble interpersonal or intrapsychic conflict. The psychological distress is not consciously acknowledged, but it is expressed through a metaphorical body dysfunction. In this example, the man who is torn between his duty to his mother and his intense anger at her resolved his impulse to hit her by developing a physical paralysis of his right arm. None of the other disorders listed have signs/symptoms consistent with this patient’s presentation."
+  },
+  {
+    "id": "PT-EVAL-029",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 29,
+    "vignette": "A diagnostic test 1s found to have the following characteristics: Number Number Total of patients of patients number of with the without the patients illness illness Presence of Substance 33 50 83 X in the blood Absence of Substance 5 37 4? Xin the blood Total 38 87 125 Which of the following formulas will allow you to correctly calculate the sensitivity of this diagnostic test? a. b. C. d. 38/125 = 0.30 33/83 = 0.40 37/87 = 0.43 83/125 = 0.66",
+    "options": {
+      "E": "33/38 = 0.87"
+    },
+    "correct": "E",
+    "explanation": "(Fletcher, Fletcher, and Fletcher, p 174.) Sensitivity 1s defined as the number of true positives divided by the sum of the number of true positives and false negatives. (a/atc in the table below) It is the proportion of patients with the condition 1n question that the test can detect. Thus, the sensitivity in this case is calculated by 33/38=0.87. Test positive Test negative Totals Gold standard disease present True positives (TP) a False negatives (FN) c Total diseased atc Gold standard disease absent False positives (FP) b True negatives (TN) d Total normal b+d Total number of patients Who test positive a+b Who test negative c+d Total number of patients in table a+tb+c+d"
+  },
+  {
+    "id": "PT-EVAL-030",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 30,
+    "vignette": "Which of the following formulas will allow you to correctly calculate the positive predictive value of this diagnostic test?",
+    "options": {
+      "A": "38/125 = 0.30",
+      "B": "33/83 = 0.40",
+      "C": "37/87 = 0.43",
+      "D": "83/125 =0.66",
+      "E": "33/38 = 0.87"
+    },
+    "correct": "B",
+    "explanation": "(Fletcher, Fletcher, and Fletcher, p 145.) The positive predictive value (PPV) of a diagnostic test is calculated by the formula PPV = a/at+b, which in this case 1s 33/83. The PPV is the percentage of patients who have the disease and have a positive test, divided by the percentage of the total number of patients who test positive. Thought of another way, it 1s the percentage of patients who actually have the disease who test positive for the disease."
+  },
+  {
+    "id": "PT-EVAL-031",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 31,
+    "vignette": "Which of the following formulas will allow you to correctly calculate the prevalence of this illness among the population in this example?",
+    "options": {
+      "A": "38/125 = 0.30",
+      "B": "33/83 = 0.40",
+      "C": "37/87 = 0.43",
+      "D": "83/125 =0.66",
+      "E": "33/38 = 0.87"
+    },
+    "correct": "A",
+    "explanation": "(Fletcher, Fletcher, and Fletcher, p 143.) The prevalence of a disease is calculated by the number of patients with the disease (a + c 1n the table above), divided by the total number of patients present in the sample (a + b + c + d). In the case of this example, this equals 38/125. Prevalence is the number of cases of a disease that are present in a population at a given time, divided by the total number in the population."
+  },
+  {
+    "id": "PT-EVAL-032",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 32,
+    "vignette": "A diagnostic test has a sensitivity of 64% and a specificity of 99%. Such a test would carry the risk of which kind of problem?",
+    "options": {
+      "A": "High relative risk Low likelihood ratio False negatives False positives Low power ene"
+    },
+    "correct": "C",
+    "explanation": "(Fletcher, Fletcher, and Fletcher, p 144.) Sensitivity 1s defined as the number of true positives divided by the sum of the numvber of true positives and false negatives (a/a+c in the table above). It is the proportion of patients with the condition 1n question that the test can detect. Thus, if the sensitivity of the test is only 64%, the number of false negatives is likely to be unacceptably high."
+  },
+  {
+    "id": "PT-EVAL-033",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 33,
+    "vignette": "A 56-year-old man is brought to the physician’s office by his wife because she has noted a personality change during the past 3 months. While the patient is being interviewed, he answers every question with the same three words. Which of the following symptoms best fits this patient’s behavior?",
+    "options": {
+      "A": "Negative symptoms . Disorientation . Concrete thinking . Perseveration . Circumstantiality"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 202.) Perseveration and circumstantiality are forms of thought disorder. In perseveration, the patient displays an inability to change the topic or gives the same response to different questions. Circumstantiality is a disturbance in which the patient digresses into unnecessary details before communicating the central idea. The capacity to generalize and to formulate concepts is called abstract thinking. The inability to abstract is called concreteness and 1s seen in organic disorders and sometimes in schizophrenia. Abstract thinking is commonly assessed by testing similarities, differences, and the meaning of proverbs. Negative symptoms include amotivation, apathy, and social withdrawal. These symptoms are often seen in schizophrenia."
+  },
+  {
+    "id": "PT-EVAL-034",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 34,
+    "vignette": "A 32-year-old patient is being interviewed in his physician’s office. He eventually answers each question, but he gives long answers with a great deal of tedious and unnecessary detail before doing so. Which of the following symptoms best describes this patient’s presentation?",
+    "options": {
+      "A": "Blocking Tangentiality Circumstantiality Looseness of associations Flight of ideas eaes"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 202.) Tangentiality, circumstantiality, flight of ideas, and looseness of associations are forms of thought disorder. Circumstantiality 1s a disturbance in which the patient digresses into unnecessary details before communicating the central idea. Tangentiality is present when the patient wanders and digresses to unnecessary details and the substance of the idea is never communicated. In flight of ideas, there are rapid, continuous verbalizations or plays on words that produce constant shifting from one idea to another. Ideas tend to be connected. In looseness of associations, the flow of thought 1s disconnected —1ideas shift from one subject to another in a completely unrelated way."
+  },
+  {
+    "id": "PT-EVAL-035",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 35,
+    "vignette": "An 18-year-old man is brought to the emergency room by the police after he is found walking along the edge of a high building. In the emergency room, he mumbles to himself and appears to be responding to internal stimuli. When asked open-ended questions, he suddenly stops his answer in the middle of a sentence, as if he has forgotten what to say. Which of the following symptoms best describes this last behavior?",
+    "options": {
+      "A": "Incongruent affect Blocking Perseveration Tangentiality Thought insertion ene"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 201-205.) In thought blocking, the patient suddenly stops talking, usually in the middle of a sentence, and cannot complete his or her thoughts. Affect 1s said to be incongruent when what is observed by the examiner (affect) does not match the subjective statement of how the patient feels (mood). Perseveration is a form of thought disorder 1n which the patient displays an inability to change the topic or gives the same response to different questions. Thought insertion refers to the patient’s idea that some thought content is being inserted directly into the patient’s mind."
+  },
+  {
+    "id": "PT-EVAL-036",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 36,
+    "vignette": "A 26-year-old woman with panic disorder notes that during the middle of one of her attacks she feels as if she is disconnected from her body, and feels as if she is floating above it. Which of the following terms best describes this symptom?",
+    "options": {
+      "A": "Mental status change Illusion Retardation of thought Depersonalization Derealization eaes"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 203.) Depersonalization refers to feeling that one 1s falling apart or not one’s self, that one’s self is unreal or detached. Derealization is the subjective sense that the environment is strange or unreal, as if reality had been changed. Perception 1s a physical sensation given a meaning or the integration of sensory stimuli to form an image or impression; in dulled perception, this capacity is diminished. Retardation of thought refers to the slowing of thought processes that may be seen in major depression. Response time to questions may be increased."
+  },
+  {
+    "id": "PT-EVAL-042",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Evaluation, Assessment, and Diagnosis",
+    "domain": "evaluation",
+    "question_num": 42,
+    "vignette": "A 45-year-old man with a chronic psychotic disorder is interviewed after being admitted to a psychiatric unit. He mimics the examiner’s body posture and movements during the interview. Which of the following terms best characterizes this patient’s symptom? a. ono F Shared psychotic disorder Dereistic thinking Echolalia Echopraxia Fugue Questions 43 to 45 Match the patient’s symptoms with the most appropriate diagnostic coding. Each lettered option may be used once, more than once, or not at all.",
+    "options": {
+      "A": "Diagnosis",
+      "B": "Axis II",
+      "C": "Axis III",
+      "D": "Code using ICD-9-CM codes",
+      "E": "WHODAS"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 336, 1197.) Echopraxia 1s the mimicking of the examiner’s body posture and movements by the patient. This can be seen 1n chronic schizophrenia. Shared psychotic disorder is a shared psychotic (delusional) belief held by two people. Dereistic thinking is a thought activity not concordant with logic or experience. Echolalia refers to the repetition of the examiner’s words or phrases by the patient. Fugue is the taking on of a new identity with no memory of the old one. It often involves travel to a new environment. 43 to 45. The answers are 43-a, 44-e, 45-a. (American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, pp 16- 17.) As of DSM-5, the previous 5 axis system has been abandoned. According to DSM-S, diagnoses previously coded on Axis I, II, and III have all been combined and a diagnosis is given. ICD-9-CM V codes as well as the new Z codes in ICD-10-CM are now used to classify psychosocial and environmental problems, instead of Axis IV. Functioning levels are now suggested to be notated using a global measure of disability (WHODAS). Many DSM-S5 diagnoses also contain notations within them for social and contextual factors that may be present. 46 to 49. The answers are 46-b, 47-c, 48-d, 49-a. (Hales et al, pp 704-709, 713-719, 875-878.) Conduct disorder is usually diagnosed in adolescence, and consists of a repetitive and persistent pattern of behavior in which the basic rights of others, and appropriate social norms, are violated. Categories of criteria include: aggression to people or animals; destruction of property; deceitfulness or theft; or serious violations of rules (staying out all night, running away from home, truancy from school). Three of the criteria must be met in the past 12 months, with at least one criterion present in the last year. Antisocial personality disorder is only diagnosed in an individual of at least 18 years of age, though there must be evidence of a conduct disorder previously. This is a pervasive pattern of disregard and violation of the rights of others occurring since age 15. Symptoms include: failure to conform to societal norms, deceitfulness, impulsivity, irritability and aggressiveness, reckless disregard for the safety of self or others, consistent irresponsibility, and a lack of remorse. Malingering is a deliberate disease simulation with a specific, secondary gain in mind (to get drugs, to avoid being caught by the police). Malingering may include the deliberate production of disease or the exaggeration, elaboration, or false report of symptoms. Oppositional defiant disorder is not as dysfunctional as conduct disorder, in that the main behavior is that of defiance: losing temper, arguing with adults, defying rules, annoying people, blaming others for mistakes, angry, resentful, or spiteful. (See conduct disorder answer above for the more serious behavior which constitutes that diagnosis.) 50 to 56. The answers are 50-g, 51-b, 52-f, 53-a, 54-e, 55-c, 56-d. (Kaplan and Sadock, pp 780-785.) Malignant hyperthermia may occur as a result of the administration of neuromuscular junction blockers (succinylcholine, halothane, etc). It results in symptoms of hyperthermia, musclerigidity, arrhythmias, hypotension, rhabdomyolysis, and disseminated intravascular coagulation. As noted in the vignette, hypersensitivity to these kinds of medications runs in families. Neuroleptic malignant syndrome is a serious and potentially lethal problem brought about by the use of neuroleptics. Three sets of symptoms appear rapidly: alteration in level of consciousness, autonomic instability (hyperthermia, tachycardia, labile hypertension, and tachypnea) and “lead pipe” muscle rigidity. Elevated creatinine phosphokinase level and leukocytosis are common findings secondary to the damage to the muscle which occurs. The syndrome can appear at any time, not just after the initiation of an antipsychotic. Thyrotoxicosis (or thyroid storm) is a rare but severe complication of hyperthyroidism, which may occur when a thyrotoxic patient becomes very sick or physically stressed. Its symptoms can include: an increase in body temperature to over 40°C (104°F), tachycardia, arrhythmia, vomiting, diarrhea, dehydration, coma, and death. Thyroid storm requires emergency treatment and hospitalization. Anticholinergic syndrome is most often seen in vulnerable populations (as in the elderly) who may have been given (or have taken) multiple medications with anticholinergic properties. Anticholinergic syndrome is characterized by blurry vision, dry mouth, and constipation, as well as confusion and delirium in severe cases. Serotonin syndrome occurs when plasma serotonin concentrations reach toxic levels. This can occur with concurrent administration of an SSRI with an MAOL, |-tryptophan, or lithium. The condition has the following symptoms (in order of appearance as the condition worsens): diarrhea; restlessness; extreme agitation, hyperreflexia, and autonomic instability; myoclonus; seizures, hyperthermia, uncontrollable shivering, and rigidity; delirium, coma, status epilepticus, and death. Acute dystonic reactions include facial grimacing and torticollis. These are extrapyramidal motor disturbances consisting of slow, sustained contractions of the axial or appendicular muscles. One movement often predominates, leading to relatively sustained postural deviations. These reactions are seen on occasion with the initiation of antipsychotic drug therapy. Akathisia is a subjective feeling of motor restlessness manifested by the patient’s need to be in almost constant movement. This may be seen as an extrapyramidal side effect after the initiation of antipsychotic therapy. It must be carefully delineated from psychotic agitation, since treating the latter with antipsychotics can make the akathisia much worse. 57 to 66. The answers are 57-d, 58-i, 59-a, 60-e, 61-j, 62-f, 63-g, 64-b, 65- h, 66-c (Hales et al, pp 9-94, 97-111, 822, 833.) The patient in vignette 57 has suffered a seizure. This disorder is characterized on EEG by interictal epileptiform discharges. The patient in vignette 58 has hepatic encephalopathy. Approximately one-half of patients with triphasic waves on EEG have hepatic encephalopathy. The patient in vignette 59 has a general toxic encephalopathy (in this case due to an electrolyte imbalance). A diffuse slowing of background rhythms is often present in patients with diffuse encephalopathies of diverse causes. The patient in vignette 60 has had a stroke. Periodic lateralizing epileptiform discharges suggest the presence of an acute destructive cerebral lesion and are associated with focal neurological findings. The patient in vignette 61 has Creutzfeldt-Jakob disease. Ninety percent of patients with this disease have generalized periodic sharp waves seen on EEG. The patient in vignette 62 has opioid intoxication. Characteristic findings on EEG include decreased alpha activity and increased voltage of theta and delta waves. In overdose with this drug, slow waves may be seen on EEG. The patient in vignette 63 has used marijuana. This drug increased alpha activity in the frontal area of the brain, but overall slows alpha activity. The patient in vignette 64 is in caffeine withdrawal. There is an increase in amplitude or voltage of theta activity on EEG with this condition. The patient in vignette 65 is in nicotine withdrawal. There is a marked decrease 1n alpha activity seen on the EEG during the withdrawal period. The patient in vignette 66 is undergoing barbiturate withdrawal. In withdrawal states, EEG shows generalized paroxysmal activity and spike discharges. Human Behavior: Theories of Personality and Development"
+  }
+]

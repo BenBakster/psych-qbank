@@ -1,0 +1,555 @@
+[
+  {
+    "id": "PT-PSYC-434",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 434,
+    "vignette": "An 85-year-old man 1s brought to the psychiatrist by his wife. She states that for the last 8 months, since the death of their son, the patient has been unable to sleep, has lost 20 lb, has crying spells, and in the last week has been starting to talk about suicide. She notes that he has numerous other medical problems, including prostatic hypertrophy, hypertension, insulin- dependent diabetes, and a history of myocardial infarction. Which of the following medications is most appropriate for the treatment of this patient?",
+    "options": {
+      "A": "Doxepin",
+      "B": "Clonazepam",
+      "C": "Sertraline",
+      "D": "Tranylcypromine",
+      "E": "Amitriptyline"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 1350.) The SSRIs, including fluoxetine, paroxetine, sertraline, fluvoxamine, and citalopram are well tolerated by the elderly, as are unique agents such as bupropion, venlafaxine, nefazodone, and mirtazapine. The tricyclic drugs include imipramine, desipramine, amitriptyline, and nortriptyline. They are effective in the treatment of depression; several anxiety disorders including panic disorder, generalized anxiety disorder, and separation anxiety; enuresis; and ADHD. Tricyclic antidepressants have different side effect profiles, with each blocking cholinergic, adrenergic, and histaminic receptors to different degrees. For example, there is less anticholinergic activity with desipramine than with imipramine, and nortriptyline is less likely to cause orthostatic hypotension than amitriptyline. However, all tricyclics are at least somewhat anticholinergic and sedating, and thus should not be used as a first-line treatment for major depressive disorder in the elderly. Phenelzine and tranylcypromine are both MAO inhibitors, whose major side effect is hypotension—again, not something to be used in the geriatric population, if at all possible."
+  },
+  {
+    "id": "PT-PSYC-435",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 435,
+    "vignette": "A 12-year-old boy is very distraught because every time he thinks or hears the word God or passes in front of a church, swear words pop into his mind against his will. He also feels compelled to repeat the end of every sentence twice and to count to 20 before answering any question. If he is interrupted, he has to start from the beginning. Which of the following medications has been proven effective with this disorder?",
+    "options": {
+      "A": "Alprazolam",
+      "B": "Sertraline",
+      "C": "Propranolol",
+      "D": "Phenobarbital",
+      "E": "Lithium"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 1266-1267.) SSRIs are effective medications for the treatment of OCD. Three of them have received FDA approval for the treatment of OCD in children (sertraline, fluoxetine, and fluvoxamine). Clomipramine 1s the only tricyclic antidepressant approved for the treatment of obsessive compulsive disorder in childhood. Its efficacy 1s thought to be related to its effects on inhibition of serotonin reuptake."
+  },
+  {
+    "id": "PT-PSYC-436",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 436,
+    "vignette": "A 7-year-old boy is brought to the physician with a 1-year history of making careless mistakes and not listening 1n class and at home. He is easily distracted and forgetful and loses his schoolbooks often. He 1s noted to be fidgety, talking excessively, and interrupting others. Which of the following medications 1s most likely to help with this boy’s symptoms?",
+    "options": {
+      "A": "Haloperidol Alprazolam Lithium Methylphenidate Paroxetine eaos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 1296-1297.) This young boy suffers from attention-deficit hyperactivity disorder (ADHD). The treatment of choice for ADHD is CNS stimulants, primarily dextroamphetamine, methylphenidate, and dexmethylphenidate. A methylphenidate transdermal patch has been approved by the FDA for the treatment of ADHD in children 6 to 12 years old as well."
+  },
+  {
+    "id": "PT-PSYC-437",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 437,
+    "vignette": "A patient with schizophrenia is being treated with clozapine. He is told he needs an initial CBC, then weekly CBCs for the first 6 months of treatment, which he agrees to do. Four months into the therapy, the patient’s WBC count is noted to be 3250/mm’. The patient complains of a mild sore throat. Which of the following actions should the physician take first?",
+    "options": {
+      "A": "Start twice per week CBCs with differential counts. Continue the clozapine.",
+      "B": "Interrupt the clozapine therapy. Get daily CBCs with differential. Restart the clozapine after the CBC normalizes.",
+      "C": "Discontinue the clozapine immediately. Place the patient in protective isolation.",
+      "D": "Consult with a hematologist to determine the appropriate antibiotic therapy.",
+      "E": "Repeat the CBC in 1 week, if the level of WBCs drops again, discontinue clozapine."
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 1030.) A mild leukopenia (WBC = 3000-3500), with or without clinical symptoms such as lethargy, fever, sore throat, or weakness, should cause the psychiatrist to monitor the patient closely and institute a minimum of twice-weekly CBC tests with differentials included. More serious leukopenia (WBC = 2000 to 3000) should cause psychiatrists to get daily CBCs and stop the clozapine. It may be reinstituted after the WBCs normalize. With an uncomplicated agranulocytosis (no signs of infection), the patient should be placed in protective isolation, the clozapine should be discontinued, and a bone marrow specimen may need to be gotten to see if progenitor cells are being suppressed. Clozapine must not be restarted in this latter case."
+  },
+  {
+    "id": "PT-PSYC-438",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 438,
+    "vignette": "A 36-year-old man is admitted to the hospital after a suicide attempt, in which he swallowed his entire bottle of lithium pills. In the emergency room, he is noted to be stuporous, with a lithium level of 3.5 meq/L. His urine output is noted to be less than one-half what would normally be expected for a patient of his age. Which of the following procedures should be performed next?",
+    "options": {
+      "A": "Administration of normal saline IV",
+      "B": "Emergency dialysis",
+      "C": "Administration of benztropine IM",
+      "D": "Cardiac monitoring",
+      "E": "Administration of flumazenil Questions 439 and 440"
+    },
+    "correct": "B",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 958-959.) In cases of mild to moderate lithium toxicity (generally serum levels below 2.0 meq/L with symptoms of tremor, mild confusion, and gastrointestinal distress), treatment is generally supportive, including IV saline and monitoring of urine output and frequent lithium levels. In severe intoxication (levels >2.5 nEq/L), the emergency use of dialysis is indicated. 439 and 440. The answers are 439-a, 440-c. (Kaplan and Sadock, p 991.) Ramelteon mimics melatonin’s sleep-inducing properties. It has a high affinity for melatonin MT1 and MT2 receptors in the brain. The half-life of ramelteon is between | and 2.5 hours. Ramelteon reduces time to sleep onset, and to a lesser extent, increases the amount of time spent in sleep. The most common side effect is headache. It should not be used in patients with severe hepatic impairment, severe sleep apnea, or severe COPD. There has been no evidence found of rebound insomnia or withdrawal effects from this drug. Trazodone, although non-addictive, has a side effect risk of priapism in males and for this reason should not be used."
+  },
+  {
+    "id": "PT-PSYC-441",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 441,
+    "vignette": "A 57-year-old woman 1s seeing a psychiatrist for her bipolar disorder. She 1s started on carbamazepine. About which of the following side effects should the patient be warned?",
+    "options": {
+      "A": "Tolerance to the drug occurring after 6 months",
+      "B": "Risk to a fetus of spina bifida",
+      "C": "Appearance of a rash",
+      "D": "Red discoloration of urine",
+      "E": "Palpitations"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 962.) Carbamazepine can cause aplastic anemia, agranulocytosis, thrombocytopenia, and leukopenia. It also has a risk of hepatotoxicity. A benign rash can occur in 5-10% of patients; the drug should be discontinued if this occurs because progression to a severe rash 1s unpredictable. Tolerance to the drug does not occur, although because of hepatic enzyme induction, higher doses may be needed after 2-3 weeks. The patient 1s 57, so the risk of pregnancy 1s nil. Red discoloration and palpitations are not side effects of the drug."
+  },
+  {
+    "id": "PT-PSYC-442",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 442,
+    "vignette": "A 52-year-old woman 1s brought to the emergency room after her husband finds her unresponsive at home. The patient left behind a suicide note, and two empty bottles of pills (sertraline and lorazepam) plus an empty bottle of vodka were found next to the patient. In the emergency room the patient’s vital signs are: blood pressure 90/60 mm Hg, pulse 60 beats/minute, respirations 6 breaths/minute. Which of the following medications is most likely to be helpful in the emergency room setting in this situation?",
+    "options": {
+      "A": "Acamprosate . Zolpidem . Flumazenil . Levomethadyl (LAAM) . Disulfiram oQ0 SF Questions 443 and 444"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 406, 449, 458.) This patient’s respiration is very depressed, and it 1s likely that the benzodiazepines are playing a role. Flumazenil can be used in the emergency room setting to counteract the effects of benzodiazepine overdose. LAAM is an opioid agonist that suppresses opioid withdrawal. It is no longer used, because patients developed prolonged QT intervals associated with potentially fatal arrhythmias. Disulfiram is used as an aversive treatment to maintain sobriety in those with alcohol dependence, and acamprosate is also used to improve treatment outcomes in those with alcoholism, though the exact treatment mechanism is not known. There is no indication for zolpidem (an agent used for sleep) in this vignette— flumazenil may be used to counteract its effects as well. 443 and 444. The answers are 443-b, 444-d. (Kaplan and Sadock, pp 976, 1020.) Dopamine receptor blockade causes hyperprolactinemia, which in turn can cause breast enlargement, galactorrhea (abnormal discharge of milk from the breast), and suppression of testosterone production in men. The typical neuroleptics (eg, haloperidol and chlorpromazine) are particularly prone to causing these side effects. Of note, SSRIs may also cause galactorrhea by increasing prolactin levels as well."
+  },
+  {
+    "id": "PT-PSYC-445",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 445,
+    "vignette": "A 44-year-old woman comes to the psychiatrist for treatment of a major depressive disorder. Her BMI is 28. She states she has lost 50 Ib in the past year and is determined not to gain it back. Which of the following medications would be the best choice to treat her depression, given these circumstances?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Doxepin",
+      "C": "Nortriptyline",
+      "D": "Phenelzine",
+      "E": "Bupropion"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 744.) Bupropion would be the best choice for this woman, who is determined not to gain back the 50 Ib she has lost. It has been shown to cause modest weight loss that is sustained. Amitriptyline is associated with a great tendency to gain weight, while doxepin, nortriptyline, and phenelzine all have an intermediate tendency to increase appetite and body weight."
+  },
+  {
+    "id": "PT-PSYC-446",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 446,
+    "vignette": "A 41-year-old woman comes to the physician for her yearly physical examination. She states her medications include hydrochlorothiazide, omeprazole, and atorvastatin (Lipitor). In addition, she is taking St. John’s wort and ginseng. These two alternative medications are most commonly used by many patients for which of the following symptoms?",
+    "options": {
+      "A": "As an antispasmodic",
+      "B": "For depressed mood",
+      "C": "To improve appetite",
+      "D": "To improve concentration",
+      "E": "For headaches"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 800, 803.) St. John’s wort 1s used as an antidepressant, a sedative, and an anxiolytic. Ginseng is used as a stimulant, for fatigue, the elevation of mood, and to improve the functioning of the immune system."
+  },
+  {
+    "id": "PT-PSYC-447",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 447,
+    "vignette": "A 30-year-old woman 1s diagnosed as bipolar. At the same time that this illness 1s diagnosed, it is discovered that she is pregnant. Which of the following drugs carries the highest risk to the fetus?",
+    "options": {
+      "A": "Valproic acid Folic acid Chlorpromazine Haloperidol Fluoxetine enos"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 1047.) The FDA rates drugs for their safety of use during pregnancy. Category A drugs have shown no fetal risks in controlled studies and consist of drugs such as iron. Category B drugs have shown no fetal risk in animal studies, but there have been no controlled human studies (or have shown fetal risk in animals, but no risk in well-controlled human studies). Drugs in this category include Tylenol. Category C drugs have shown adverse fetal effects in animals, with no human data available. Drugs in this category include aspirin, haloperidol, and chlorpromazine. Category D drugs have shown human fetal risk, but may be used in situations in which the benefits outweigh the clear risk. These drugs include lithium, tetracycline, and ethanol. All women of child- bearing potential who must take valproic acid should be given folic acid supplementation."
+  },
+  {
+    "id": "PT-PSYC-448",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 448,
+    "vignette": "A 25-year-old woman with bipolar disorder develops a high fever with chills, bleeding gums, extreme fatigue, and pallor 3 weeks after starting on carbamazepine. Which of the following is she most likely experiencing?",
+    "options": {
+      "A": "Stevens-Johnson syndrome Acute aplastic anemia Serotonin syndrome Neuroleptic malignant syndrome Malignant hyperthermia eaos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 960-961.) Aplastic anemia is arare, idiosyncratic, non-dose-related side effect of carbamazepine. Stevens-Johnson syndrome 1s a potentially life-threatening exfoliative dermatitis, also rarely associated with carbamazepine treatment that usually develops shortly after starting the drug. Neuroleptic malignant syndrome, serotonin syndrome, and malignant hyperthermia are not associated with this medication."
+  },
+  {
+    "id": "PT-PSYC-449",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 449,
+    "vignette": "A 28-year-old woman is brought to the emergency room after her mother called an ambulance. The patient has a history of chronic schizophrenia, which is being treated with an antipsychotic. The dosage was recently increased. In the emergency room the patient has a temperature of 39.44°C (103°F), is rigid, and has a blood pressure alternating between 120/65 and 100/45 mm Hg. Which of the following levels should be closely monitored?",
+    "options": {
+      "A": "WBC",
+      "B": "Creatinine phosphokinase (CPK)",
+      "C": "Platelet levels",
+      "D": "Creatinine clearance",
+      "E": "Antipsychotic levels"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 925.) This patient is suffering from neuroleptic malignant syndrome. This disorder presents with hyperthermia, muscle rigidity, autonomic instability, and has a 10% to 30% fatality rate. Creatinine phosphokinase can be tremendously elevated because of the extreme muscle rigidity that can be seen, and should be carefully monitored because of the risk of renal failure. The offending antipsychotic should be discontinued, the patient should be hydrated and cooled, and dantrolene (IV) and/or bromocriptine (orally) may be given."
+  },
+  {
+    "id": "PT-PSYC-450",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 450,
+    "vignette": "A 24-year-old woman comes to the emergency room with complaints of feeling “stiffness and twisting” of her neck and jaw. She describes these symptoms as very uncomfortable and completely involuntary. She has not had these symptoms previously. Her medications include: lithium and trifluoperazine. The patient looks uncomfortable, and her jaw and neck are tense and twisted. In an emergency room setting, which of the following actions should the physician take first?",
+    "options": {
+      "A": "Gastric lavage for lithium overdose. Benztropine IM. Diphenhydramine po. Trifluoperazine po. Draw a lithium level. ono s"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 925.) This patient is suffering from a moderately severe acute dystonia, which can be very uncomfortable. The patient should be given benztropine or diphenhydramine IM in an emergency room setting, to decrease the amount of time spent suffering with the dystonia. If possible longer term, the offending antipsychotic should be decreased, and benztropine or diphenhydramine can be prescribed po to prevent a recurrence."
+  },
+  {
+    "id": "PT-PSYC-451",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 451,
+    "vignette": "A 42-year-old man is diagnosed with a major depressive disorder with psychosis and is started on imipramine and perphenazine. When he develops a dystonia, he is begun on benztropine 2 mg/day. One week later, his wife reports that the patient has become unusually forgetful and seems disoriented at night. On physical examination, the man appears slightly flushed, his skin and palms are dry, and he is tachycardic. He 1s oriented to name and place only. He showed none of these symptoms during his last appointment. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Anticholinergic syndrome . Neuroleptic malignant syndrome . Extrapyramidal side effect . Akathisia . Serotonin syndrome b c d e"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 943.) Phenothiazines, tri- cyclic antidepressants, and antiparkinsonian agents (such as benztropine mesylate) all have anticholinergic properties. The action of these drugs becomes additive when they are administered in combination. It is not uncommon for persons receiving such a combination to show evidence of a mild organic brain syndrome, including difficulty in concentrating; impaired short-term memory; disorientation, which often 1s more noticeable at night; and dry skin caused by inhibition of sweating."
+  },
+  {
+    "id": "PT-PSYC-452",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 452,
+    "vignette": "A 56-year-old woman who was diagnosed with paranoid schizophrenia in her early twenties has received daily doses of various typical neuroleptics for many years. For the past 2 years, she has had symptoms of tardive dyskinesia. Discontinuation or reduction of the neuroleptic is not possible because she becomes aggressive and violent in response to command hallucinations when she is not medicated at her current dose. Which of the following actions should be taken next?",
+    "options": {
+      "A": "Start the patient on benztropine. Start the patient on amantadine. Start the patient on propranolol. Start the patient on diphenhydramine. Switch the patient to clozapine. eno s"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 1029.) Discontinuation of the antipsychotic medication or a dosage decrease is the initial interventions recommended when tardive dyskinesia is first diagnosed. If discontinuation is not possible and dosage decrease is not effective, clozapine has been proven effective in ameliorating and suppressing the symptoms of tardive dyskinesia, even though on rare occasions clozapine itself may cause tar- dive dyskinesia. The abnormal movements return however, when the clozapine is stopped."
+  },
+  {
+    "id": "PT-PSYC-453",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 453,
+    "vignette": "A 27-year-old man is started on several new medications for treatment of mood disturbance, insomnia, and anxiety. He returns to the physician’s office after 2 weeks stating that on two separate occasions his wife noted that he got up from bed, went to the kitchen, and consumed large quantities of food in the middle of the night. The patient has no memory of this behavior. Which one of the following drugs could have been given that can produce this paradoxical response?",
+    "options": {
+      "A": "Sertraline Lorazepam Zolpidem Fluoxetine Valproic acid eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 526.) In 2007, the FDA reported the presence of an idiosyncratic drug response to certain sedative- hypnotics in a small percentage of patients, causing a dissociative-like state. During these states, patient had episodes of sleepwalking, binge-eating, aggressive outbursts, and night driving, all during which the patient was completely unaware of the behavior. Zolpidem and Zaleplon are now both required to have warning labels to this effect."
+  },
+  {
+    "id": "PT-PSYC-454",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 454,
+    "vignette": "A 23-year-old man was admitted to a psychiatric inpatient service for treatment of auditory hallucinations of a command nature, telling him to kill himself. He is started on perphenazine. One day later he 1s noted to be increasingly anxious and pacing the halls. He states he feels as if he “has to move” and that pacing helps a little. He denies that his mind is racing. Which of the following actions 1s the best choice for the psychiatrist to take next?",
+    "options": {
+      "A": "Increase the patient’s perphenazine.",
+      "B": "Discontinue the perphenazine.",
+      "C": "Give Vitamin E po.",
+      "D": "Give diphenhydramine.",
+      "E": "Give propranolol. Questions 455 and 456"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 780.) This patient is suffering from akathisia, which is a subjective feeling of restlessness, coupled with the need to move. Patients may rock, pace, sit, and stand back and forth, or generally appear jittery. It is important to take a careful history from the patient, since they may appear increasingly agitated to an observer, and the antipsychotic is erroneously increased as a result, further worsening the akathisia. Once akathisia has been recognized, the offending anti-psychotic should be reduced as much as possible. The most efficacious drugs are beta- adrenergic receptor antagonists like propranolol, though benzodiazepines and anticholinergics may also be somewhat effective."
+  },
+  {
+    "id": "PT-PSYC-455",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 455,
+    "vignette": "A 53-year-old man 1s admitted to psychiatry after a serious suicide attempt. He remains nearly catatonic on the unit, refusing to either eat or drink. He also remains quite suicidal, and requires one-to-one observation at all times. Which of the following is the most appropriate treatment?",
+    "options": {
+      "A": "Tricyclic + SSRI in combination SSRI at a higher than normal dose SSRI + antipsychotic Transcranial magnetic stimulation ECT eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 1067.) This man 1s clearly suffering from a very severe major depression, and has already had one serious suicide attempt. Refusing to eat or drink means that he needs an effective treatment for his depression that will work very quickly. In this case ECT should be the treatment of choice."
+  },
+  {
+    "id": "PT-PSYC-456",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 456,
+    "vignette": "The patient in the vignette above 1s to be given ECT. Which of the following anesthetic agents should be used prior to the procedure?",
+    "options": {
+      "A": "Fentanyl",
+      "B": "Chloral hydrate",
+      "C": "Methohexital",
+      "D": "Alprazolam",
+      "E": "Amobarbital"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 1068-1069.) Methohexital 1s commonly used for ECT. It has lower cardiac risks than other barbiturates. Used IV, it produces rapid unconsciousness and patients reawaken quickly thereafter, since the duration of action 1s only 5 to 7 minutes."
+  },
+  {
+    "id": "PT-PSYC-457",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 457,
+    "vignette": "A 72-year-old man develops acute urinary retention and blurred vision after taking an antidepressant for 3 days. Which of the following medications is most likely to cause such side effects?",
+    "options": {
+      "A": "Venlafaxine",
+      "B": "Paroxetine",
+      "C": "Bupropion",
+      "D": "Nefazodone",
+      "E": "Amitriptyline"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 1042.) Urinary retention, blurred vision, constipation, and dry mouth are common anticholinergic side effects associated with tricyclic antidepressants. Among these medications, amitriptyline is the most anticholinergic. Venlafaxine, bupropion, trazodone, and nefazodone do not have significant anticholinergic effects."
+  },
+  {
+    "id": "PT-PSYC-458",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 458,
+    "vignette": "A 43-year-old woman comes to the physician because she wants a medication to help her stay awake and alert during her job. She works as a nurse and must frequently rotate her shifts. This results in her insomnia and her excessive sleepiness when trying to remain awake. Which of the following medications will be most useful for her?",
+    "options": {
+      "A": "SSRI",
+      "B": "Modafinil",
+      "C": "Ramelteon",
+      "D": "Zolpidem",
+      "E": "Zaleplon"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 554.) The only medication approved for shift work sleep disorder 1s modafinil. While ramelteon, zolpidem and zaleplon may all help the patient fall asleep more swiftly, with a concomitant improvement in daytime alertness, but are not wake- promoting themselves."
+  },
+  {
+    "id": "PT-PSYC-459",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 459,
+    "vignette": "A 9-year-old girl is brought to the physician because she is noted to be easily distractible and fidgety and is generally difficult to get focused at school. The physician starts the girl on Ritalin. Which of the following cautions about the drug should the physician give the child’s mother?",
+    "options": {
+      "A": "Do not give the medication with food. Do not give the medication after noon. Do not give the medication with other medications. The medication may cause photosensitivity. The medication may precipitate mania. eaos Questions 460 and 461"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 1176-1177.) Ritalin is well known to cause insomnia, and thus should not be given after noon. Other side effects may include a reduced appetite, headache, gastrointestinal upset, and the emergence of tics. 460 and 461. The answers are 460-b, 461-e. (Kaplan and Sadock, pp 967- 968.) Disulfiram inhibits acetaldehyde dehydrogenase, one of the main enzymes in the metabolism of ethyl alcohol. Ingestion of alcohol, even in small quantities, causes accumulation of toxic acetaldehyde and a variety of unpleasant symptoms, including facial flushing, tachycardia, vomiting, and nausea. Many over-the-counter cough and cold medications contain as much as 40% alcohol and can precipitate such a reaction. The intensity of the disulfiram-alcohol interaction varies with each patient and with the quantity of alcohol consumed. Extreme cases are characterized by respiratory depression, seizures, cardiovascular collapse, and even death. For this reason, the use of disulfiram is recommended only with highly motivated patients who will agree to carefully avoid any food or medication containing alcohol."
+  },
+  {
+    "id": "PT-PSYC-462",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 462,
+    "vignette": "A 24-year-old man comes to see his physician after he is involved in a serious car crash because he fell asleep while driving. For several years, he has had severe daytime sleepiness, episodes of falling asleep without warning, and hypnagogic hallucinations. Which of the following is the most appropriate medication for this patient?",
+    "options": {
+      "A": "Melatonin Clonazepam Modafinil Thyroxine Bromocriptine ono s"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 549-550.) There is no cure for narcolepsy. Modafinil may be used to reduce the number of sleep attacks and to improve psychomotor performance in narcolepsy. Stimulants such as methylphenidate, pemoline, and amphetamine can also be used to ameliorate daytime sleepiness. Medications that reduce REM sleep, such as TCAs and SSRIs, are used if cataplexy is present. Forced naps at a regular time of day may help patients with narcolepsy; on occasion this treatment alone will be sufficient."
+  },
+  {
+    "id": "PT-PSYC-463",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 463,
+    "vignette": "For several weeks, a 72-year-old retired physician with Parkinson disease and mild dementia has been talking about “those horrible people that come to bother me every night.” He is convinced that someone 1s plotting against him, and he has nailed his window shut for fear of intruders. More recently, he has started showing signs of a thought disorder, mostly in the evening and at night. Which of the following antipsychotic medications is best to use on a patient with Parkinson disease?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Quetiapine",
+      "C": "Fluphenazine",
+      "D": "Clozapine",
+      "E": "Chlorpromazine"
+    },
+    "correct": "B",
+    "explanation": "(Hales, Yudofsky, and Roberts, p 845.) Quetiapine 1s the preferred treatment for psychotic symptoms in patients with Parkinson disease, due to its sedative quality and relative lack of extrapyramidal effects. Because of its relative sparing of the nigrostriatal dopaminergic system and its anti-cholinergic effects, clozapine does not worsen and may in fact ameliorate parkinsonian symptoms, but 1s rarely used because of its side effect profile and need for frequent monitoring for agranulocytosis. Typical antipsychotic medications, tend to aggravate the extrapyramidal symptoms of patients with Parkinson disease."
+  },
+  {
+    "id": "PT-PSYC-464",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 464,
+    "vignette": "A 38-year-old woman ts being seen by her psychiatrist for the treatment of her bipolar disorder. She is taking carbamazepine and sertraline and has been well controlled. At her last visit, her carbamazepine level was above therapeutic. She states she has not taken extra, but has recently started taking another medication prescribed by her physician. Which of the following medications is most likely to increase carbamazepine concentrations in this manner?",
+    "options": {
+      "A": "Theophylline Erythromycin Warfarin Cisplatin Hormonal contraceptives eaos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 961.) Of the medicines listed in the options to this question, only erythromycin can increase the plasma concentration of carbamazepine. Theophylline and cisplatin can decrease carbamazepine levels. Hormonal contraceptives and warfarin can have their levels decreased by the presence of carbamazepine."
+  },
+  {
+    "id": "PT-PSYC-465",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 465,
+    "vignette": "A 29-year-old woman with a previous diagnosis of bipolar disorder is hospitalized during an acute manic episode. She 1s elated, sexually provocative, and speaks very quickly, jumping from one subject to another. She tells the nurses that she has been chosen by God to be “the second virgin Mary.” Blood urea nitrogen (BUN), creatinine, electrolytes, TSH, and an ECG are within normal limits. A pregnancy test is negative. Treatment with lithium is begun. Within what time interval does this medication come to steady state with regular administration?",
+    "options": {
+      "A": "Less than 24 hours 1 to 4 days 5 to 8 days 2 to 3 weeks 1 to 2 months eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 983.) Since the half-life of lithium is about 20 hours, equilibrium is reached after 4 to 7 days of regular intake. (Steady state 1s reached after approximately five half-lives of the drug being administered.)"
+  },
+  {
+    "id": "PT-PSYC-466",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 466,
+    "vignette": "A 66-year-old man is brought to the physician by his wife. They are both concerned about the man’s decline in memory and concentration, which has been occurring over the past year. The patient notes that he is very sad about this, since his father died of Alzheimer’s disease. He reports no weight loss or insomnia. He 1s diagnosed with mild Alzheimer’s disease (a major neurocognitive deficit disorder). Which of the following medications should be used in this case?",
+    "options": {
+      "A": "Memantine Donepezil Paroxetine Haloperidol Tacrine eaos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 963-964.) The cholinesterase inhibitor donepezil would be the first choice for the treatment of a mild Alzheimer disease. Tacrine, although also a cholinesterase inhibitor, is difficult to titrate and use, and runs a risk of significant elevations 1n transaminase levels of the liver."
+  },
+  {
+    "id": "PT-PSYC-467",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 467,
+    "vignette": "Which of the following hormones is most commonly used in the adjuvant treatment of major depressive disorder?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Cortisol",
+      "C": "ACTH",
+      "D": "Levothyroxine",
+      "E": "Prolactin"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 1039-1040.) The connection between thyroid function and mood disorders has been known for more than a century, since nineteenth-century physicians noticed that hypothyroidism was accompanied by depression. All the hormones of the hypothalamic-pituitary-thyroid axis have been used in the treatment of depression, alone or in combination with other agents, although the most commonly used are liothyronine and levothyroxine."
+  },
+  {
+    "id": "PT-PSYC-468",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 468,
+    "vignette": "A patient with refractory schizophrenia has been almost free of active psychotic symptoms and has been functioning considerably better since he was placed on clozapine 500 mg/day, but he has experienced two episodes of grand mal seizure. Which of the following steps should be taken next?",
+    "options": {
+      "A": "Discontinue the clozapine and begin another antipsychotic.",
+      "B": "Decrease the clozapine.",
+      "C": "Add a benzodiazepine to the clozapine.",
+      "D": "Add Tegretol to the Clozapine.",
+      "E": "Temporarily stop the clozapine and start valproate."
+    },
+    "correct": "E",
+    "explanation": "(Hales, Yudofsky, and Roberts, p 954.) The patient should have the clozapine temporarily discontinued and valproate begun. The occurrence of seizures during clozapine treatment 1s dose related and increases considerably with dosages greater than 400 mg/day. Valproate is considered the safest and the best-tolerated anticonvulsant for patients taking clozapine who experience seizures. It should be started after clozapine is stopped; then the clozapine can be restarted at 50% of its previous dosage and gradually raised. Carbamazepine should be avoided because the bone marrow suppression risk with this medication can increase the risk for agranulocytosis with clozapine."
+  },
+  {
+    "id": "PT-PSYC-469",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 469,
+    "vignette": "A patient reports that she has become depressed with the onset of winter every year for the past 6 years. She reports feelings of hopelessness, sleeps 12 hours per day without feeling refreshed, and gains at least 10 Ib during these times. Which of the following treatments 1s most likely to be helpful?",
+    "options": {
+      "A": "Phototherapy Biofeedback Electroconvulsive therapy Benzodiazepines Steroid medication ono s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 374.) Patients with seasonal depression and bipolar depression with a seasonal component can benefit from exposure to bright light, in the range of 1500 to 10,000 lux or more for 1 to 2 hours every day before dawn. Phototherapy is effective alone in mild cases and as an adjunct to medication treatment in more severe cases."
+  },
+  {
+    "id": "PT-PSYC-471",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 471,
+    "vignette": "A 72-year-old man with a long history of recurrent psychotic depression is hospitalized during a relapse. He is psychotic, hearing the voice of a man telling him that he is no good and should kill himself. He has prostatic hypertrophy, coronary artery disease, and recurrent orthostatic hypotension. Which of the following is the most appropriate antipsychotic medication for this patient?",
+    "options": {
+      "A": "Chlorpromazine Clozapine Thioridazine Haloperidol Olanzapine eaos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 975.) High-potency neuroleptics, such as haloperidol and fluphenazine, being low in anticholinergic side effects and less likely to cause postural hypotension, are preferred to low-potency medications such as chlorpromazine in elderly patients with cardiovascular problems and prostatic hypertrophy. Clozapine is not recommended because of its powerful anticholinergic effects, its tendency to cause hypotension, and the risk for agranulocytosis. Thioridazine is the least appropriate medication in this case because, aside from sharing the side effects profile of the other low-potency neuroleptics, it can cause fatal arrhythmias by prolonging the QT interval. Finally, olanzapine is not appropriate for this patient because it causes significant postural hypotension."
+  },
+  {
+    "id": "PT-PSYC-472",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 472,
+    "vignette": "A 47-year-old businessman who has taken paroxetine 40 mg/day for 6 months for a major depressive disorder leaves for a 2-week business trip overseas and forgets his medication at home. Since his depression has been in full remission for at least 3 months, he decides to stop the treatment without talking with his psychiatrist. Two days later, he becomes very irritable, tearful, dizzy, and nauseated. He shivers and feels like he has a bad cold. Which of the following is the most likely cause of such symptoms?",
+    "options": {
+      "A": "Relapse of his major depression Serotonin syndrome SSRI discontinuation syndrome First manic episode in a previously undiagnosed bipolar patient Viral syndrome eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 1020.) Abrupt discontinuation of an SSRI causes a variety of symptoms that can be quite distressing for the patient. The most common physical symptoms are dizziness, nausea, vomiting, lethargy, flu-like symptoms (chills and aches), and sensory and sleep disturbances. Commonly reported psychological symptoms are irritability, anxiety, and crying spells. Symptoms usually emerge | to 3 days after the last dose. Paroxetine and sertraline, because of their shorter half- life, are the SSRIs most likely to cause a discontinuation syndrome and should be tapered off over several weeks. Owing to its long half-life and its active metabolites, fluoxetine can be stopped abruptly without problems."
+  },
+  {
+    "id": "PT-PSYC-473",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 473,
+    "vignette": "The benzodiazepines’ action depends on their interaction with which of the following receptors?",
+    "options": {
+      "A": "GABA",
+      "B": "Serotonin",
+      "C": "N-methyl-D-aspartate- (NMDA)-glutamate",
+      "D": "Dopamine",
+      "E": "Acetylcholine Questions 474 and 475"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, pp 948-950.) Benzodiazepines bind to GABA receptors, which represent the main cortical and thalamic inhibitory system and potentiate the response of these receptors to GABA. Benzodiazepines do not have any direct effect on the GABA receptors unless GABA 1s present. 474 and 475. The answers are 474-a, 475-a. (Kaplan and Sadock, pp 995- 996.) Over-the-counter medications containing sympathomimetic agents, such as pseudoephedrine, can cause severe hypertensive crises in patients on MAOIs because of the inhibition of their main metabolic pathway. Tyramine, a powerful hypertensive agent, 1s contained in many foods and is usually metabolized by monoamine oxidase. Foods to be avoided by patients on MAOIs include tyramine-rich foods such as aged cheese, salami, pepperoni, sausage, overripe fruit, liquors, red wine, pickled fish, sauerkraut, and brewer’s yeast. Chocolate, coffee, tea, beer, and white wine can be consumed in small quantities. Non-aged cheeses like cream cheese or cottage cheese may be consumed without difficulty."
+  },
+  {
+    "id": "PT-PSYC-476",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 476,
+    "vignette": "A 28-year-old woman 1s embarrassed by her peculiar tendency to collapse on the floor whenever she feels strong emotion. Since this disorder is caused by REM sleep intrusion during daytime, a neurologist prescribes a medication that reduces and delays REM sleep. Which of the following medications did the neurologist most likely prescribe?",
+    "options": {
+      "A": "Clonazepam",
+      "B": "Methylphenidate",
+      "C": "Pimozide",
+      "D": "Desipramine",
+      "E": "l-dopa Questions 477 and 478"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 1034-1035.) Many antidepressants, including SSRIs, TCAs, and MAOIs, suppress REM sleep and can be useful in the treatment of cataplexy. Sympathomimetics like methylphenidate may be useful in the maintenance of wakefulness in patients with narcolepsy, although unlike patients using it for treatment of ADHD, narcoleptics tend to develop tolerance for the therapeutic effects of the drug. 477 and 478. The answers are 477-d, 478-a. (Stern, Herman, and Gorrindo, pp 236-238.) Neuroleptic malignant syndrome (NMS) is a relatively rare but potentially fatal complication of neuroleptic treatment. Its main features are hyperthermia, severe muscular rigidity, autonomic instability, and changes in mental status. Associated findings are increased CPK, increased liver transaminase activity, leukocytes, and myoglobinuria. The mortality rate can be as high as 30% and can be higher when the syndrome is precipitated by depot forms. Neuroleptic malignant syndrome is more common in young males when high-potency neuroleptics are used in high doses and when dosage is escalated rapidly. The first step in management of NMS is discontinuation of all antipsychotic medications. Supportive treatments include treating of extrapyramidal symptoms with antiparkinson medications, correcting fluid imbalances, treating fever, and managing hypertension or hypotension. Dopaminergic agents such as dantrolene, bromocriptine, and amantidine are used in the treatment of more severe cases."
+  },
+  {
+    "id": "PT-PSYC-479",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 479,
+    "vignette": "A 7-year-old boy who wets the bed at least three times a week and has not responded to appropriate behavioral interventions 1s diagnosed with Attention-deficit hyperactivity disorder (ADHD). Which of the following medications is indicated to treat both disorders?",
+    "options": {
+      "A": "Bupropion Dextroamphetamine Clonidine Risperidone Imipramine eaos"
+    },
+    "correct": "E",
+    "explanation": "(Stern, Herman, Gorrindo, pp 46, 52.) Imipramine is effective in the treatment of nocturnal enuresis, through a still unknown mechanism. Its beneficial effects in this disorder may be related to its anti- cholinergic properties or an effect on the sleep process. Imipramine is also used with good results in the treatment of children and adults with ADHD, although it is not as effective as the stimulants. Imipramine can be helpful for patients with comorbid anxiety or tics, patients who do not tolerate stimulants, or patients who have a history of substance abuse."
+  },
+  {
+    "id": "PT-PSYC-480",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 480,
+    "vignette": "A 47-year-old man comes to a physician for treatment of his impotence. He has a 20-year history of insulin-dependent diabetes mellitus (IDDM), well-controlled, and a 12-year history of alcohol dependence, though he has been sober for 3 years. He is prescribed sildenafil. Which of the following adverse effects 1s most commonly associated with this drug?",
+    "options": {
+      "A": "Hypoglycemia Ketoacidosis Liver failure Myocardial infarction Non-arteritic anterior ischemic optic neuropathy (NAION) ono"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 588.) The most important adverse side effect associated with sildenafil 1s myocardial infarction. While the drugs themselves do not posed an increased risk of death in this manner, the increased oxygen demand and stress placed on the heart by sexual activity, in a heart that is already affected by an underlying condition such as atherosclerotic disease may precipitate a heart attack. Non-arteritic anterior ischemic optic neuropathy (NAION) is a very rare but serious condition which may occur in men taking sildenafil. It causes restriction of blood flow to the optic nerve and can result in permanent blindness."
+  },
+  {
+    "id": "PT-PSYC-481",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Psychopharmacology and Somatic Therapies",
+    "domain": "psychopharm",
+    "question_num": 481,
+    "vignette": "Which of the following cardiovascular effects can be most problematic secondary to tricyclic antidepressant (TCA) use?",
+    "options": {
+      "A": "Parkinsonian tremor",
+      "B": "Akathisia",
+      "C": "Neuroleptic malignant syndrome",
+      "D": "Dystonia",
+      "E": "Anticholinergic syndrome f. Seizure activity g. Rabbit syndrome h. Lithium-induced tremor i. Akinesia"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, p 1042.) Tricyclic antidepressants have a quinidine-like antiarrhythmic effect and slow cardiac conduction. Although at therapeutic dosages they may have a beneficial effect on ventricular excitability, in patients with preexisting prolonged QRS or in any person at toxic dosages, TCAs can cause a fatal heart block. TCAs do not affect cardiac contractility or cardiac output, nor do they cause cardiomyopathy or valvular deformities. 482 to 485. The answers are 482-h, 483-d, 484-a, 485-g. (Kaplan and Sadock, pp 782, 923-924.) Lithium causes a benign, high-frequency, fine tremor that worsens during activities requiring fine motor control. Dose reduction, elimination of caffeine, slow-release lithium preparations, and beta-blockers are the main therapeutic interventions. A severe tremor at any time during lithium treatment may be a sign of toxicity. Neuroleptic- induced dystonia is characterized by intermittent or sustained muscle spasms, usually involving the head and neck. Common symptoms include torticollis (neck spasms), tongue spasms that interfere with speech, and oculogyric crises (eyes forced in an upward gaze). Opisthotonus can also occur, but is less frequent. Dystonic reactions are more common in young males at the beginning of the treatment and when high-potency neuroleptics are used. Anticholinergic medications such as benztropine and diphenhydramine, administered intramuscularly, are the treatments of choice. Coarse, pill-rolling, non-intentional tremor that improves with intentional movement and worsens at rest 1s characteristic of Parkinson disease and neuroleptic-induced parkinsonianism. Cogwheel rigidity, a stiff gait with short steps, and expressionless face and speech are other common parkinsonian symptoms. Rabbit syndrome is an uncommon extrapyramidal neuroleptic-induced syndrome often confused with tardive dyskinesia. In this syndrome, the chewing movements are much more rapid and regular than the orofacial choreoathetoid movements typical of tardive dyskinesia. Furthermore, the tongue and other parts of the body are not involved. While uncommon, it is distressing to patients, and it may respond to anti- cholinergic agents. Law and Ethics in Psychiatry"
+  }
+]

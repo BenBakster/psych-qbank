@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "domain", "difficulty", "vignette", "question", "options", "correct", "explanations", "pearl", "references"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[A-Z]{2}-\\d{3}$" },
+      "domain": { "type": "string", "enum": ["psychopharm", "mood", "psychosis", "anxiety", "substance", "personality", "neurocognitive", "forensic", "evaluation", "child", "development", "biosciences", "psychotherapy"] },
+      "tags": { "type": "array", "items": { "type": "string" } },
+      "difficulty": { "type": "integer", "minimum": 1, "maximum": 3 },
+      "vignette": { "type": "string", "minLength": 50 },
+      "question": { "type": "string", "minLength": 10 },
+      "options": {
+        "type": "object",
+        "required": ["A", "B", "C", "D", "E"],
+        "properties": {
+          "A": { "type": "string", "minLength": 5 },
+          "B": { "type": "string", "minLength": 5 },
+          "C": { "type": "string", "minLength": 5 },
+          "D": { "type": "string", "minLength": 5 },
+          "E": { "type": "string", "minLength": 5 }
+        }
+      },
+      "correct": { "type": "string", "enum": ["A", "B", "C", "D", "E"] },
+      "explanations": {
+        "type": "object",
+        "required": ["A", "B", "C", "D", "E"],
+        "properties": {
+          "A": { "type": "string", "minLength": 20 },
+          "B": { "type": "string", "minLength": 20 },
+          "C": { "type": "string", "minLength": 20 },
+          "D": { "type": "string", "minLength": 20 },
+          "E": { "type": "string", "minLength": 20 }
+        }
+      },
+      "pearl": { "type": "string", "minLength": 20 },
+      "references": { "type": "string", "minLength": 10 }
+    }
+  }
+}

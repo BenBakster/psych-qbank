@@ -1,0 +1,299 @@
+[
+  {
+    "id": "PT-PSYC-240",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 240,
+    "vignette": "A 24-year-old man with chronic schizophrenia 1s brought to the emergency room after his parents found him in his bed and were unable to communicate with him. On examination, the man is confused and disoriented. He has severe muscle rigidity and a temperature of 39.4°C (103°F). His blood pressure is elevated, and he has a leukocytosis. Which of the following is the best first step in the pharmacologic treatment of this man?",
+    "options": {
+      "A": "Haloperidol Lorazepam Bromocriptine Benztropine Lithium eaos"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, p 969.) The patient has neuroleptic malignant syndrome (NMS), a life-threatening complication of antipsychotic treatment. The symptoms include muscular rigidity and dystonia, akinesia, mutism, obtundation, and agitation. The autonomic symptoms include high fever, sweating, and increased blood pressure and heart rate. Mortality rates are reported to be 10% to 20%. In addition to supportive medical treatment, the most commonly used medications for the condition are dantrolene (Dantrium) followed by bromocriptine (Parlodel), although amantadine is sometimes used. Bromocriptine and amantadine possess direct dopamine receptor agonist effects and may serve to overcome the antipsychotic-induced dopamine receptor blockade. Dantrolene is a direct muscle relaxant. 241 and 242. The answers are 241-c, 242-c. (Kaplan and Sadock, pp 926- 927, 1301.) Tardive dyskinesia (TD) 1s characterized by involuntary choreoathetoid movements of the face, trunk, and extremities. Tardive dyskinesia is associated with prolonged use of medications that block dopamine receptors, most commonly antipsychotic medications. Typical antipsychotic medications (such as perphenazine) and, in particular, high- potency drugs carry the highest risk of TD. Atypical antipsychotics are thought to be less likely to cause this disorder."
+  },
+  {
+    "id": "PT-PSYC-243",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 243,
+    "vignette": "A 19-year-old woman 1s brought to the emergency room by her roommate after the patient told her that, “the voices are telling me to kill the teacher.” The roommate states the patient has always been isolative and “odd” but for the past 2 weeks she has been hoarding food, talking to herself, and appearing very paranoid. Which of the following features would be indicative of a poor prognosis with respect to this disease?",
+    "options": {
+      "A": "Late onset",
+      "B": "Clear precipitating factor",
+      "C": "Good support system",
+      "D": "Family history of mood disorders",
+      "E": "Negative symptoms present"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 318.) Factors weighting toward a poor prognosis in schizophrenia include: early and/or insidious onset of the disease, lack of obvious precipitating factors/stressors, poor premorbid functioning, neurological signs and symptoms, the presence of social isolation, a family history of schizophrenia, poor support systems, and the presence of negative symptoms."
+  },
+  {
+    "id": "PT-PSYC-244",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 244,
+    "vignette": "The patient in question 243 becomes very agitated in the emergency room, screaming that the nurses were there to kill her and that she had to escape. She tried to strike one of the nurses before being restrained. Which of the following treatment options is recommended first?",
+    "options": {
+      "A": "Haloperidol and lorazepam IM Clozapine PO Fluphenazine decanoate IM Thioridazine (Mellaril) IM Lorazepam PO eaos"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 779.) The use of a benzodiazepine and a high-potency antipsychotic has several advantages. While the antipsychotic treats the psychosis without a lot of anticholinergic side effects, the benzodiazepine reduces the amount of antipsychotic needed and protects the patient against dystonic reactions. Clozapine or fluphenazine decanoate would never be given in an acute setting."
+  },
+  {
+    "id": "PT-PSYC-245",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 245,
+    "vignette": "The patient in the above vignette was admitted and started on a daily dose of fluphenazine. After discharge from the hospital, she was kept on a low dose of the medication for 6 weeks. She showed only a minimal response to the drug, even after it was raised to a moderate dosage level. Which of the following 1s the next therapeutic step?",
+    "options": {
+      "A": "Give a high dose of fluphenazine.",
+      "B": "Give a low dose of Clozaril.",
+      "C": "Give a low dose of haloperidol.",
+      "D": "Give fluphenazine decanoate IM.",
+      "E": "Give a low dose of olanzapine."
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 319.) If a patient has not responded well to a conventional dopamine receptor antagonist (first- generation antipsychotic), it is unlikely the patient will respond well to another. It is better to switch to a low dose of serotonin dopamine antagonists (second-generation antipsychotic). It is too early in the treatment of this patient (1e, only one antipsychotic tried) to give up on them all together and go to clozapine, which has significant monitoring and the possibility of life-threatening reactions involved."
+  },
+  {
+    "id": "PT-PSYC-246",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 246,
+    "vignette": "A 24-year-old woman comes to the emergency room with the chief complaint that “I think cancer is killing me.” She states that for the last 6 months she has been crying on a daily basis and that she has decreased concentration, energy, and interest in her usual hobbies. She has lost 10 Ib during that time. She cannot get to sleep, and when she does, she wakes up early in the morning. For the past 3 weeks, she has become convinced that she is dying of cancer and is being “eaten from the inside out.” Also, in the past 2 weeks she has been hearing a voice calling her name when no one is around. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Delusional disorder Schizoaffective disorder Schizophreniform disorder Schizophrenia Major depressive disorder with psychotic features ono s"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 356, 360.) This patient 1s presenting with a major depressive disorder with psychotic features. For over 2 weeks (the minimum for the diagnosis), the patient has been complaining of anhedonia, crying, anergia, decreased concentration, 10 Ib weight loss, and insomnia with early morning awakening. She also has somatic delusions that are mood congruent and an auditory hallucination. The presence of psychotic phenomena that follow a clear mood disorder picture makes the diagnosis of major depressive disorder with psychotic features the most likely."
+  },
+  {
+    "id": "PT-PSYC-247",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 247,
+    "vignette": "A 19-year-old man is brought to the physician by his parents after he called them from college, asking to be taken home because it is “too dangerous here.’ He reports that he drinks nothing but bottled water because “you never know what people will put in your drink.” He believes that the WiFi signal in his dorm room is sending special messages to him, attempting to control his behavior. His roommate states that for the past 2 months, since around the times those midterms were given, the patient has been increasingly withdrawn and suspicious. Which of the following 1s the most likely diagnosis?",
+    "options": {
+      "A": "Delusional disorder",
+      "B": "Schizoaffective disorder",
+      "C": "Schizophreniform disorder",
+      "D": "Schizophrenia",
+      "E": "Stimulant intoxication (amphetamine)"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 327-329.) Schizophreniform disorder and chronic schizophrenia differ only in the duration of the symptoms and the fact that the impaired social or occupational functioning associated with chronic schizophrenia 1s not required to diagnose schizophreniform disorder. As with schizophrenia, schizophreniform disorder is characterized by the presence of delusions, hallucinations, disorganized thoughts and speech, and negative symptoms. The total duration of the illness, including prodromal and residual phases, is at least 1 month and less than 6 months. Approximately one-third of patients diagnosed with schizophreniform disorder experience a full recovery, while the rest progress to schizophrenia and schizoaffective disorder."
+  },
+  {
+    "id": "PT-PSYC-248",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 248,
+    "vignette": "A 36-year-old woman 1s brought to the psychiatrist by her husband because for the past 8 months she has refused to go out of the house, believing that the neighbors are trying to harm her. She is afraid that 1f they see her they will hurt her, and she finds many small bits of evidence to support this. This evidence includes the neighbors’ leaving their garbage cans out on the street to try to trip her, parking their cars in their driveways so they can hide behind them and spy on her, and walking by her house to try to get a look into where she is hiding. She states that her mood 1s fine and would be “better if they would leave me alone.” She denies hearing the neighbors or anyone else talk to her, but 1s sure that they are out to “cause her death and mayhem.” Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Delusional disorder Schizophreniform disorder Paranoid personality disorder Schizophrenia Major depressive disorder with psychotic features ono s"
+    },
+    "correct": "A",
+    "explanation": "(Hales, Yudofsky, and Roberts, pp 285-286.) The main feature of delusional disorder is the presence of one or more nonbizarre delusions without deterioration of psychosocial functioning and in the absence of bizarre or odd behavior. Auditory and visual hallucinations, if present, are not prominent and are related to the delusional theme. Tactile and olfactory hallucinations may also be present if they are incorporated in the delusional system (such as feeling insects crawling over the skin in delusions of infestation). Subtypes of delusional disorder include erotomanic, grandiose, jealous, persecutory, and somatic (delusions of being infested with parasites, of emitting a bad odor, of having AIDS). Delusional disorder usually manifests in middle or late adult life and has a fluctuating course with periods of remissions and relapses. The patient in the vignette clearly demonstrates persecutory delusions, but no hallucinations or other bizarre or odd behavior, which makes her diagnosis delusional disorder. Since the patient’s ideas about her neighbors have reached delusional (psychotic) proportions, she qualifies for the disorder. Mere long-standing suspicions about the neighbors’ intentions would be more characteristic of a paranoid personality disorder."
+  },
+  {
+    "id": "PT-PSYC-249",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 249,
+    "vignette": "A 49-year-old woman 1s brought to the emergency room by her husband because for the last several weeks she has been standing in odd positions throughout the home for hours on end. For example, the most recent episode had the patient standing by the window with both hands over her eyes and one leg raised and perched on a chair at a 90 degree angle. She maintained that uncomfortable position for over 3 hours. She has very little verbal response to anything her husband says, and at times appears to be stuporous. She has a major mental disorder which has been treated with haloperidol by a psychiatrist for the past 10 years. Which of the following is the most likely diagnosis, in addition to major mental disorder?",
+    "options": {
+      "A": "Tardive dyskinesia Neuroleptic malignant syndrome Catatonia associated with another mental disorder Superimposed major depressive disorder Schizoaffective disorder ono s"
+    },
+    "correct": "C",
+    "explanation": "(Kaplan and Sadock, pp 344-346.) Catatonia has been added to DSM-5 as a new diagnostic category, because it can be seen across a wide array of major mental illnesses, most usually severe psychotic and mood disorders. For the diagnosis, the catatonia must not have been caused by another medical condition or a substance. To be diagnosed, the clinical picture must include three or more of the following symptoms: stupor, catalepsy, waxy flexibility, mutism, negativism, posturing, mannerism, stereotypy, agitation not influenced by external stimul1, grimacing, echolalia, or echopraxia."
+  },
+  {
+    "id": "PT-PSYC-250",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 250,
+    "vignette": "A 20-year-old woman 1s brought to the emergency room by her family because they have been unable to get her to eat or drink anything for the past 2 days. The patient, although awake, 1s completely unresponsive both vocally and nonverbally. She actively resists any attempt to be moved. Her family reports that during the previous 7 months she became increasingly withdrawn, socially isolated, and bizarre; often speaking to people no one else could see. Which of the following 1s the most likely diagnosis?",
+    "options": {
+      "A": "Schizoaffective disorder Delusional disorder Schizophreniform disorder Brief psychotic disorder Schizophrenia onos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, p 477.) This patient has schizophrenia, characterized by her psychotic symptoms and her overall deterioration in social functioning. In this case, she would also be given the diagnosis of catatonia associated with another mental disorder (schizophrenia) which should be coded after the original diagnosis of schizophrenia is made. Catatonia is characterized by marked psychomotor disturbances including prolonged immobility, posturing, extreme negativism (the patient actively resists any attempts made to change his or her position) or waxy flexibility (the patient maintains the position in which he or she is placed), mutism, echolalia (repetition of words said by another person), and echopraxia (repetition of movements made by another person). Periods of immobility and mutism can alternate with periods of extreme agitation (catatonic excitement)."
+  },
+  {
+    "id": "PT-PSYC-251",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 251,
+    "vignette": "A 21-year-old man is brought to the emergency room by his parents because he has not slept, bathed, or eaten in the past 3 days. The parents report that for the past 6 months their son has been acting strangely and “not himself.” They state that he has been locking himself in his room, talking to himself, and writing on the walls. Six weeks prior to the emergency room visit, their son became convinced that a fellow student was stealing his thoughts and making him unable to learn his school material. In the past 4 months, they have noticed that their son has become depressed and has stopped taking care of him, including bathing, eating regularly, and getting dressed. On examination, the patient is dirty, disheveled, and crying. He complains of not being able to concentrate, a low energy level, and feeling suicidal. Which of the following 1s the most likely diagnosis for this patient?",
+    "options": {
+      "A": "Schizoaffective disorder, depressive type Schizophrenia Bipolar I disorder, major depressive episode Schizoid personality disorder Delusional disorder ono s"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 325.) Schizoaffective disorder is diagnosed when a major mood episode (ie, depression or mania) occurs concurrently with Criterion A of schizophrenia. Note that the delusions or hallucinations much occur for two or more weeks of the lifetime of the occurrence, and the symptoms that meet criteria for the major mood episode are present for the majority of the total duration of the active portions of the illness. (In this case, the entire illness has lasted 6 months and the mood symptoms have lasted four of those months.) Delusional disorder is not accompanied by a decline 1n functionality or significant affective symptoms. Individuals with schizoid personality disorder do not experience psychotic symptoms. Bipolar I disorder is differentiated from schizoaffective disorder by the absence of periods of psychosis unaccompanied by prominent affective symptoms, as this patient did at the beginning of his illness."
+  },
+  {
+    "id": "PT-PSYC-252",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 252,
+    "vignette": "A 40-year-old woman is arrested by the police after she is found crawling through the window of a movie star’s home. She states that the movie star invited her into his home because the two are secretly married and “it just wouldn’t be good for his career if everyone knew.” The movie star denies the two have ever met, but notes that the woman has sent him hundreds of letters over the past 2 years. The woman has never been in trouble before and lives an otherwise isolated and unremarkable life. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Delusional disorder Schizoaffective disorder Bipolar I disorder, manic episode Cyclothymia Schizophreniform disorder ono s Questions 253 to 257 Match each type of delusional disorder with the vignette which best describes it. Each lettered option may be used once, more than once, or not at all. Erotomanic Grandiose Jealous Persecutory Somatic Mixed g. Unspecified moaoge"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 334.) This patient is suffering from an erotomanic delusion—the delusion of having a special relationship with another person, often someone famous. 253 to 257. The answers are 253-d, 254-b, 255-c, 256-e, 257-f. (Kaplan and Sadock, pp 332-336.) Persecutory and jealous delusions are probably the most frequently seen by psychiatrists. Patients with the persecutory subtype of delusion are convinced they are being harassed or harmed by others. Those with the jealous type are often verbally and physically abusive to those involved 1n the delusion (the wife in this case). These delusions are very difficult to treat. The erotomanic delusion consists of the patient believing that someone (usually someone of perceived higher status, like a TV star) is in love with them. Somatic type delusions cause the sufferer to believe that they are afflicted with some physical disorder, and this belief is fixed (unlike somatic symptom disorder or illness anxiety disorder, in which the sufferer can be relieved of the belief that something is wrong, if only temporarily). Grandiose delusions have the patient believing that there is something special about him/her, such as God giving special messages. Mixed delusions combine several types of delusions in one presentation. Unspecified delusions are those reserved for presentations that cannot be characterized by the previous types. One example 1s Capgras syndrome, which is a delusion in which the patient believes that familiar people have been replaced by imposters."
+  },
+  {
+    "id": "PT-PSYC-258",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 258,
+    "vignette": "A 30-year-old man is brought to the emergency room after he was found wandering on the streets with no shoes in the middle of winter. He 1s admitted to the inpatient psychiatric unit and stabilized on antipsychotic medication. Looking at past records, his psychiatrist notes that he 1s repeatedly nonadherent with his medication postdischarge, and each time he relapses within 6 months. Which of the following medications 1s the best one on which to maintain this patient?",
+    "options": {
+      "A": "Clozapine Haloperidol Chlorpromazine Thioridazine Quetiapine enos"
+    },
+    "correct": "B",
+    "explanation": "(Kaplan and Sadock, pp 972-980.) There 1s strong evidence that without continuous treatment, virtually all schizophrenic patients relapse within 12 to 24 months. Both haloperidol and fluphenazine are available in long-acting forms. Injectable depot medications such as these are effective in decreasing the rate of relapse in patients who are not adherentwith oral medication."
+  },
+  {
+    "id": "PT-PSYC-260",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 260,
+    "vignette": "A 28-year-old woman is brought to see a psychiatrist by her mother. The patient insists that nothing is wrong with her, but the mother notes that the patient has been slowly but progressively isolating herself from everyone. She now rarely leaves the house. The mother says she can hear the patient talking to “people who aren’t there” while she’s in her room. On examination, the patient 1s noted to have auditory hallucinations and the delusional belief that her mother is going to kick her out of the house so that it can be turned into a theme park. Which of the following 1s the lifetime prevalence for this disorder?",
+    "options": {
+      "A": "1% 3% 5% 10% 15% eaos"
+    },
+    "correct": "A",
+    "explanation": "(DSM-5, p 102.) Schizophrenia affects 0.3% to 0.7% of the adult population. There 1s variation by race/ethnicity and across countries."
+  },
+  {
+    "id": "PT-PSYC-261",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 261,
+    "vignette": "A 25-year-old woman is diagnosed with schizophrenia when, after the sudden death of her mother, she begins complaining about hearing the voice of the devil and is suddenly afraid that her husband 1s out to hurt her. Her history indicates that she has also experienced a 3-year period of slowly worsening social withdrawal, apathy, and bizarre behavior. Her family history includes major depression in her father. Which of the following details of her history leads the physician to suspect that her outcome may be poor?",
+    "options": {
+      "A": "She is married. She was age 25 at diagnosis. She had an acute precipitating factor before she began hearing voices. She had an insidious onset of her illness. There is a history of affective disorder in her family. eaos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, p 318.) Factors predicting a good outcome in schizophrenia include age at onset of 20 to 25, married status, and a good premorbid social and/or work history. Other adverse social factors are missing, and the family history is one of affective disorder, not schizophrenia. In addition, precipitating factors are usually present, and the onset of the disease is rapid, not insidious, 1n patients with good-outcome schizophrenia."
+  },
+  {
+    "id": "PT-PSYC-262",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 262,
+    "vignette": "A 22-year-old man 1s brought to the emergency room after he became exceedingly anxious in his college dormitory room, stating that he was sure the college administration was sending a “hit squad” to kill him. He also notes that he can see “visions” of men dressed in black who are carrying guns and stalking him. His thought process is relatively intact, without thought blocking or loose associations. His urine toxicology screen is positive for one of the following drugs. Which drug 1s the most likely cause of these symptoms?",
+    "options": {
+      "A": "Barbiturates Heroin Benzodiazepines Amphetamines MDMA (Ecstasy) eaos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 781, 783.) Amphetamine intoxication can result in a psychosis very closely resembling acute schizophrenia, with symptoms including paranoid delusions and visual hallucinations. Some investigators believe that prominent visual hallucinations and a relative absence of thought disorder are more characteristic of amphetamine psychosis, but other investigators believe the symptoms are indistinguishable. Other drugs that produce psychoses similar to schizophrenia include phencyclidine (PCP) and lysergic acid diethylamide (LSD)."
+  },
+  {
+    "id": "PT-PSYC-263",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 263,
+    "vignette": "A 72-year-old woman 1s brought to the emergency room by her daughter after she found her mother rummaging in the garbage cans outside her home. The daughter states that the patient has never had any behavior like this previously. On interview, the patient states she sees Martians hiding around her home, and on occasion, hears them too. She also demonstrates a constructional apraxia, with difficulty drawing a clock and intersecting pentagons. All except one of these symptoms point to a medical cause for this patient’s behavior. Which symptom 1s most common in a purely psychiatric disorder?",
+    "options": {
+      "A": "Patient’s age No previous history of this behavior Visual hallucinations Auditory hallucinations Constructional apraxia eno s"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 342-343.) Auditory hallucinations are quite common in psychiatrically caused psychoses, but the rest of the items on the options list speak to the opposite, that is, a medical cause for the psychosis. Other signs that point to a medical cause could be other mental status signs such as speech, movement or gait disorders, problems with alertness, memory, concentration, or orientation, and a concurrent substance abuse history or medical problem."
+  },
+  {
+    "id": "PT-PSYC-264",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 264,
+    "vignette": "Families of patients with schizophrenia, who are overtly hostile and overly controlling, affect the patient in which one of the following ways?",
+    "options": {
+      "A": "Increased relapse rate",
+      "B": "Decreased rate of adherence",
+      "C": "High likelihood that this behavior led to the patient’s first break of the disease",
+      "D": "Increased likelihood that the patient’s schizophrenia will be of the paranoid type",
+      "E": "Decreased risk of suicidal behavior"
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 321.) Frieda Fromm- Reichmann followed the interpersonal school founded by Harry Stack Sullivan and believed that schizophrenia was the outcome of an inadequate mother—child relationship in which the mother was aloof, overly protective, or hostile. She postulated that faulty mothering leads to anxiety and distrust of others, causing people who develop schizophrenia to withdraw from interpersonal exchanges. This theory has been discredited by recent research that supports the notion that schizophrenia 1s a brain disorder caused by the convergence of multiple environmental and genetic factors. However, subsequent study of the effect of expressed emotion (family members expressing intense emotions or exhibiting overly controlling behavior) do show that this behavior leads to an increase in relapse rates."
+  },
+  {
+    "id": "PT-PSYC-265",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 265,
+    "vignette": "A 62-year-old man with chronic schizophrenia 1s brought to the emergency room after he is found wandering around his halfway house, confused and disoriented. His serum sodium concentration is 123 meq/L and urine sodium concentration is 5 meq/L. The patient has been treated with risperidone 4 mg/day for the past 3 years with good symptom control. His roommate reports that the patient often complains of feeling thirsty. Which of the following 1s the most likely cause of this patient’s symptoms?",
+    "options": {
+      "A": "Renal failure",
+      "B": "Inappropriate antidiuretic hormone (ADH) secretion",
+      "C": "Addison disease",
+      "D": "Psychogenic polydipsia",
+      "E": "Nephrotic syndrome"
+    },
+    "correct": "D",
+    "explanation": "(Hales, Yudofsky, Roberts, p 279.) Self-induced water intoxication should always be considered in the differential diagnosis of confusional states and seizures in schizophrenic patients. As many as 20% of patients with a diagnosis of schizophrenia drink excessive amounts of water. At least 4% of these patients suffer from chronic hyponatremia and recurrent acute water intoxication. Medications that cause excessive water retention, such as lithium and carbamazepine, can aggravate the symptomatology."
+  },
+  {
+    "id": "PT-PSYC-266",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 266,
+    "vignette": "A 23-year-old woman was diagnosed with schizophrenia after a single episode of psychosis (hallucinations and delusions) that lasted 7 months. She was started on a small dose of olanzapine at the time of diagnosis, which resulted in the disappearance of all her psychotic symptoms. She has now been symptom free for the past 3 years. Which of the following treatment changes should be made first?",
+    "options": {
+      "A": "Her olanzapine should be decreased and then stopped if she remains symptom free.",
+      "B": "Her olanzapine should be decreased, but not stopped.",
+      "C": "Her olanzapine should be maintained at a constant level, but she can stretch out the time between her appointments with the psychiatrist.",
+      "D": "Her diagnosis should be reexamined as she is likely not schizophrenic at all.",
+      "E": "Her olanzapine should be switched to a long-acting depot antipsychotic medication such as haloperidol decanoate."
+    },
+    "correct": "A",
+    "explanation": "(Kaplan and Sadock, p 319.) This patient has had one single episode of psychosis and has remained symptom free on her medication for over 3 years. Although there are no definitive recommendations in guidelines, such a patient may be discontinued from antipsychotic medication, although a gradual reduction in the medication first, along with more frequent visits to the psychiatrist during this time, should be implemented to minimize the risk of relapse. In addition, it 1s recommended that the patient and family be encouraged to develop early intervention strategies prior to medication discontinuation, should a relapse occur. Data suggest that 80% of patients who have had only one episode will relapse off medication within the following 5 years. Patient preference, risk of tardive dyskinesia, dystonia, and neuromuscular malignant syndrome must be considered when considering continuance of an antipsychotic."
+  },
+  {
+    "id": "PT-PSYC-268",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 268,
+    "vignette": "A 52-year-old man is seen by a psychiatrist in the emergency room because he is complaining about hearing and seeing miniature people who tell him to kill everyone in sight. He states that these symptoms developed suddenly during the past 48 hours, but that he has had them “on and off” for years. He states that he has never previously sought treatment for the symptoms, but that this episode is particularly bad. He denies the use of any illicit substances. The patient is alert and oriented to person, place, and time. His mental status examination is normal except for his auditory and visual hallucinations. His thought process is normal. His drug toxicology screen 1s positive for marijuana but no other substances. He is quite insistent that he needs to be “put away” in the hospital for the symptoms he is experiencing. Which of the following 1s the most likely diagnosis?",
+    "options": {
+      "A": "Substance/medication induced psychotic disorder Schizophrenia Schizoaffective disorder Schizophreniform disorder Malingering eaos"
+    },
+    "correct": "E",
+    "explanation": "(Kaplan and Sadock, pp 812-815.) This patient 1s probably malingering. It 1s quite likely that if he 1s admitted, he will be found to have some secondary-gain reason for wanting to be in the hospital (eg, to avoid the legal system). It is unlikely at his age that he would suddenly become ill with schizophreniform disorder, schizophrenia, or schizoaffective disorder. The rather simplistic description of hallucinations in an otherwise clear sensorium and the absence of a disordered thought process also arouse the suspicion of malingering. Although the patient does have marijuana in his system, its presence serves to highlight that this patient is being less than truthful rather than suggesting a substance-induced psychosis, since it 1s unlikely marijuana alone would cause such symptoms."
+  },
+  {
+    "id": "PT-PSYC-269",
+    "source": "PreTest Psychiatry 14th Ed",
+    "chapter": "Schizophrenia and Other Psychotic Disorders",
+    "domain": "psychosis",
+    "question_num": 269,
+    "vignette": "A 25-year-old man is brought to the physician after complaining about a visual hallucination of a transparent phantom of his own body. Which of the following specific syndromes is this patient most likely displaying?",
+    "options": {
+      "A": "Brief psychotic disorder Schizophreniform disorder Schizophrenia Schizoaffective disorder Major depressive disorder with psychotic features Schizoid personality disorder Schizotypal personality disorder wmonos"
+    },
+    "correct": "D",
+    "explanation": "(Kaplan and Sadock, pp 341-342.) Autoscopic psychosis has, as its main symptom, the visual hallucination of a transparent phantom of one’s own body. Capgras syndrome (delusion of doubles) is a fixed belief that familiar persons have been replaced by identical imposters who behave exactly like the original person. Lycanthropy is the delusion that the person is a werewolf or other animal. Cotard syndrome 1s the false perception of having lost everything, including money, status, strength, health, and internal organs. Folie a deux is a shared psychotic disorder in which one person develops psychotic symptoms similar to the ones a long- term partner has been experiencing. 270 to 276. The answers are 270-c, 271-a, 272-f, 273-g, 274-b, 275-d, 276-e. (Kaplan and Sadock, pp 302-346.) The young man in the first vignette in this series is suffering from schizophrenia. He has had a prodromal period lasting a year (longer than the 6 months of symptoms necessary for this diagnosis) with 1 week of frankly psychotic behavior (auditory hallucinations). The woman in the next question 1s suffering from a brief psychotic disorder. This disorder may occur in a patient with no previous prodromal symptoms and no prior history of psychotic behavior, after a severe trauma, such as occurred with this patient. Note that the age of this patient also makes it unlikely that this is a first break of schizophrenia. The 39-year-old man in the third vignette is suffering from a schizoid personality disorder. Note that he shows no evidence of psychosis, and shows up to the psychiatrist because he cannot handle the interpersonal interactions required of his new job. He was quite happy in his cubicle, working alone, with no friends. This is the hallmark of a schizoid personality disorder. The student in question 273 has a schizotypal personality disorder. Note the odd behavior, which is enough to cause his fellow graduate students to avoid him. There is no mention of a real psychosis, and it appears that this behavior has been life-long, making a personality disorder diagnosis appropriate. The 26-year-old woman in question 274 has a schizophreniform disorder. Note the frankly psychotic symptoms—that of the delusion of a TV beaming messages into her brain, and the auditory hallucinations of the messages themselves. In addition, her hygiene has gotten markedly poorer. All of this occurs within a 5-week time frame with no mention of a sudden stressor. If this behavior continues for 6 months, she would have to be rediagnosed as a schizophrenic. The man in question 275 has a schizoaffective disorder. Note that he has a combination of depressed mood and “odd” thinking. He has clear paranoid delusions. During a return visit to the emergency room, he also has evidence of psychotic symptoms but no mood symptoms, making this a diagnosis of schizoaffective disorder. The woman in the last vignette in this series has a major depressive disorder with psychotic features. Note the history of depressed symptoms occurring first, in the absence of psychotic symptoms, with psychotic symptoms developing secondarily as the depression worsens. Note also that this patient’s delusions are congruent with her mood —that is, they are of some very depressing content instead of being just frankly bizarre. Psychotherapies"
+  }
+]
